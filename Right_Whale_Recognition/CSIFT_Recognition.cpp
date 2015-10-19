@@ -6,7 +6,10 @@ void loadMat(Mat &mat_data, string str_inputfile);
 void CSIFT_Recognition::train(vector<string> &vec_inputFile)
 {
 	getSIFTDescriptor(vec_inputFile);
-	codebook_.getCodebook(vec_inputFile, NUM_WORDS,0);
+	codebook_.getCodebook(vec_inputFile, NUM_WORDS, 0);
+	codebook_.saveCodebook(CODEBOOK_FILE);
+	CCodebook tmp;
+	tmp.loadCodebook(CODEBOOK_FILE);
 }
 
 
@@ -27,6 +30,7 @@ void CSIFT_Recognition::getSIFTDescriptor(vector<string> &vec_inputFile)
 	
 		cout << "SIFT generating..." << endl;
 		CSIFTDescription description = SIFT_description(img_hist, 1);
+		description.normalizationDescription(SIFT_DESCRIPTION_TYPE);
 		cout << "SIFT generating complete" << endl;
 
 		cout << "SIFT saving..." << endl;

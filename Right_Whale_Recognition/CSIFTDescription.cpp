@@ -112,7 +112,7 @@ void CSIFTDescription::loadSIFTDescription(string fileName)
 
 	infileBin.close();
 
-	ofstream outfileTxt;
+	/*ofstream outfileTxt;
 	outfileTxt.open("description2.txt");
 	outfileTxt << num << endl;
 
@@ -136,8 +136,26 @@ void CSIFTDescription::loadSIFTDescription(string fileName)
 		outfileTxt << endl;
 	}
 
-	outfileTxt.close();
+	outfileTxt.close();*/
 }
+
+void CSIFTDescription::normalizationDescription(string type)
+{
+	if (type == "L1")
+	{
+		int row = mat_description_.rows;
+		int col = mat_description_.cols;
+		Mat ones = Mat::ones(col, 1, CV_32F);
+		Mat sums = mat_description_*ones;
+		for (int r = 0; r < row; r++)
+		{
+
+			for (int c = 0; c < col; c++)
+				mat_description_.at<float>(r, c) = mat_description_.at<float>(r, c) / sums.at<float>(r, 0);	
+		}
+	}
+}
+
 
 //void CSIFTDescription::set(vector<KeyPoint> KeyPoint_loc, vector<int> int_scalar, Mat mat_description)
 //{

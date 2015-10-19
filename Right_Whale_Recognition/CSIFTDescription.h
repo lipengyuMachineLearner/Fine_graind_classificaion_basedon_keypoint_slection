@@ -12,4 +12,5 @@ public:
 public:
 	void saveSIFTDescription(string fileName);
 	void loadSIFTDescription(string fileName);
+	void normalizationDescription(string type);
 };

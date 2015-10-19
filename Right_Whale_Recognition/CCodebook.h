@@ -12,9 +12,11 @@ public:
 	{ 
 		sign_intial_ = true; 
 		num_words_ = 0;
+		dimision_ = 0;
 	}
-	void getCodebook(vector<string> &vec_inputFile, int num_words, int iteration);
-
+	void getCodebook(vector<string> &vec_inputFile, int num_words, int iter_split);
+	void saveCodebook(string fileName);
+	void loadCodebook(string fileName);
 private:
 	bool sign_intial_;
 
