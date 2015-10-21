@@ -4,16 +4,13 @@
 #include <vector>
 #include "opencv.h"
 #include "CSIFTDescription.h"
+#include <fstream>
+using namespace std;
 
 class CCodebook
 {
 public:
-	CCodebook()
-	{ 
-		sign_intial_ = true; 
-		num_words_ = 0;
-		dimision_ = 0;
-	}
+	CCodebook();
 	void getCodebook(vector<string> &vec_inputFile, int num_words, int iter_split);
 	void saveCodebook(string fileName);
 	void loadCodebook(string fileName);
@@ -33,5 +30,9 @@ private:
 	void inputData(CSIFTDescription &data);
 	float updata(vector<string> &vec_inputFile);
 	bool splitCenter(vector<string> &vec_inputFile);
+	bool deleteCenter();
+
+private:
+	ofstream logfile;
 
 };

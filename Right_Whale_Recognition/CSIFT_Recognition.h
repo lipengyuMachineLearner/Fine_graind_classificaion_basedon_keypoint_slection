@@ -8,28 +8,25 @@
 #include "config.h"
 #include "CSIFTDescription.h"
 #include "CCodebook.h"
-
+#include "fstream"
 using namespace std;
 
 class CSIFT_Recognition
 {
 public:
-
+	CSIFT_Recognition();
 	void train(vector<string> &vec_inputFile) ; 
 	void test();
 	
 private:
 	CCodebook codebook_;
-
-private:
-	void getSIFTDescriptor(vector<string> &vec_inputFile);
-	CSIFTDescription SIFT_description(IplImage *img, int int_pyramidLayerNumber);
-
-private:
 	void getCodebook(vector<string> &vec_inputFile, int num_words);
-	
-	Mat SIFT_codebookGeneration(string str_SIFTDescriptorPath, int int_ClusterCenterNumber);
-	void loadSIFTDescription(string str_inputPath);
-	Mat forwardBackwardSlection();
+private:
+	CSIFTDescription SIFT_description(IplImage *img, int int_pyramidLayerNumber);
+	void getSIFTDescriptor(vector<string> &vec_inputFile);
+
+private:
+	ofstream logfile;
+	//Mat forwardBackwardSlection();
 };
 

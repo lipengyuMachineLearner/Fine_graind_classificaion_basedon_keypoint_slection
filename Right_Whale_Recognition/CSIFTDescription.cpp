@@ -43,31 +43,31 @@ void CSIFTDescription::saveSIFTDescription(string fileName)
 	outfileBin.close();
 
 
-	/*ofstream outfileTxt;
-	outfileTxt.open("description.txt");
-	outfileTxt << num << endl;
+	/*ofstream outfiletxt;
+	outfiletxt.open("description.txt");
+	outfiletxt << num << endl;
 
 	for (int i = 0; i < num; i++)
 	{
 		float x = KeyPoint_loc_[i].pt.x;
 		float y = KeyPoint_loc_[i].pt.y;
 
-		outfileTxt << x << "," << y << endl;
+		outfiletxt << x << "," << y << endl;
 	}
 
 	
-	outfileTxt << row << "," << col << endl;
+	outfiletxt << row << "," << col << endl;
 	for (int r = 0; r < row; r++)
 	{
 		for (int c = 0; c < col; c++)
 		{
 			float data = mat_description_.at<float>(r, c);
-			outfileTxt << data << ",";
+			outfiletxt << data << ",";
 		}
-		outfileTxt << endl;
+		outfiletxt << endl;
 	}
 
-	outfileTxt.close();*/
+	outfiletxt.close();*/
 }
 
 void CSIFTDescription::loadSIFTDescription(string fileName)

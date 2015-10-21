@@ -1,0 +1,6 @@
+SIFT descriptor getting & saving...
+SIFT generating...0 : 500
+SIFT generating complete0 : 500
+SIFT saving...0 : 500
+SIFT saving complete0 : 500
+SIFT generating...1 : 500

@@ -1,17 +1,38 @@
 #include "CCodebook.h"
 #include <time.h>
 #include "config.h"
-#include <fstream>
-using namespace std;
 
+
+
+
+CCodebook::CCodebook()
+{
+	sign_intial_ = true;
+	num_words_ = 0;
+	dimision_ = 0;
+
+	logfile.open("CCodebook_logfile.txt");
+}
 void CCodebook::getCodebook(vector<string> &vec_inputFile, int num_words, int iter_split)
 {
 	int num_file = vec_inputFile.size();
 
 	float cov = 0;
-	std::cout << iter_split << ":--------------------------------------------------------------------------------------" << std::endl;
+	std::cout << iter_split << "...:\n--------------------------------------------------------------------------------------" << std::endl;
+	logfile << iter_split << "...:\n--------------------------------------------------------------------------------------" << std::endl;
+
+	bool sign_num_sum = false;
+	bool sign_split = false;
+	float cov_pre = -1000000;
+
 	for (int iter = 0; iter < KMEANS_STOP_ITERATION; iter++)
 	{
+		sum_ = Mat::zeros(num_words_, dimision_, CV_32FC1);
+		num_sum_ = Mat::zeros(num_words_, 1, CV_32FC1);
+		cov_ = Mat::zeros(num_words_, 1, CV_32FC1);
+
+		sign_num_sum = false;
+		sign_split = false;
 		for (int file_i = 0; file_i < num_file; file_i++)
 		{
 			string::size_type pos1 = vec_inputFile[file_i].rfind("\\");
@@ -24,52 +45,144 @@ void CCodebook::getCodebook(vector<string> &vec_inputFile, int num_words, int it
 			if (dimision_ == 0)
 			{
 				dimision_ = description.mat_description_.cols;
-				codebookIntial(num_words, dimision_, 0.5/128, 1.5 / 128);
+				codebookIntial(num_words, dimision_, MIN_INTIAL, MAX_INTIAL);
 			}
 
 			if (dimision_ != description.mat_description_.cols)
 			{
 				std::cout << "(void CSIFT_Recognition::getCoodbook(vector<string> &vec_inputFile)) error in the dimision" << std::endl;
+				logfile << "(void CSIFT_Recognition::getCoodbook(vector<string> &vec_inputFile)) error in the dimision" << std::endl;
 				exit(0);
 			}
 			inputData(description);
 			description.saveSIFTDescription(SIFT_DESCRIPTION_PATH + "\\" + fileName);
 		}
 
-		std::cout << iter << ": ################################" << std::endl;
-		std::cout << "num_sum_ : ";
-		for (int w = 0; w < num_words_; w++)
-			std::cout << num_sum_.at<float>(w, 0) << ",";
-		std::cout << std::endl;
-	
-
+		cov_pre = cov;
 		cov = updata(vec_inputFile);
-		std::cout << "cov = " << cov << std::endl;
-		if (cov > KMEANS_STOP_THRESHOLD)
+
+		
+		if (cov < KMEANS_STOP_THRESHOLD)
 		{
-			sum_ = Mat(num_words_, dimision_, CV_32FC1) * 0;
-			num_sum_ = Mat(num_words_, 1, CV_32FC1) * 0;
-		}
-		else
-		{
-			bool sign = splitCenter(vec_inputFile);
-			if (sign)
+			cout << "cov < KMEANS_STOP_THRESHOLD : " << cov << "<" << KMEANS_STOP_THRESHOLD << " break iter" << endl;
+			logfile << "cov < KMEANS_STOP_THRESHOLD : " << cov << "<" << KMEANS_STOP_THRESHOLD << " break iter" << endl;
+
+			std::cout << "iter = " << iter << "; cov = " << cov << "; num_words_ = " << num_words_ << " : ";
+			logfile << "iter = " << iter << "; cov = " << cov << "; num_words_ = " << num_words_ << " : ";
+			int sum_point = 0;
+			for (int w = 0; w < num_words_; w++)
 			{
-				sum_ = Mat(num_words_, dimision_, CV_32FC1) * 0;
-				num_sum_ = Mat(num_words_, 1, CV_32FC1) * 0;
-				iter = 0;
+				logfile << num_sum_.at<float>(w, 0) << ",";
+				sum_point += num_sum_.at<float>(w, 0);
+				if (abs(num_sum_.at<float>(w, 0)) < 0.0000001)
+					sign_num_sum = true;
+			}
+			std::cout << std::endl;
+			logfile << std::endl;
+			cout << "sum_point = " << sum_point << endl;
+			logfile << "sum_point = " << sum_point << endl;
+
+			break;
+		}
+
+		if (num_words_ <= 1 && sign_split == false)
+		{ 
+			std::cout << "num_words_ <= 1 " << num_words_ << std::endl;
+			logfile << "num_words_ <= 1 " << num_words_ << std::endl;
+			bool signSplit = splitCenter(vec_inputFile);
+			if (signSplit == true)
+			{
+				/*sum_ = Mat::zeros(num_words_, dimision_, CV_32FC1);
+				num_sum_ = Mat::zeros(num_words_, 1, CV_32FC1);
+				cov_ = Mat::zeros(num_words_, 1, CV_32FC1);*/
+
+				std::cout << "splitCenter == true" << std::endl;
+				logfile << "splitCenter == true" << std::endl;
+				sign_split = true;
+			}
+			else
+			{
+				std::cout << "splitCenter == false" << std::endl;
+				logfile << "splitCenter == false" << std::endl;
+				break;
 			}
 		}
+
+		int sum_point = 0;
+		std::cout << "iter = " << iter << "; cov = " << cov << "; num_words_ = " << num_words_ << " : ";
+		logfile << "iter = " << iter << "; cov = " << cov << "; num_words_ = " << num_words_ << " : ";
+		for (int w = 0; w < num_words_; w++)
+		{
+			logfile << num_sum_.at<float>(w, 0) << ",";
+			sum_point += num_sum_.at<float>(w, 0);
+			if (abs(num_sum_.at<float>(w, 0)) < 0.0000001)
+				sign_num_sum = true;
+		}
+		std::cout << std::endl;
+		logfile << std::endl;
+		cout << "sum_point = " << sum_point << endl;
+		logfile << "sum_point = " << sum_point << endl;
+
+		if (sign_num_sum && sign_split == false)
+		{
+			bool signDel = deleteCenter();
+			//bool signSplit = splitCenter(vec_inputFile);
+			if (signDel)
+			{
+				/*sum_ = Mat::zeros(num_words_, dimision_, CV_32FC1);
+				num_sum_ = Mat::zeros(num_words_, 1, CV_32FC1);
+				cov_ = Mat::zeros(num_words_, 1, CV_32FC1);*/
+				logfile << "deleteCenter == true" << endl;
+				sign_split = true;
+				continue;
+			}
+		}
+
+		if (abs(cov - cov_pre) < KMEANS_STOP_THRESHOLD / 1000 && sign_num_sum == false)
+		{
+			std::cout << "abs(cov - cov_pre) < KMEANS_STOP_THRESHOLD / 1000 && sign_num_sum == false" << abs(cov - cov_pre) << " < " << KMEANS_STOP_THRESHOLD / 1000 << ", sign_num_sum = " << sign_num_sum <<", num_words_ : " << num_words_ << " , break " << std::endl;
+			logfile << "abs(cov - cov_pre) < KMEANS_STOP_THRESHOLD / 1000 && sign_num_sum == false" << abs(cov - cov_pre) << " < " << KMEANS_STOP_THRESHOLD / 1000 << ", sign_num_sum = " << sign_num_sum << ", num_words_ : " << num_words_ << " , break " << std::endl;
+			break;
+		}
 	}
 
-	bool sign = splitCenter(vec_inputFile);
-	if (sign && iter_split < SPLIT_STOP_ITERATION)
+	/*std::cout << "codebook : ";
+	for (int w = 0; w < num_words_; w++)
 	{
-		sum_ = Mat(num_words_, dimision_, CV_32FC1) * 0;
-		num_sum_ = Mat(num_words_, 1, CV_32FC1) * 0;
-		getCodebook(vec_inputFile, num_words_, iter_split + 1);
+		for (int d = 0; d < dimision_; d++)
+			std::cout << w << " : " << codebook_[w].at<float>(0, d) << ",";
+		std::cout << std::endl;
+	}*/
+
+	std::cout <<iter_split << "complete\n--------------------------------------------------------------------------------------" << std::endl;
+	std::cout << "cov = " << cov << std::endl;
+	std::cout << "num_words_ = " << num_words_ << endl;
+
+	logfile << iter_split << "complete\n--------------------------------------------------------------------------------------" << std::endl;
+	logfile << "cov = " << cov << std::endl;
+	logfile << "num_words_ = " << num_words_ << endl;
+
+	bool signSplit = splitCenter(vec_inputFile);
+	if (signSplit)
+	{
+		sum_ = Mat::zeros(num_words_, dimision_, CV_32FC1);
+		num_sum_ = Mat::zeros(num_words_, 1, CV_32FC1);
+		cov_ = Mat::zeros(num_words_, 1, CV_32FC1);
+		cout << "splitCenter=" << signSplit << iter_split << endl;
+		logfile << "splitCenter=" << signSplit << iter_split << endl;
+
+		if (iter_split < SPLIT_STOP_ITERATION)
+			getCodebook(vec_inputFile, num_words_, iter_split + 1);
+	}
+	else
+	{
+		cout << "do not need to split center" << endl;
+		logfile << "do not need to split center" << endl;
 	}
 }
+
+
+
 
 void CCodebook::codebookIntial(int num_words, int dimision, float min, float max)
 {
@@ -87,16 +200,24 @@ void CCodebook::codebookIntial(int num_words, int dimision, float min, float max
 		for (int i = 0; i < dimision_; i++)
 		{
 			float data = ((float)rand()) / RAND_MAX *(max - min) + min;
+		
 			words.at<float>(0, i) = data;
 		}
 
 		codebook_.push_back(words);
 	}
 
-	sum_ = Mat(num_words_, dimision_, CV_32FC1) * 0;
-	num_sum_ = Mat(num_words_, 1, CV_32FC1) * 0;
+	sum_ = Mat::zeros(num_words_, dimision_, CV_32FC1);
+	num_sum_ = Mat::zeros(num_words_, 1, CV_32FC1);
+	cov_ = Mat::zeros(num_words_, 1, CV_32FC1);
 
 	sign_intial_ = false;
+
+	/*cout << "-----------------------------------------------" << endl;
+	for (int r = 0; r < num_words_; r++)
+		for (int c = 0; c < dimision_; c++)
+			cout << sum_.at<float>(0, c) << ",";
+	cout << endl;*/
 }
 
 void CCodebook::inputData(CSIFTDescription &data)
@@ -118,24 +239,35 @@ void CCodebook::inputData(CSIFTDescription &data)
 				min_distance = distance;
 				min_index = w;
 			}
+
 		}
 
 		data.indexCodebook_[r] = min_index;
 		sum_.row(min_index) = sum_.row(min_index) + mat_row;
 		num_sum_.at<float>(min_index, 0) += 1;
+
+		/*for (int j = 0; j < dimision_; j++)
+			std::cout << sum_.at<float>(r, j) << " , ";
+		std::cout << std::endl << "###################################" << std::endl;*/
 	}
+
+	/*cout << "-----------------------------------------------" << endl;
+	for (int r = 0; r < num_words_; r++)
+		for (int c = 0; c < dimision_; c++)
+			cout << sum_.at<float>(r, c) << ",";
+	cout << endl;*/
 }
 
 float CCodebook::updata(vector<string> &vec_inputFile)
 {
 	for (int i = 0; i < num_words_; i++)
 	{
-		if (abs(num_sum_.at<float>(i, 0) != 0) < 0.01)
-			codebook_[i] = sum_.row(i) * 0;
+		if (abs(num_sum_.at<float>(i, 0)) < 1)
+			codebook_[i] = sum_.row(i) *0;
 		else
-			codebook_[i] = sum_.row(i) * (1.0 / num_sum_.at<float>(i, 0));
+			codebook_[i] = sum_.row(i) *(1.0 / num_sum_.at<float>(i, 0));
 
-	/*	for (int j = 0; j < dimision_; j++)
+		/*for (int j = 0; j < dimision_; j++)
 			std::cout << codebook_[i].at<float>(0, j) << " , ";
 		std::cout << std::endl << "###################################" << std::endl;*/
 	}
@@ -144,7 +276,7 @@ float CCodebook::updata(vector<string> &vec_inputFile)
 	int num_file = vec_inputFile.size();
 	float sum = 0;
 	int num = 0;
-	cov_ = Mat(num_words_, 1, CV_32FC1) * 0;
+	cov_ = Mat::zeros(num_words_, 1, CV_32FC1);
 
 	for (int file_i = 0; file_i < num_file; file_i++)
 	{
@@ -178,15 +310,17 @@ float CCodebook::updata(vector<string> &vec_inputFile)
 bool CCodebook::splitCenter(vector<string> &vec_inputFile)
 {
 	bool result = false;
+	vector<int> index_del;
+
 	for (int n = 0; n < num_words_; n++)
 	{
-		if (cov_.at<float>(n, 0) > SPLIT_THRESHOLD)
+		if (cov_.at<float>(n, 0) > SPLIT_THRESHOLD && abs(num_sum_.at<float>(n, 0)) > 0.00001)
 		{
 			Mat words_new = Mat(1, dimision_, CV_32FC1);
 			srand((int)time(0));
 			for (int i = 0; i < dimision_; i++)
 			{
-				float data = ((float)rand()) / RAND_MAX * sqrt(cov_.at<float>(n, 0)) * 1.0 / dimision_;
+				float data = ((float)rand()) / RAND_MAX * sqrt(cov_.at<float>(n, 0)) * 1.0 / dimision_ * 0.1;
 				codebook_[n].at<float>(0, i) = codebook_[n].at<float>(0, i) + data;
 				words_new.at<float>(0, i) = codebook_[n].at<float>(0, i) - data;
 			}
@@ -194,9 +328,42 @@ bool CCodebook::splitCenter(vector<string> &vec_inputFile)
 			codebook_.push_back(words_new);
 			result = true;
 		}
+
+		if (abs(num_sum_.at<float>(n, 0)) < 0.00001)
+		{
+			index_del.push_back(n);
+			result = true;
+		}
+	}
+
+	for (int i = index_del.size() - 1; i >= 0; i--)
+	{
+		result = true;
+		codebook_.erase(codebook_.begin() + i);
 	}
 
 	num_words_ = codebook_.size();
+
+	return result;
+}
+
+bool CCodebook::deleteCenter()
+{
+	bool result = false;
+	vector<int> index_del;
+	for (int n = 0; n < num_words_; n++)
+	{
+		if (abs(num_sum_.at<float>(n, 0)) < 0.00001)
+			index_del.push_back(n);
+	}
+
+	for (int i = index_del.size() - 1; i >= 0; i--)
+	{
+		result = true;
+		codebook_.erase(codebook_.begin() + i);
+	}
+	num_words_ = codebook_.size();
+
 	return result;
 }
 
