@@ -16,13 +16,13 @@ class CSIFT_Recognition
 public:
 	CSIFT_Recognition();
 	void train(vector<string> &vec_inputFile) ; 
-	void test();
+	void keyPoint2Image(vector<string> &vec_inputFile);
+	void test(vector<string> &vec_inputFile);
 	
 private:
 	CCodebook codebook_;
-	void getCodebook(vector<string> &vec_inputFile, int num_words);
+	/*void getCodebook(vector<string> &vec_inputFile, int num_words);*/
 private:
-	CSIFTDescription SIFT_description(IplImage *img, int int_pyramidLayerNumber);
 	void getSIFTDescriptor(vector<string> &vec_inputFile);
 
 private:

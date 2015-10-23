@@ -14,14 +14,17 @@ void main()
 {
 	CSIFT_Recognition recognition;
 	vector<string> vec_inputFile;
-	//vec_inputFile.push_back("D:\\kaggle\\Right_Whale_Recognition\\data\\test.PNG");
-	//vec_inputFile.push_back("D:\\kaggle\\Right_Whale_Recognition\\data\\test2.PNG");
+
+	//vec_inputFile.push_back("D:\\kaggle\\Right_Whale_Recognition\\data\\w_0_0.jpg");
+	//vec_inputFile.push_back("D:\\kaggle\\Right_Whale_Recognition\\data\\w_0.jpg");
 	string rootPath = "D:\\kaggle\\Right_Whale_Recognition\\data\\imgs_subset";
 	string format = "*.jpg";
 	int num = getFiles(rootPath, format, vec_inputFile);
 	cout << "there are " << num << "files in the rootPath" << endl;
 	checkConfig();
-	recognition.train(vec_inputFile);
+	//recognition.train(vec_inputFile);
+	recognition.test(vec_inputFile);
+	recognition.keyPoint2Image(vec_inputFile);
 
 	/*CSIFTDescription des1, des2, des3;
 	Mat mat1 = Mat(100, 2, CV_32FC1);

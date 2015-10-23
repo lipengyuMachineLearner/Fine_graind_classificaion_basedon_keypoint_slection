@@ -1,6 +1,22 @@
 #include "CSIFTDescription.h"
 #include "fstream"
 using namespace std;
+
+
+void CSIFTDescription::GetSIFT_description(IplImage *img, int sign_pyramid)
+{
+
+	//cout << "SIFT Point detecting..." << endl;
+
+	SiftFeatureDetector detector;
+	detector.detect(img, KeyPoint_loc_);
+	//cout << "SIFT Point detecting complete : " << description.KeyPoint_loc_.size() << endl;
+
+	//cout << "SIFT description generating..." << endl;
+	SiftDescriptorExtractor extractor;
+	extractor.compute(img, KeyPoint_loc_, mat_description_);
+	//cout << "SIFT description generating complete" << endl;
+}
 void CSIFTDescription::saveSIFTDescription(string fileName)
 {
 	

@@ -14,6 +14,7 @@ public:
 	void getCodebook(vector<string> &vec_inputFile, int num_words, int iter_split);
 	void saveCodebook(string fileName);
 	void loadCodebook(string fileName);
+	void matchCodebook(vector<string> &vec_inputFile);
 private:
 	bool sign_intial_;
 
@@ -26,7 +27,7 @@ private:
 	Mat num_sum_;
 
 private:
-	void codebookIntial(int num_words, int dimision, float min, float max);
+	void codebookIntial(int num_words, int dimision, float min, float max, CSIFTDescription &data);
 	void inputData(CSIFTDescription &data);
 	float updata(vector<string> &vec_inputFile);
 	bool splitCenter(vector<string> &vec_inputFile);

@@ -13,4 +13,5 @@ public:
 	void saveSIFTDescription(string fileName);
 	void loadSIFTDescription(string fileName);
 	void normalizationDescription(string type);
+	void GetSIFT_description(IplImage *img, int sign_pyramid);
 };
