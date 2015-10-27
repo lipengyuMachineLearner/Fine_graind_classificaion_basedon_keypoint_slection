@@ -10,6 +10,10 @@ const float MIN_INTIAL = 1/128*0;
 const float MAX_INTIAL = 1/128*1;
 const string CODEBOOK_FILE = "codebook.bin";
 
+const int DENSESAMPLE_STRIDE = 0;
+const float	DESTRIPTION_WEIGHT[] = { 1, 2 };
+const int NUM_SCALAR = 1;
+const int const SCALAR[NUM_SCALAR] = { 1};
 const string SIFT_DESCRIPTION_PATH = "D:\\kaggle\\Right_Whale_Recognition\\data\\sift_description";
 const string SIFT_DESCRIPTION_TYPE = "L1";
 const string SIFT_IMAGE_PATH = "D:\\kaggle\\Right_Whale_Recognition\\data\\imgs_sift";

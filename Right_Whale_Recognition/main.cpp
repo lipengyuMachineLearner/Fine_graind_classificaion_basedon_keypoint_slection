@@ -22,7 +22,7 @@ void main()
 	int num = getFiles(rootPath, format, vec_inputFile);
 	cout << "there are " << num << "files in the rootPath" << endl;
 	checkConfig();
-	//recognition.train(vec_inputFile);
+	recognition.train(vec_inputFile);
 	recognition.test(vec_inputFile);
 	recognition.keyPoint2Image(vec_inputFile);
 
@@ -65,11 +65,11 @@ void main()
 		loc3.push_back(tmp);
 	}
 
-	mat1.copyTo(des1.mat_description_);
+	mat1.copyTo(des1.mat_SIFT_description_);
 	des1.KeyPoint_loc_ = loc1;
-	mat2.copyTo(des2.mat_description_);
+	mat2.copyTo(des2.mat_SIFT_description_);
 	des2.KeyPoint_loc_ = loc2;
-	mat3.copyTo(des3.mat_description_);
+	mat3.copyTo(des3.mat_SIFT_description_);
 	des3.KeyPoint_loc_ = loc3;
 
 	des1.saveSIFTDescription(SIFT_DESCRIPTION_PATH+"\\"+"des1.bin");

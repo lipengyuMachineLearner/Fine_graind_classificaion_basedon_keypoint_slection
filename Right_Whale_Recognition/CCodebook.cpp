@@ -44,11 +44,11 @@ void CCodebook::getCodebook(vector<string> &vec_inputFile, int num_words, int it
 
 			if (dimision_ == 0)
 			{
-				dimision_ = description.mat_description_.cols;
+				dimision_ = description.mat_SIFT_description_.cols;
 				codebookIntial(num_words, dimision_, MIN_INTIAL, MAX_INTIAL, description);
 			}
 
-			if (dimision_ != description.mat_description_.cols)
+			if (dimision_ != description.mat_SIFT_description_.cols)
 			{
 				std::cout << "(void CSIFT_Recognition::getCoodbook(vector<string> &vec_inputFile)) error in the dimision" << std::endl;
 				logfile << "(void CSIFT_Recognition::getCoodbook(vector<string> &vec_inputFile)) error in the dimision" << std::endl;
@@ -194,7 +194,7 @@ void CCodebook::codebookIntial(int num_words, int dimision, float min, float max
 	srand((int)time(0));
 
 	vector<int> index;
-	int row = data.mat_description_.rows;
+	int row = data.mat_SIFT_description_.rows;
 	for (int i = 0; i < row; i++)
 		index.push_back(i);
 	random_shuffle(index.begin(), index.end());
@@ -205,7 +205,7 @@ void CCodebook::codebookIntial(int num_words, int dimision, float min, float max
 	{
 		Mat words = Mat(1, dimision_, CV_32FC1);
 
-		data.mat_description_.row(index[i]).copyTo(words);
+		data.mat_SIFT_description_.row(index[i]).copyTo(words);
 		
 		codebook_.push_back(words);
 	}
@@ -239,7 +239,7 @@ void CCodebook::codebookIntial(int num_words, int dimision, float min, float max
 
 void CCodebook::inputData(CSIFTDescription &data)
 {
-	Mat description = data.mat_description_;
+	Mat description = data.mat_SIFT_description_;
 
 	int num_data = description.rows;
 
@@ -304,10 +304,10 @@ float CCodebook::updata(vector<string> &vec_inputFile)
 		CSIFTDescription description;
 		description.loadSIFTDescription(SIFT_DESCRIPTION_PATH + "\\" + fileName);
 
-		int rows = description.mat_description_.rows;
+		int rows = description.mat_SIFT_description_.rows;
 		for (int r = 0; r < rows; r++)
 		{
-			Mat mat_row = description.mat_description_.row(r);
+			Mat mat_row = description.mat_SIFT_description_.row(r);
 
 			int index = description.indexCodebook_[r];
 
@@ -480,10 +480,10 @@ void CCodebook::matchCodebook(vector<string> &vec_inputFile)
 
 		if (dimision_ == 0)
 		{
-			dimision_ = description.mat_description_.cols;
+			dimision_ = description.mat_SIFT_description_.cols;
 		}
 
-		if (dimision_ != description.mat_description_.cols)
+		if (dimision_ != description.mat_SIFT_description_.cols)
 		{
 			std::cout << "(void CSIFT_Recognition::getCoodbook(vector<string> &vec_inputFile)) error in the dimision" << std::endl;
 			logfile << "(void CSIFT_Recognition::getCoodbook(vector<string> &vec_inputFile)) error in the dimision" << std::endl;
@@ -493,7 +493,7 @@ void CCodebook::matchCodebook(vector<string> &vec_inputFile)
 		if (file_i % 100 == 0)
 			cout << "matchCodebook..." << file_i << " : " << num_file << endl;
 		logfile << "matchCodebook..." << file_i << " : " << num_file << endl;
-		Mat mat_description = description.mat_description_;
+		Mat mat_description = description.mat_SIFT_description_;
 
 		int num_data = mat_description.rows;
 
