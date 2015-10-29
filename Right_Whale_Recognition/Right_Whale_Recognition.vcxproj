@@ -158,6 +158,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CCodebook.h" />
+    <ClInclude Include="CDescription.h" />
+    <ClInclude Include="CHoCDescription.h" />
+    <ClInclude Include="CHocDescriptorExtractor.h" />
     <ClInclude Include="config.h" />
     <ClInclude Include="CSIFTDescription.h" />
     <ClInclude Include="opencv.h" />
@@ -165,6 +168,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CCodebook.cpp" />
+    <ClCompile Include="CHoCDescription.cpp" />
+    <ClCompile Include="CHocDescriptorExtractor.cpp" />
     <ClCompile Include="CSIFTDescription.cpp" />
     <ClCompile Include="CSIFT_Recognition.cpp" />
     <ClCompile Include="getFiles.cpp" />

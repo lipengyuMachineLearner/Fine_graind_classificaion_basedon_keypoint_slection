@@ -8,6 +8,9 @@ int getFiles(string rootPath, string format, vector<string> &files);
 void checkConfig()
 {
 	cheackPath(SIFT_DESCRIPTION_PATH);
+	cheackPath(HoC_DESCRIPTION_PATH);
+	cheackPath(SIFT_IMAGE_PATH);
+	cheackPath(HOC_IMAGE_PATH);
 }
 
 void main()
@@ -23,8 +26,8 @@ void main()
 	cout << "there are " << num << "files in the rootPath" << endl;
 	checkConfig();
 	recognition.train(vec_inputFile);
-	recognition.test(vec_inputFile);
-	recognition.keyPoint2Image(vec_inputFile);
+	//recognition.test(vec_inputFile);
+	recognition.keyPoint2Image(vec_inputFile, HoC_DESCRIPTION_PATH, HOC_IMAGE_PATH);
 
 	/*CSIFTDescription des1, des2, des3;
 	Mat mat1 = Mat(100, 2, CV_32FC1);

@@ -1,1000 +1,4003 @@
-SIFT loading...0 : 500
-SIFT loading complete0 : 500
-SIFT loading...1 : 500
-SIFT loading complete1 : 500
-SIFT loading...2 : 500
-SIFT loading complete2 : 500
-SIFT loading...3 : 500
-SIFT loading complete3 : 500
-SIFT loading...4 : 500
-SIFT loading complete4 : 500
-SIFT loading...5 : 500
-SIFT loading complete5 : 500
-SIFT loading...6 : 500
-SIFT loading complete6 : 500
-SIFT loading...7 : 500
-SIFT loading complete7 : 500
-SIFT loading...8 : 500
-SIFT loading complete8 : 500
-SIFT loading...9 : 500
-SIFT loading complete9 : 500
-SIFT loading...10 : 500
-SIFT loading complete10 : 500
-SIFT loading...11 : 500
-SIFT loading complete11 : 500
-SIFT loading...12 : 500
-SIFT loading complete12 : 500
-SIFT loading...13 : 500
-SIFT loading complete13 : 500
-SIFT loading...14 : 500
-SIFT loading complete14 : 500
-SIFT loading...15 : 500
-SIFT loading complete15 : 500
-SIFT loading...16 : 500
-SIFT loading complete16 : 500
-SIFT loading...17 : 500
-SIFT loading complete17 : 500
-SIFT loading...18 : 500
-SIFT loading complete18 : 500
-SIFT loading...19 : 500
-SIFT loading complete19 : 500
-SIFT loading...20 : 500
-SIFT loading complete20 : 500
-SIFT loading...21 : 500
-SIFT loading complete21 : 500
-SIFT loading...22 : 500
-SIFT loading complete22 : 500
-SIFT loading...23 : 500
-SIFT loading complete23 : 500
-SIFT loading...24 : 500
-SIFT loading complete24 : 500
-SIFT loading...25 : 500
-SIFT loading complete25 : 500
-SIFT loading...26 : 500
-SIFT loading complete26 : 500
-SIFT loading...27 : 500
-SIFT loading complete27 : 500
-SIFT loading...28 : 500
-SIFT loading complete28 : 500
-SIFT loading...29 : 500
-SIFT loading complete29 : 500
-SIFT loading...30 : 500
-SIFT loading complete30 : 500
-SIFT loading...31 : 500
-SIFT loading complete31 : 500
-SIFT loading...32 : 500
-SIFT loading complete32 : 500
-SIFT loading...33 : 500
-SIFT loading complete33 : 500
-SIFT loading...34 : 500
-SIFT loading complete34 : 500
-SIFT loading...35 : 500
-SIFT loading complete35 : 500
-SIFT loading...36 : 500
-SIFT loading complete36 : 500
-SIFT loading...37 : 500
-SIFT loading complete37 : 500
-SIFT loading...38 : 500
-SIFT loading complete38 : 500
-SIFT loading...39 : 500
-SIFT loading complete39 : 500
-SIFT loading...40 : 500
-SIFT loading complete40 : 500
-SIFT loading...41 : 500
-SIFT loading complete41 : 500
-SIFT loading...42 : 500
-SIFT loading complete42 : 500
-SIFT loading...43 : 500
-SIFT loading complete43 : 500
-SIFT loading...44 : 500
-SIFT loading complete44 : 500
-SIFT loading...45 : 500
-SIFT loading complete45 : 500
-SIFT loading...46 : 500
-SIFT loading complete46 : 500
-SIFT loading...47 : 500
-SIFT loading complete47 : 500
-SIFT loading...48 : 500
-SIFT loading complete48 : 500
-SIFT loading...49 : 500
-SIFT loading complete49 : 500
-SIFT loading...50 : 500
-SIFT loading complete50 : 500
-SIFT loading...51 : 500
-SIFT loading complete51 : 500
-SIFT loading...52 : 500
-SIFT loading complete52 : 500
-SIFT loading...53 : 500
-SIFT loading complete53 : 500
-SIFT loading...54 : 500
-SIFT loading complete54 : 500
-SIFT loading...55 : 500
-SIFT loading complete55 : 500
-SIFT loading...56 : 500
-SIFT loading complete56 : 500
-SIFT loading...57 : 500
-SIFT loading complete57 : 500
-SIFT loading...58 : 500
-SIFT loading complete58 : 500
-SIFT loading...59 : 500
-SIFT loading complete59 : 500
-SIFT loading...60 : 500
-SIFT loading complete60 : 500
-SIFT loading...61 : 500
-SIFT loading complete61 : 500
-SIFT loading...62 : 500
-SIFT loading complete62 : 500
-SIFT loading...63 : 500
-SIFT loading complete63 : 500
-SIFT loading...64 : 500
-SIFT loading complete64 : 500
-SIFT loading...65 : 500
-SIFT loading complete65 : 500
-SIFT loading...66 : 500
-SIFT loading complete66 : 500
-SIFT loading...67 : 500
-SIFT loading complete67 : 500
-SIFT loading...68 : 500
-SIFT loading complete68 : 500
-SIFT loading...69 : 500
-SIFT loading complete69 : 500
-SIFT loading...70 : 500
-SIFT loading complete70 : 500
-SIFT loading...71 : 500
-SIFT loading complete71 : 500
-SIFT loading...72 : 500
-SIFT loading complete72 : 500
-SIFT loading...73 : 500
-SIFT loading complete73 : 500
-SIFT loading...74 : 500
-SIFT loading complete74 : 500
-SIFT loading...75 : 500
-SIFT loading complete75 : 500
-SIFT loading...76 : 500
-SIFT loading complete76 : 500
-SIFT loading...77 : 500
-SIFT loading complete77 : 500
-SIFT loading...78 : 500
-SIFT loading complete78 : 500
-SIFT loading...79 : 500
-SIFT loading complete79 : 500
-SIFT loading...80 : 500
-SIFT loading complete80 : 500
-SIFT loading...81 : 500
-SIFT loading complete81 : 500
-SIFT loading...82 : 500
-SIFT loading complete82 : 500
-SIFT loading...83 : 500
-SIFT loading complete83 : 500
-SIFT loading...84 : 500
-SIFT loading complete84 : 500
-SIFT loading...85 : 500
-SIFT loading complete85 : 500
-SIFT loading...86 : 500
-SIFT loading complete86 : 500
-SIFT loading...87 : 500
-SIFT loading complete87 : 500
-SIFT loading...88 : 500
-SIFT loading complete88 : 500
-SIFT loading...89 : 500
-SIFT loading complete89 : 500
-SIFT loading...90 : 500
-SIFT loading complete90 : 500
-SIFT loading...91 : 500
-SIFT loading complete91 : 500
-SIFT loading...92 : 500
-SIFT loading complete92 : 500
-SIFT loading...93 : 500
-SIFT loading complete93 : 500
-SIFT loading...94 : 500
-SIFT loading complete94 : 500
-SIFT loading...95 : 500
-SIFT loading complete95 : 500
-SIFT loading...96 : 500
-SIFT loading complete96 : 500
-SIFT loading...97 : 500
-SIFT loading complete97 : 500
-SIFT loading...98 : 500
-SIFT loading complete98 : 500
-SIFT loading...99 : 500
-SIFT loading complete99 : 500
-SIFT loading...100 : 500
-SIFT loading complete100 : 500
-SIFT loading...101 : 500
-SIFT loading complete101 : 500
-SIFT loading...102 : 500
-SIFT loading complete102 : 500
-SIFT loading...103 : 500
-SIFT loading complete103 : 500
-SIFT loading...104 : 500
-SIFT loading complete104 : 500
-SIFT loading...105 : 500
-SIFT loading complete105 : 500
-SIFT loading...106 : 500
-SIFT loading complete106 : 500
-SIFT loading...107 : 500
-SIFT loading complete107 : 500
-SIFT loading...108 : 500
-SIFT loading complete108 : 500
-SIFT loading...109 : 500
-SIFT loading complete109 : 500
-SIFT loading...110 : 500
-SIFT loading complete110 : 500
-SIFT loading...111 : 500
-SIFT loading complete111 : 500
-SIFT loading...112 : 500
-SIFT loading complete112 : 500
-SIFT loading...113 : 500
-SIFT loading complete113 : 500
-SIFT loading...114 : 500
-SIFT loading complete114 : 500
-SIFT loading...115 : 500
-SIFT loading complete115 : 500
-SIFT loading...116 : 500
-SIFT loading complete116 : 500
-SIFT loading...117 : 500
-SIFT loading complete117 : 500
-SIFT loading...118 : 500
-SIFT loading complete118 : 500
-SIFT loading...119 : 500
-SIFT loading complete119 : 500
-SIFT loading...120 : 500
-SIFT loading complete120 : 500
-SIFT loading...121 : 500
-SIFT loading complete121 : 500
-SIFT loading...122 : 500
-SIFT loading complete122 : 500
-SIFT loading...123 : 500
-SIFT loading complete123 : 500
-SIFT loading...124 : 500
-SIFT loading complete124 : 500
-SIFT loading...125 : 500
-SIFT loading complete125 : 500
-SIFT loading...126 : 500
-SIFT loading complete126 : 500
-SIFT loading...127 : 500
-SIFT loading complete127 : 500
-SIFT loading...128 : 500
-SIFT loading complete128 : 500
-SIFT loading...129 : 500
-SIFT loading complete129 : 500
-SIFT loading...130 : 500
-SIFT loading complete130 : 500
-SIFT loading...131 : 500
-SIFT loading complete131 : 500
-SIFT loading...132 : 500
-SIFT loading complete132 : 500
-SIFT loading...133 : 500
-SIFT loading complete133 : 500
-SIFT loading...134 : 500
-SIFT loading complete134 : 500
-SIFT loading...135 : 500
-SIFT loading complete135 : 500
-SIFT loading...136 : 500
-SIFT loading complete136 : 500
-SIFT loading...137 : 500
-SIFT loading complete137 : 500
-SIFT loading...138 : 500
-SIFT loading complete138 : 500
-SIFT loading...139 : 500
-SIFT loading complete139 : 500
-SIFT loading...140 : 500
-SIFT loading complete140 : 500
-SIFT loading...141 : 500
-SIFT loading complete141 : 500
-SIFT loading...142 : 500
-SIFT loading complete142 : 500
-SIFT loading...143 : 500
-SIFT loading complete143 : 500
-SIFT loading...144 : 500
-SIFT loading complete144 : 500
-SIFT loading...145 : 500
-SIFT loading complete145 : 500
-SIFT loading...146 : 500
-SIFT loading complete146 : 500
-SIFT loading...147 : 500
-SIFT loading complete147 : 500
-SIFT loading...148 : 500
-SIFT loading complete148 : 500
-SIFT loading...149 : 500
-SIFT loading complete149 : 500
-SIFT loading...150 : 500
-SIFT loading complete150 : 500
-SIFT loading...151 : 500
-SIFT loading complete151 : 500
-SIFT loading...152 : 500
-SIFT loading complete152 : 500
-SIFT loading...153 : 500
-SIFT loading complete153 : 500
-SIFT loading...154 : 500
-SIFT loading complete154 : 500
-SIFT loading...155 : 500
-SIFT loading complete155 : 500
-SIFT loading...156 : 500
-SIFT loading complete156 : 500
-SIFT loading...157 : 500
-SIFT loading complete157 : 500
-SIFT loading...158 : 500
-SIFT loading complete158 : 500
-SIFT loading...159 : 500
-SIFT loading complete159 : 500
-SIFT loading...160 : 500
-SIFT loading complete160 : 500
-SIFT loading...161 : 500
-SIFT loading complete161 : 500
-SIFT loading...162 : 500
-SIFT loading complete162 : 500
-SIFT loading...163 : 500
-SIFT loading complete163 : 500
-SIFT loading...164 : 500
-SIFT loading complete164 : 500
-SIFT loading...165 : 500
-SIFT loading complete165 : 500
-SIFT loading...166 : 500
-SIFT loading complete166 : 500
-SIFT loading...167 : 500
-SIFT loading complete167 : 500
-SIFT loading...168 : 500
-SIFT loading complete168 : 500
-SIFT loading...169 : 500
-SIFT loading complete169 : 500
-SIFT loading...170 : 500
-SIFT loading complete170 : 500
-SIFT loading...171 : 500
-SIFT loading complete171 : 500
-SIFT loading...172 : 500
-SIFT loading complete172 : 500
-SIFT loading...173 : 500
-SIFT loading complete173 : 500
-SIFT loading...174 : 500
-SIFT loading complete174 : 500
-SIFT loading...175 : 500
-SIFT loading complete175 : 500
-SIFT loading...176 : 500
-SIFT loading complete176 : 500
-SIFT loading...177 : 500
-SIFT loading complete177 : 500
-SIFT loading...178 : 500
-SIFT loading complete178 : 500
-SIFT loading...179 : 500
-SIFT loading complete179 : 500
-SIFT loading...180 : 500
-SIFT loading complete180 : 500
-SIFT loading...181 : 500
-SIFT loading complete181 : 500
-SIFT loading...182 : 500
-SIFT loading complete182 : 500
-SIFT loading...183 : 500
-SIFT loading complete183 : 500
-SIFT loading...184 : 500
-SIFT loading complete184 : 500
-SIFT loading...185 : 500
-SIFT loading complete185 : 500
-SIFT loading...186 : 500
-SIFT loading complete186 : 500
-SIFT loading...187 : 500
-SIFT loading complete187 : 500
-SIFT loading...188 : 500
-SIFT loading complete188 : 500
-SIFT loading...189 : 500
-SIFT loading complete189 : 500
-SIFT loading...190 : 500
-SIFT loading complete190 : 500
-SIFT loading...191 : 500
-SIFT loading complete191 : 500
-SIFT loading...192 : 500
-SIFT loading complete192 : 500
-SIFT loading...193 : 500
-SIFT loading complete193 : 500
-SIFT loading...194 : 500
-SIFT loading complete194 : 500
-SIFT loading...195 : 500
-SIFT loading complete195 : 500
-SIFT loading...196 : 500
-SIFT loading complete196 : 500
-SIFT loading...197 : 500
-SIFT loading complete197 : 500
-SIFT loading...198 : 500
-SIFT loading complete198 : 500
-SIFT loading...199 : 500
-SIFT loading complete199 : 500
-SIFT loading...200 : 500
-SIFT loading complete200 : 500
-SIFT loading...201 : 500
-SIFT loading complete201 : 500
-SIFT loading...202 : 500
-SIFT loading complete202 : 500
-SIFT loading...203 : 500
-SIFT loading complete203 : 500
-SIFT loading...204 : 500
-SIFT loading complete204 : 500
-SIFT loading...205 : 500
-SIFT loading complete205 : 500
-SIFT loading...206 : 500
-SIFT loading complete206 : 500
-SIFT loading...207 : 500
-SIFT loading complete207 : 500
-SIFT loading...208 : 500
-SIFT loading complete208 : 500
-SIFT loading...209 : 500
-SIFT loading complete209 : 500
-SIFT loading...210 : 500
-SIFT loading complete210 : 500
-SIFT loading...211 : 500
-SIFT loading complete211 : 500
-SIFT loading...212 : 500
-SIFT loading complete212 : 500
-SIFT loading...213 : 500
-SIFT loading complete213 : 500
-SIFT loading...214 : 500
-SIFT loading complete214 : 500
-SIFT loading...215 : 500
-SIFT loading complete215 : 500
-SIFT loading...216 : 500
-SIFT loading complete216 : 500
-SIFT loading...217 : 500
-SIFT loading complete217 : 500
-SIFT loading...218 : 500
-SIFT loading complete218 : 500
-SIFT loading...219 : 500
-SIFT loading complete219 : 500
-SIFT loading...220 : 500
-SIFT loading complete220 : 500
-SIFT loading...221 : 500
-SIFT loading complete221 : 500
-SIFT loading...222 : 500
-SIFT loading complete222 : 500
-SIFT loading...223 : 500
-SIFT loading complete223 : 500
-SIFT loading...224 : 500
-SIFT loading complete224 : 500
-SIFT loading...225 : 500
-SIFT loading complete225 : 500
-SIFT loading...226 : 500
-SIFT loading complete226 : 500
-SIFT loading...227 : 500
-SIFT loading complete227 : 500
-SIFT loading...228 : 500
-SIFT loading complete228 : 500
-SIFT loading...229 : 500
-SIFT loading complete229 : 500
-SIFT loading...230 : 500
-SIFT loading complete230 : 500
-SIFT loading...231 : 500
-SIFT loading complete231 : 500
-SIFT loading...232 : 500
-SIFT loading complete232 : 500
-SIFT loading...233 : 500
-SIFT loading complete233 : 500
-SIFT loading...234 : 500
-SIFT loading complete234 : 500
-SIFT loading...235 : 500
-SIFT loading complete235 : 500
-SIFT loading...236 : 500
-SIFT loading complete236 : 500
-SIFT loading...237 : 500
-SIFT loading complete237 : 500
-SIFT loading...238 : 500
-SIFT loading complete238 : 500
-SIFT loading...239 : 500
-SIFT loading complete239 : 500
-SIFT loading...240 : 500
-SIFT loading complete240 : 500
-SIFT loading...241 : 500
-SIFT loading complete241 : 500
-SIFT loading...242 : 500
-SIFT loading complete242 : 500
-SIFT loading...243 : 500
-SIFT loading complete243 : 500
-SIFT loading...244 : 500
-SIFT loading complete244 : 500
-SIFT loading...245 : 500
-SIFT loading complete245 : 500
-SIFT loading...246 : 500
-SIFT loading complete246 : 500
-SIFT loading...247 : 500
-SIFT loading complete247 : 500
-SIFT loading...248 : 500
-SIFT loading complete248 : 500
-SIFT loading...249 : 500
-SIFT loading complete249 : 500
-SIFT loading...250 : 500
-SIFT loading complete250 : 500
-SIFT loading...251 : 500
-SIFT loading complete251 : 500
-SIFT loading...252 : 500
-SIFT loading complete252 : 500
-SIFT loading...253 : 500
-SIFT loading complete253 : 500
-SIFT loading...254 : 500
-SIFT loading complete254 : 500
-SIFT loading...255 : 500
-SIFT loading complete255 : 500
-SIFT loading...256 : 500
-SIFT loading complete256 : 500
-SIFT loading...257 : 500
-SIFT loading complete257 : 500
-SIFT loading...258 : 500
-SIFT loading complete258 : 500
-SIFT loading...259 : 500
-SIFT loading complete259 : 500
-SIFT loading...260 : 500
-SIFT loading complete260 : 500
-SIFT loading...261 : 500
-SIFT loading complete261 : 500
-SIFT loading...262 : 500
-SIFT loading complete262 : 500
-SIFT loading...263 : 500
-SIFT loading complete263 : 500
-SIFT loading...264 : 500
-SIFT loading complete264 : 500
-SIFT loading...265 : 500
-SIFT loading complete265 : 500
-SIFT loading...266 : 500
-SIFT loading complete266 : 500
-SIFT loading...267 : 500
-SIFT loading complete267 : 500
-SIFT loading...268 : 500
-SIFT loading complete268 : 500
-SIFT loading...269 : 500
-SIFT loading complete269 : 500
-SIFT loading...270 : 500
-SIFT loading complete270 : 500
-SIFT loading...271 : 500
-SIFT loading complete271 : 500
-SIFT loading...272 : 500
-SIFT loading complete272 : 500
-SIFT loading...273 : 500
-SIFT loading complete273 : 500
-SIFT loading...274 : 500
-SIFT loading complete274 : 500
-SIFT loading...275 : 500
-SIFT loading complete275 : 500
-SIFT loading...276 : 500
-SIFT loading complete276 : 500
-SIFT loading...277 : 500
-SIFT loading complete277 : 500
-SIFT loading...278 : 500
-SIFT loading complete278 : 500
-SIFT loading...279 : 500
-SIFT loading complete279 : 500
-SIFT loading...280 : 500
-SIFT loading complete280 : 500
-SIFT loading...281 : 500
-SIFT loading complete281 : 500
-SIFT loading...282 : 500
-SIFT loading complete282 : 500
-SIFT loading...283 : 500
-SIFT loading complete283 : 500
-SIFT loading...284 : 500
-SIFT loading complete284 : 500
-SIFT loading...285 : 500
-SIFT loading complete285 : 500
-SIFT loading...286 : 500
-SIFT loading complete286 : 500
-SIFT loading...287 : 500
-SIFT loading complete287 : 500
-SIFT loading...288 : 500
-SIFT loading complete288 : 500
-SIFT loading...289 : 500
-SIFT loading complete289 : 500
-SIFT loading...290 : 500
-SIFT loading complete290 : 500
-SIFT loading...291 : 500
-SIFT loading complete291 : 500
-SIFT loading...292 : 500
-SIFT loading complete292 : 500
-SIFT loading...293 : 500
-SIFT loading complete293 : 500
-SIFT loading...294 : 500
-SIFT loading complete294 : 500
-SIFT loading...295 : 500
-SIFT loading complete295 : 500
-SIFT loading...296 : 500
-SIFT loading complete296 : 500
-SIFT loading...297 : 500
-SIFT loading complete297 : 500
-SIFT loading...298 : 500
-SIFT loading complete298 : 500
-SIFT loading...299 : 500
-SIFT loading complete299 : 500
-SIFT loading...300 : 500
-SIFT loading complete300 : 500
-SIFT loading...301 : 500
-SIFT loading complete301 : 500
-SIFT loading...302 : 500
-SIFT loading complete302 : 500
-SIFT loading...303 : 500
-SIFT loading complete303 : 500
-SIFT loading...304 : 500
-SIFT loading complete304 : 500
-SIFT loading...305 : 500
-SIFT loading complete305 : 500
-SIFT loading...306 : 500
-SIFT loading complete306 : 500
-SIFT loading...307 : 500
-SIFT loading complete307 : 500
-SIFT loading...308 : 500
-SIFT loading complete308 : 500
-SIFT loading...309 : 500
-SIFT loading complete309 : 500
-SIFT loading...310 : 500
-SIFT loading complete310 : 500
-SIFT loading...311 : 500
-SIFT loading complete311 : 500
-SIFT loading...312 : 500
-SIFT loading complete312 : 500
-SIFT loading...313 : 500
-SIFT loading complete313 : 500
-SIFT loading...314 : 500
-SIFT loading complete314 : 500
-SIFT loading...315 : 500
-SIFT loading complete315 : 500
-SIFT loading...316 : 500
-SIFT loading complete316 : 500
-SIFT loading...317 : 500
-SIFT loading complete317 : 500
-SIFT loading...318 : 500
-SIFT loading complete318 : 500
-SIFT loading...319 : 500
-SIFT loading complete319 : 500
-SIFT loading...320 : 500
-SIFT loading complete320 : 500
-SIFT loading...321 : 500
-SIFT loading complete321 : 500
-SIFT loading...322 : 500
-SIFT loading complete322 : 500
-SIFT loading...323 : 500
-SIFT loading complete323 : 500
-SIFT loading...324 : 500
-SIFT loading complete324 : 500
-SIFT loading...325 : 500
-SIFT loading complete325 : 500
-SIFT loading...326 : 500
-SIFT loading complete326 : 500
-SIFT loading...327 : 500
-SIFT loading complete327 : 500
-SIFT loading...328 : 500
-SIFT loading complete328 : 500
-SIFT loading...329 : 500
-SIFT loading complete329 : 500
-SIFT loading...330 : 500
-SIFT loading complete330 : 500
-SIFT loading...331 : 500
-SIFT loading complete331 : 500
-SIFT loading...332 : 500
-SIFT loading complete332 : 500
-SIFT loading...333 : 500
-SIFT loading complete333 : 500
-SIFT loading...334 : 500
-SIFT loading complete334 : 500
-SIFT loading...335 : 500
-SIFT loading complete335 : 500
-SIFT loading...336 : 500
-SIFT loading complete336 : 500
-SIFT loading...337 : 500
-SIFT loading complete337 : 500
-SIFT loading...338 : 500
-SIFT loading complete338 : 500
-SIFT loading...339 : 500
-SIFT loading complete339 : 500
-SIFT loading...340 : 500
-SIFT loading complete340 : 500
-SIFT loading...341 : 500
-SIFT loading complete341 : 500
-SIFT loading...342 : 500
-SIFT loading complete342 : 500
-SIFT loading...343 : 500
-SIFT loading complete343 : 500
-SIFT loading...344 : 500
-SIFT loading complete344 : 500
-SIFT loading...345 : 500
-SIFT loading complete345 : 500
-SIFT loading...346 : 500
-SIFT loading complete346 : 500
-SIFT loading...347 : 500
-SIFT loading complete347 : 500
-SIFT loading...348 : 500
-SIFT loading complete348 : 500
-SIFT loading...349 : 500
-SIFT loading complete349 : 500
-SIFT loading...350 : 500
-SIFT loading complete350 : 500
-SIFT loading...351 : 500
-SIFT loading complete351 : 500
-SIFT loading...352 : 500
-SIFT loading complete352 : 500
-SIFT loading...353 : 500
-SIFT loading complete353 : 500
-SIFT loading...354 : 500
-SIFT loading complete354 : 500
-SIFT loading...355 : 500
-SIFT loading complete355 : 500
-SIFT loading...356 : 500
-SIFT loading complete356 : 500
-SIFT loading...357 : 500
-SIFT loading complete357 : 500
-SIFT loading...358 : 500
-SIFT loading complete358 : 500
-SIFT loading...359 : 500
-SIFT loading complete359 : 500
-SIFT loading...360 : 500
-SIFT loading complete360 : 500
-SIFT loading...361 : 500
-SIFT loading complete361 : 500
-SIFT loading...362 : 500
-SIFT loading complete362 : 500
-SIFT loading...363 : 500
-SIFT loading complete363 : 500
-SIFT loading...364 : 500
-SIFT loading complete364 : 500
-SIFT loading...365 : 500
-SIFT loading complete365 : 500
-SIFT loading...366 : 500
-SIFT loading complete366 : 500
-SIFT loading...367 : 500
-SIFT loading complete367 : 500
-SIFT loading...368 : 500
-SIFT loading complete368 : 500
-SIFT loading...369 : 500
-SIFT loading complete369 : 500
-SIFT loading...370 : 500
-SIFT loading complete370 : 500
-SIFT loading...371 : 500
-SIFT loading complete371 : 500
-SIFT loading...372 : 500
-SIFT loading complete372 : 500
-SIFT loading...373 : 500
-SIFT loading complete373 : 500
-SIFT loading...374 : 500
-SIFT loading complete374 : 500
-SIFT loading...375 : 500
-SIFT loading complete375 : 500
-SIFT loading...376 : 500
-SIFT loading complete376 : 500
-SIFT loading...377 : 500
-SIFT loading complete377 : 500
-SIFT loading...378 : 500
-SIFT loading complete378 : 500
-SIFT loading...379 : 500
-SIFT loading complete379 : 500
-SIFT loading...380 : 500
-SIFT loading complete380 : 500
-SIFT loading...381 : 500
-SIFT loading complete381 : 500
-SIFT loading...382 : 500
-SIFT loading complete382 : 500
-SIFT loading...383 : 500
-SIFT loading complete383 : 500
-SIFT loading...384 : 500
-SIFT loading complete384 : 500
-SIFT loading...385 : 500
-SIFT loading complete385 : 500
-SIFT loading...386 : 500
-SIFT loading complete386 : 500
-SIFT loading...387 : 500
-SIFT loading complete387 : 500
-SIFT loading...388 : 500
-SIFT loading complete388 : 500
-SIFT loading...389 : 500
-SIFT loading complete389 : 500
-SIFT loading...390 : 500
-SIFT loading complete390 : 500
-SIFT loading...391 : 500
-SIFT loading complete391 : 500
-SIFT loading...392 : 500
-SIFT loading complete392 : 500
-SIFT loading...393 : 500
-SIFT loading complete393 : 500
-SIFT loading...394 : 500
-SIFT loading complete394 : 500
-SIFT loading...395 : 500
-SIFT loading complete395 : 500
-SIFT loading...396 : 500
-SIFT loading complete396 : 500
-SIFT loading...397 : 500
-SIFT loading complete397 : 500
-SIFT loading...398 : 500
-SIFT loading complete398 : 500
-SIFT loading...399 : 500
-SIFT loading complete399 : 500
-SIFT loading...400 : 500
-SIFT loading complete400 : 500
-SIFT loading...401 : 500
-SIFT loading complete401 : 500
-SIFT loading...402 : 500
-SIFT loading complete402 : 500
-SIFT loading...403 : 500
-SIFT loading complete403 : 500
-SIFT loading...404 : 500
-SIFT loading complete404 : 500
-SIFT loading...405 : 500
-SIFT loading complete405 : 500
-SIFT loading...406 : 500
-SIFT loading complete406 : 500
-SIFT loading...407 : 500
-SIFT loading complete407 : 500
-SIFT loading...408 : 500
-SIFT loading complete408 : 500
-SIFT loading...409 : 500
-SIFT loading complete409 : 500
-SIFT loading...410 : 500
-SIFT loading complete410 : 500
-SIFT loading...411 : 500
-SIFT loading complete411 : 500
-SIFT loading...412 : 500
-SIFT loading complete412 : 500
-SIFT loading...413 : 500
-SIFT loading complete413 : 500
-SIFT loading...414 : 500
-SIFT loading complete414 : 500
-SIFT loading...415 : 500
-SIFT loading complete415 : 500
-SIFT loading...416 : 500
-SIFT loading complete416 : 500
-SIFT loading...417 : 500
-SIFT loading complete417 : 500
-SIFT loading...418 : 500
-SIFT loading complete418 : 500
-SIFT loading...419 : 500
-SIFT loading complete419 : 500
-SIFT loading...420 : 500
-SIFT loading complete420 : 500
-SIFT loading...421 : 500
-SIFT loading complete421 : 500
-SIFT loading...422 : 500
-SIFT loading complete422 : 500
-SIFT loading...423 : 500
-SIFT loading complete423 : 500
-SIFT loading...424 : 500
-SIFT loading complete424 : 500
-SIFT loading...425 : 500
-SIFT loading complete425 : 500
-SIFT loading...426 : 500
-SIFT loading complete426 : 500
-SIFT loading...427 : 500
-SIFT loading complete427 : 500
-SIFT loading...428 : 500
-SIFT loading complete428 : 500
-SIFT loading...429 : 500
-SIFT loading complete429 : 500
-SIFT loading...430 : 500
-SIFT loading complete430 : 500
-SIFT loading...431 : 500
-SIFT loading complete431 : 500
-SIFT loading...432 : 500
-SIFT loading complete432 : 500
-SIFT loading...433 : 500
-SIFT loading complete433 : 500
-SIFT loading...434 : 500
-SIFT loading complete434 : 500
-SIFT loading...435 : 500
-SIFT loading complete435 : 500
-SIFT loading...436 : 500
-SIFT loading complete436 : 500
-SIFT loading...437 : 500
-SIFT loading complete437 : 500
-SIFT loading...438 : 500
-SIFT loading complete438 : 500
-SIFT loading...439 : 500
-SIFT loading complete439 : 500
-SIFT loading...440 : 500
-SIFT loading complete440 : 500
-SIFT loading...441 : 500
-SIFT loading complete441 : 500
-SIFT loading...442 : 500
-SIFT loading complete442 : 500
-SIFT loading...443 : 500
-SIFT loading complete443 : 500
-SIFT loading...444 : 500
-SIFT loading complete444 : 500
-SIFT loading...445 : 500
-SIFT loading complete445 : 500
-SIFT loading...446 : 500
-SIFT loading complete446 : 500
-SIFT loading...447 : 500
-SIFT loading complete447 : 500
-SIFT loading...448 : 500
-SIFT loading complete448 : 500
-SIFT loading...449 : 500
-SIFT loading complete449 : 500
-SIFT loading...450 : 500
-SIFT loading complete450 : 500
-SIFT loading...451 : 500
-SIFT loading complete451 : 500
-SIFT loading...452 : 500
-SIFT loading complete452 : 500
-SIFT loading...453 : 500
-SIFT loading complete453 : 500
-SIFT loading...454 : 500
-SIFT loading complete454 : 500
-SIFT loading...455 : 500
-SIFT loading complete455 : 500
-SIFT loading...456 : 500
-SIFT loading complete456 : 500
-SIFT loading...457 : 500
-SIFT loading complete457 : 500
-SIFT loading...458 : 500
-SIFT loading complete458 : 500
-SIFT loading...459 : 500
-SIFT loading complete459 : 500
-SIFT loading...460 : 500
-SIFT loading complete460 : 500
-SIFT loading...461 : 500
-SIFT loading complete461 : 500
-SIFT loading...462 : 500
-SIFT loading complete462 : 500
-SIFT loading...463 : 500
-SIFT loading complete463 : 500
-SIFT loading...464 : 500
-SIFT loading complete464 : 500
-SIFT loading...465 : 500
-SIFT loading complete465 : 500
-SIFT loading...466 : 500
-SIFT loading complete466 : 500
-SIFT loading...467 : 500
-SIFT loading complete467 : 500
-SIFT loading...468 : 500
-SIFT loading complete468 : 500
-SIFT loading...469 : 500
-SIFT loading complete469 : 500
-SIFT loading...470 : 500
-SIFT loading complete470 : 500
-SIFT loading...471 : 500
-SIFT loading complete471 : 500
-SIFT loading...472 : 500
-SIFT loading complete472 : 500
-SIFT loading...473 : 500
-SIFT loading complete473 : 500
-SIFT loading...474 : 500
-SIFT loading complete474 : 500
-SIFT loading...475 : 500
-SIFT loading complete475 : 500
-SIFT loading...476 : 500
-SIFT loading complete476 : 500
-SIFT loading...477 : 500
-SIFT loading complete477 : 500
-SIFT loading...478 : 500
-SIFT loading complete478 : 500
-SIFT loading...479 : 500
-SIFT loading complete479 : 500
-SIFT loading...480 : 500
-SIFT loading complete480 : 500
-SIFT loading...481 : 500
-SIFT loading complete481 : 500
-SIFT loading...482 : 500
-SIFT loading complete482 : 500
-SIFT loading...483 : 500
-SIFT loading complete483 : 500
-SIFT loading...484 : 500
-SIFT loading complete484 : 500
-SIFT loading...485 : 500
-SIFT loading complete485 : 500
-SIFT loading...486 : 500
-SIFT loading complete486 : 500
-SIFT loading...487 : 500
-SIFT loading complete487 : 500
-SIFT loading...488 : 500
-SIFT loading complete488 : 500
-SIFT loading...489 : 500
-SIFT loading complete489 : 500
-SIFT loading...490 : 500
-SIFT loading complete490 : 500
-SIFT loading...491 : 500
-SIFT loading complete491 : 500
-SIFT loading...492 : 500
-SIFT loading complete492 : 500
-SIFT loading...493 : 500
-SIFT loading complete493 : 500
-SIFT loading...494 : 500
-SIFT loading complete494 : 500
-SIFT loading...495 : 500
-SIFT loading complete495 : 500
-SIFT loading...496 : 500
-SIFT loading complete496 : 500
-SIFT loading...497 : 500
-SIFT loading complete497 : 500
-SIFT loading...498 : 500
-SIFT loading complete498 : 500
-SIFT loading...499 : 500
-SIFT loading complete499 : 500
+SIFT && HoC descriptor getting & saving...
+SIFT generating...0 : 500
+SIFT generating complete0 : 500
+SIFT saving...0 : 500
+SIFT saving complete0 : 500
+HoC generating...0 : 500
+HoC generating complete0 : 500
+HoC saving...0 : 500
+SIFT saving complete0 : 500
+SIFT generating...1 : 500
+SIFT generating complete1 : 500
+SIFT saving...1 : 500
+SIFT saving complete1 : 500
+HoC generating...1 : 500
+HoC generating complete1 : 500
+HoC saving...1 : 500
+SIFT saving complete1 : 500
+SIFT generating...2 : 500
+SIFT generating complete2 : 500
+SIFT saving...2 : 500
+SIFT saving complete2 : 500
+HoC generating...2 : 500
+HoC generating complete2 : 500
+HoC saving...2 : 500
+SIFT saving complete2 : 500
+SIFT generating...3 : 500
+SIFT generating complete3 : 500
+SIFT saving...3 : 500
+SIFT saving complete3 : 500
+HoC generating...3 : 500
+HoC generating complete3 : 500
+HoC saving...3 : 500
+SIFT saving complete3 : 500
+SIFT generating...4 : 500
+SIFT generating complete4 : 500
+SIFT saving...4 : 500
+SIFT saving complete4 : 500
+HoC generating...4 : 500
+HoC generating complete4 : 500
+HoC saving...4 : 500
+SIFT saving complete4 : 500
+SIFT generating...5 : 500
+SIFT generating complete5 : 500
+SIFT saving...5 : 500
+SIFT saving complete5 : 500
+HoC generating...5 : 500
+HoC generating complete5 : 500
+HoC saving...5 : 500
+SIFT saving complete5 : 500
+SIFT generating...6 : 500
+SIFT generating complete6 : 500
+SIFT saving...6 : 500
+SIFT saving complete6 : 500
+HoC generating...6 : 500
+HoC generating complete6 : 500
+HoC saving...6 : 500
+SIFT saving complete6 : 500
+SIFT generating...7 : 500
+SIFT generating complete7 : 500
+SIFT saving...7 : 500
+SIFT saving complete7 : 500
+HoC generating...7 : 500
+HoC generating complete7 : 500
+HoC saving...7 : 500
+SIFT saving complete7 : 500
+SIFT generating...8 : 500
+SIFT generating complete8 : 500
+SIFT saving...8 : 500
+SIFT saving complete8 : 500
+HoC generating...8 : 500
+HoC generating complete8 : 500
+HoC saving...8 : 500
+SIFT saving complete8 : 500
+SIFT generating...9 : 500
+SIFT generating complete9 : 500
+SIFT saving...9 : 500
+SIFT saving complete9 : 500
+HoC generating...9 : 500
+HoC generating complete9 : 500
+HoC saving...9 : 500
+SIFT saving complete9 : 500
+SIFT generating...10 : 500
+SIFT generating complete10 : 500
+SIFT saving...10 : 500
+SIFT saving complete10 : 500
+HoC generating...10 : 500
+HoC generating complete10 : 500
+HoC saving...10 : 500
+SIFT saving complete10 : 500
+SIFT generating...11 : 500
+SIFT generating complete11 : 500
+SIFT saving...11 : 500
+SIFT saving complete11 : 500
+HoC generating...11 : 500
+HoC generating complete11 : 500
+HoC saving...11 : 500
+SIFT saving complete11 : 500
+SIFT generating...12 : 500
+SIFT generating complete12 : 500
+SIFT saving...12 : 500
+SIFT saving complete12 : 500
+HoC generating...12 : 500
+HoC generating complete12 : 500
+HoC saving...12 : 500
+SIFT saving complete12 : 500
+SIFT generating...13 : 500
+SIFT generating complete13 : 500
+SIFT saving...13 : 500
+SIFT saving complete13 : 500
+HoC generating...13 : 500
+HoC generating complete13 : 500
+HoC saving...13 : 500
+SIFT saving complete13 : 500
+SIFT generating...14 : 500
+SIFT generating complete14 : 500
+SIFT saving...14 : 500
+SIFT saving complete14 : 500
+HoC generating...14 : 500
+HoC generating complete14 : 500
+HoC saving...14 : 500
+SIFT saving complete14 : 500
+SIFT generating...15 : 500
+SIFT generating complete15 : 500
+SIFT saving...15 : 500
+SIFT saving complete15 : 500
+HoC generating...15 : 500
+HoC generating complete15 : 500
+HoC saving...15 : 500
+SIFT saving complete15 : 500
+SIFT generating...16 : 500
+SIFT generating complete16 : 500
+SIFT saving...16 : 500
+SIFT saving complete16 : 500
+HoC generating...16 : 500
+HoC generating complete16 : 500
+HoC saving...16 : 500
+SIFT saving complete16 : 500
+SIFT generating...17 : 500
+SIFT generating complete17 : 500
+SIFT saving...17 : 500
+SIFT saving complete17 : 500
+HoC generating...17 : 500
+HoC generating complete17 : 500
+HoC saving...17 : 500
+SIFT saving complete17 : 500
+SIFT generating...18 : 500
+SIFT generating complete18 : 500
+SIFT saving...18 : 500
+SIFT saving complete18 : 500
+HoC generating...18 : 500
+HoC generating complete18 : 500
+HoC saving...18 : 500
+SIFT saving complete18 : 500
+SIFT generating...19 : 500
+SIFT generating complete19 : 500
+SIFT saving...19 : 500
+SIFT saving complete19 : 500
+HoC generating...19 : 500
+HoC generating complete19 : 500
+HoC saving...19 : 500
+SIFT saving complete19 : 500
+SIFT generating...20 : 500
+SIFT generating complete20 : 500
+SIFT saving...20 : 500
+SIFT saving complete20 : 500
+HoC generating...20 : 500
+HoC generating complete20 : 500
+HoC saving...20 : 500
+SIFT saving complete20 : 500
+SIFT generating...21 : 500
+SIFT generating complete21 : 500
+SIFT saving...21 : 500
+SIFT saving complete21 : 500
+HoC generating...21 : 500
+HoC generating complete21 : 500
+HoC saving...21 : 500
+SIFT saving complete21 : 500
+SIFT generating...22 : 500
+SIFT generating complete22 : 500
+SIFT saving...22 : 500
+SIFT saving complete22 : 500
+HoC generating...22 : 500
+HoC generating complete22 : 500
+HoC saving...22 : 500
+SIFT saving complete22 : 500
+SIFT generating...23 : 500
+SIFT generating complete23 : 500
+SIFT saving...23 : 500
+SIFT saving complete23 : 500
+HoC generating...23 : 500
+HoC generating complete23 : 500
+HoC saving...23 : 500
+SIFT saving complete23 : 500
+SIFT generating...24 : 500
+SIFT generating complete24 : 500
+SIFT saving...24 : 500
+SIFT saving complete24 : 500
+HoC generating...24 : 500
+HoC generating complete24 : 500
+HoC saving...24 : 500
+SIFT saving complete24 : 500
+SIFT generating...25 : 500
+SIFT generating complete25 : 500
+SIFT saving...25 : 500
+SIFT saving complete25 : 500
+HoC generating...25 : 500
+HoC generating complete25 : 500
+HoC saving...25 : 500
+SIFT saving complete25 : 500
+SIFT generating...26 : 500
+SIFT generating complete26 : 500
+SIFT saving...26 : 500
+SIFT saving complete26 : 500
+HoC generating...26 : 500
+HoC generating complete26 : 500
+HoC saving...26 : 500
+SIFT saving complete26 : 500
+SIFT generating...27 : 500
+SIFT generating complete27 : 500
+SIFT saving...27 : 500
+SIFT saving complete27 : 500
+HoC generating...27 : 500
+HoC generating complete27 : 500
+HoC saving...27 : 500
+SIFT saving complete27 : 500
+SIFT generating...28 : 500
+SIFT generating complete28 : 500
+SIFT saving...28 : 500
+SIFT saving complete28 : 500
+HoC generating...28 : 500
+HoC generating complete28 : 500
+HoC saving...28 : 500
+SIFT saving complete28 : 500
+SIFT generating...29 : 500
+SIFT generating complete29 : 500
+SIFT saving...29 : 500
+SIFT saving complete29 : 500
+HoC generating...29 : 500
+HoC generating complete29 : 500
+HoC saving...29 : 500
+SIFT saving complete29 : 500
+SIFT generating...30 : 500
+SIFT generating complete30 : 500
+SIFT saving...30 : 500
+SIFT saving complete30 : 500
+HoC generating...30 : 500
+HoC generating complete30 : 500
+HoC saving...30 : 500
+SIFT saving complete30 : 500
+SIFT generating...31 : 500
+SIFT generating complete31 : 500
+SIFT saving...31 : 500
+SIFT saving complete31 : 500
+HoC generating...31 : 500
+HoC generating complete31 : 500
+HoC saving...31 : 500
+SIFT saving complete31 : 500
+SIFT generating...32 : 500
+SIFT generating complete32 : 500
+SIFT saving...32 : 500
+SIFT saving complete32 : 500
+HoC generating...32 : 500
+HoC generating complete32 : 500
+HoC saving...32 : 500
+SIFT saving complete32 : 500
+SIFT generating...33 : 500
+SIFT generating complete33 : 500
+SIFT saving...33 : 500
+SIFT saving complete33 : 500
+HoC generating...33 : 500
+HoC generating complete33 : 500
+HoC saving...33 : 500
+SIFT saving complete33 : 500
+SIFT generating...34 : 500
+SIFT generating complete34 : 500
+SIFT saving...34 : 500
+SIFT saving complete34 : 500
+HoC generating...34 : 500
+HoC generating complete34 : 500
+HoC saving...34 : 500
+SIFT saving complete34 : 500
+SIFT generating...35 : 500
+SIFT generating complete35 : 500
+SIFT saving...35 : 500
+SIFT saving complete35 : 500
+HoC generating...35 : 500
+HoC generating complete35 : 500
+HoC saving...35 : 500
+SIFT saving complete35 : 500
+SIFT generating...36 : 500
+SIFT generating complete36 : 500
+SIFT saving...36 : 500
+SIFT saving complete36 : 500
+HoC generating...36 : 500
+HoC generating complete36 : 500
+HoC saving...36 : 500
+SIFT saving complete36 : 500
+SIFT generating...37 : 500
+SIFT generating complete37 : 500
+SIFT saving...37 : 500
+SIFT saving complete37 : 500
+HoC generating...37 : 500
+HoC generating complete37 : 500
+HoC saving...37 : 500
+SIFT saving complete37 : 500
+SIFT generating...38 : 500
+SIFT generating complete38 : 500
+SIFT saving...38 : 500
+SIFT saving complete38 : 500
+HoC generating...38 : 500
+HoC generating complete38 : 500
+HoC saving...38 : 500
+SIFT saving complete38 : 500
+SIFT generating...39 : 500
+SIFT generating complete39 : 500
+SIFT saving...39 : 500
+SIFT saving complete39 : 500
+HoC generating...39 : 500
+HoC generating complete39 : 500
+HoC saving...39 : 500
+SIFT saving complete39 : 500
+SIFT generating...40 : 500
+SIFT generating complete40 : 500
+SIFT saving...40 : 500
+SIFT saving complete40 : 500
+HoC generating...40 : 500
+HoC generating complete40 : 500
+HoC saving...40 : 500
+SIFT saving complete40 : 500
+SIFT generating...41 : 500
+SIFT generating complete41 : 500
+SIFT saving...41 : 500
+SIFT saving complete41 : 500
+HoC generating...41 : 500
+HoC generating complete41 : 500
+HoC saving...41 : 500
+SIFT saving complete41 : 500
+SIFT generating...42 : 500
+SIFT generating complete42 : 500
+SIFT saving...42 : 500
+SIFT saving complete42 : 500
+HoC generating...42 : 500
+HoC generating complete42 : 500
+HoC saving...42 : 500
+SIFT saving complete42 : 500
+SIFT generating...43 : 500
+SIFT generating complete43 : 500
+SIFT saving...43 : 500
+SIFT saving complete43 : 500
+HoC generating...43 : 500
+HoC generating complete43 : 500
+HoC saving...43 : 500
+SIFT saving complete43 : 500
+SIFT generating...44 : 500
+SIFT generating complete44 : 500
+SIFT saving...44 : 500
+SIFT saving complete44 : 500
+HoC generating...44 : 500
+HoC generating complete44 : 500
+HoC saving...44 : 500
+SIFT saving complete44 : 500
+SIFT generating...45 : 500
+SIFT generating complete45 : 500
+SIFT saving...45 : 500
+SIFT saving complete45 : 500
+HoC generating...45 : 500
+HoC generating complete45 : 500
+HoC saving...45 : 500
+SIFT saving complete45 : 500
+SIFT generating...46 : 500
+SIFT generating complete46 : 500
+SIFT saving...46 : 500
+SIFT saving complete46 : 500
+HoC generating...46 : 500
+HoC generating complete46 : 500
+HoC saving...46 : 500
+SIFT saving complete46 : 500
+SIFT generating...47 : 500
+SIFT generating complete47 : 500
+SIFT saving...47 : 500
+SIFT saving complete47 : 500
+HoC generating...47 : 500
+HoC generating complete47 : 500
+HoC saving...47 : 500
+SIFT saving complete47 : 500
+SIFT generating...48 : 500
+SIFT generating complete48 : 500
+SIFT saving...48 : 500
+SIFT saving complete48 : 500
+HoC generating...48 : 500
+HoC generating complete48 : 500
+HoC saving...48 : 500
+SIFT saving complete48 : 500
+SIFT generating...49 : 500
+SIFT generating complete49 : 500
+SIFT saving...49 : 500
+SIFT saving complete49 : 500
+HoC generating...49 : 500
+HoC generating complete49 : 500
+HoC saving...49 : 500
+SIFT saving complete49 : 500
+SIFT generating...50 : 500
+SIFT generating complete50 : 500
+SIFT saving...50 : 500
+SIFT saving complete50 : 500
+HoC generating...50 : 500
+HoC generating complete50 : 500
+HoC saving...50 : 500
+SIFT saving complete50 : 500
+SIFT generating...51 : 500
+SIFT generating complete51 : 500
+SIFT saving...51 : 500
+SIFT saving complete51 : 500
+HoC generating...51 : 500
+HoC generating complete51 : 500
+HoC saving...51 : 500
+SIFT saving complete51 : 500
+SIFT generating...52 : 500
+SIFT generating complete52 : 500
+SIFT saving...52 : 500
+SIFT saving complete52 : 500
+HoC generating...52 : 500
+HoC generating complete52 : 500
+HoC saving...52 : 500
+SIFT saving complete52 : 500
+SIFT generating...53 : 500
+SIFT generating complete53 : 500
+SIFT saving...53 : 500
+SIFT saving complete53 : 500
+HoC generating...53 : 500
+HoC generating complete53 : 500
+HoC saving...53 : 500
+SIFT saving complete53 : 500
+SIFT generating...54 : 500
+SIFT generating complete54 : 500
+SIFT saving...54 : 500
+SIFT saving complete54 : 500
+HoC generating...54 : 500
+HoC generating complete54 : 500
+HoC saving...54 : 500
+SIFT saving complete54 : 500
+SIFT generating...55 : 500
+SIFT generating complete55 : 500
+SIFT saving...55 : 500
+SIFT saving complete55 : 500
+HoC generating...55 : 500
+HoC generating complete55 : 500
+HoC saving...55 : 500
+SIFT saving complete55 : 500
+SIFT generating...56 : 500
+SIFT generating complete56 : 500
+SIFT saving...56 : 500
+SIFT saving complete56 : 500
+HoC generating...56 : 500
+HoC generating complete56 : 500
+HoC saving...56 : 500
+SIFT saving complete56 : 500
+SIFT generating...57 : 500
+SIFT generating complete57 : 500
+SIFT saving...57 : 500
+SIFT saving complete57 : 500
+HoC generating...57 : 500
+HoC generating complete57 : 500
+HoC saving...57 : 500
+SIFT saving complete57 : 500
+SIFT generating...58 : 500
+SIFT generating complete58 : 500
+SIFT saving...58 : 500
+SIFT saving complete58 : 500
+HoC generating...58 : 500
+HoC generating complete58 : 500
+HoC saving...58 : 500
+SIFT saving complete58 : 500
+SIFT generating...59 : 500
+SIFT generating complete59 : 500
+SIFT saving...59 : 500
+SIFT saving complete59 : 500
+HoC generating...59 : 500
+HoC generating complete59 : 500
+HoC saving...59 : 500
+SIFT saving complete59 : 500
+SIFT generating...60 : 500
+SIFT generating complete60 : 500
+SIFT saving...60 : 500
+SIFT saving complete60 : 500
+HoC generating...60 : 500
+HoC generating complete60 : 500
+HoC saving...60 : 500
+SIFT saving complete60 : 500
+SIFT generating...61 : 500
+SIFT generating complete61 : 500
+SIFT saving...61 : 500
+SIFT saving complete61 : 500
+HoC generating...61 : 500
+HoC generating complete61 : 500
+HoC saving...61 : 500
+SIFT saving complete61 : 500
+SIFT generating...62 : 500
+SIFT generating complete62 : 500
+SIFT saving...62 : 500
+SIFT saving complete62 : 500
+HoC generating...62 : 500
+HoC generating complete62 : 500
+HoC saving...62 : 500
+SIFT saving complete62 : 500
+SIFT generating...63 : 500
+SIFT generating complete63 : 500
+SIFT saving...63 : 500
+SIFT saving complete63 : 500
+HoC generating...63 : 500
+HoC generating complete63 : 500
+HoC saving...63 : 500
+SIFT saving complete63 : 500
+SIFT generating...64 : 500
+SIFT generating complete64 : 500
+SIFT saving...64 : 500
+SIFT saving complete64 : 500
+HoC generating...64 : 500
+HoC generating complete64 : 500
+HoC saving...64 : 500
+SIFT saving complete64 : 500
+SIFT generating...65 : 500
+SIFT generating complete65 : 500
+SIFT saving...65 : 500
+SIFT saving complete65 : 500
+HoC generating...65 : 500
+HoC generating complete65 : 500
+HoC saving...65 : 500
+SIFT saving complete65 : 500
+SIFT generating...66 : 500
+SIFT generating complete66 : 500
+SIFT saving...66 : 500
+SIFT saving complete66 : 500
+HoC generating...66 : 500
+HoC generating complete66 : 500
+HoC saving...66 : 500
+SIFT saving complete66 : 500
+SIFT generating...67 : 500
+SIFT generating complete67 : 500
+SIFT saving...67 : 500
+SIFT saving complete67 : 500
+HoC generating...67 : 500
+HoC generating complete67 : 500
+HoC saving...67 : 500
+SIFT saving complete67 : 500
+SIFT generating...68 : 500
+SIFT generating complete68 : 500
+SIFT saving...68 : 500
+SIFT saving complete68 : 500
+HoC generating...68 : 500
+HoC generating complete68 : 500
+HoC saving...68 : 500
+SIFT saving complete68 : 500
+SIFT generating...69 : 500
+SIFT generating complete69 : 500
+SIFT saving...69 : 500
+SIFT saving complete69 : 500
+HoC generating...69 : 500
+HoC generating complete69 : 500
+HoC saving...69 : 500
+SIFT saving complete69 : 500
+SIFT generating...70 : 500
+SIFT generating complete70 : 500
+SIFT saving...70 : 500
+SIFT saving complete70 : 500
+HoC generating...70 : 500
+HoC generating complete70 : 500
+HoC saving...70 : 500
+SIFT saving complete70 : 500
+SIFT generating...71 : 500
+SIFT generating complete71 : 500
+SIFT saving...71 : 500
+SIFT saving complete71 : 500
+HoC generating...71 : 500
+HoC generating complete71 : 500
+HoC saving...71 : 500
+SIFT saving complete71 : 500
+SIFT generating...72 : 500
+SIFT generating complete72 : 500
+SIFT saving...72 : 500
+SIFT saving complete72 : 500
+HoC generating...72 : 500
+HoC generating complete72 : 500
+HoC saving...72 : 500
+SIFT saving complete72 : 500
+SIFT generating...73 : 500
+SIFT generating complete73 : 500
+SIFT saving...73 : 500
+SIFT saving complete73 : 500
+HoC generating...73 : 500
+HoC generating complete73 : 500
+HoC saving...73 : 500
+SIFT saving complete73 : 500
+SIFT generating...74 : 500
+SIFT generating complete74 : 500
+SIFT saving...74 : 500
+SIFT saving complete74 : 500
+HoC generating...74 : 500
+HoC generating complete74 : 500
+HoC saving...74 : 500
+SIFT saving complete74 : 500
+SIFT generating...75 : 500
+SIFT generating complete75 : 500
+SIFT saving...75 : 500
+SIFT saving complete75 : 500
+HoC generating...75 : 500
+HoC generating complete75 : 500
+HoC saving...75 : 500
+SIFT saving complete75 : 500
+SIFT generating...76 : 500
+SIFT generating complete76 : 500
+SIFT saving...76 : 500
+SIFT saving complete76 : 500
+HoC generating...76 : 500
+HoC generating complete76 : 500
+HoC saving...76 : 500
+SIFT saving complete76 : 500
+SIFT generating...77 : 500
+SIFT generating complete77 : 500
+SIFT saving...77 : 500
+SIFT saving complete77 : 500
+HoC generating...77 : 500
+HoC generating complete77 : 500
+HoC saving...77 : 500
+SIFT saving complete77 : 500
+SIFT generating...78 : 500
+SIFT generating complete78 : 500
+SIFT saving...78 : 500
+SIFT saving complete78 : 500
+HoC generating...78 : 500
+HoC generating complete78 : 500
+HoC saving...78 : 500
+SIFT saving complete78 : 500
+SIFT generating...79 : 500
+SIFT generating complete79 : 500
+SIFT saving...79 : 500
+SIFT saving complete79 : 500
+HoC generating...79 : 500
+HoC generating complete79 : 500
+HoC saving...79 : 500
+SIFT saving complete79 : 500
+SIFT generating...80 : 500
+SIFT generating complete80 : 500
+SIFT saving...80 : 500
+SIFT saving complete80 : 500
+HoC generating...80 : 500
+HoC generating complete80 : 500
+HoC saving...80 : 500
+SIFT saving complete80 : 500
+SIFT generating...81 : 500
+SIFT generating complete81 : 500
+SIFT saving...81 : 500
+SIFT saving complete81 : 500
+HoC generating...81 : 500
+HoC generating complete81 : 500
+HoC saving...81 : 500
+SIFT saving complete81 : 500
+SIFT generating...82 : 500
+SIFT generating complete82 : 500
+SIFT saving...82 : 500
+SIFT saving complete82 : 500
+HoC generating...82 : 500
+HoC generating complete82 : 500
+HoC saving...82 : 500
+SIFT saving complete82 : 500
+SIFT generating...83 : 500
+SIFT generating complete83 : 500
+SIFT saving...83 : 500
+SIFT saving complete83 : 500
+HoC generating...83 : 500
+HoC generating complete83 : 500
+HoC saving...83 : 500
+SIFT saving complete83 : 500
+SIFT generating...84 : 500
+SIFT generating complete84 : 500
+SIFT saving...84 : 500
+SIFT saving complete84 : 500
+HoC generating...84 : 500
+HoC generating complete84 : 500
+HoC saving...84 : 500
+SIFT saving complete84 : 500
+SIFT generating...85 : 500
+SIFT generating complete85 : 500
+SIFT saving...85 : 500
+SIFT saving complete85 : 500
+HoC generating...85 : 500
+HoC generating complete85 : 500
+HoC saving...85 : 500
+SIFT saving complete85 : 500
+SIFT generating...86 : 500
+SIFT generating complete86 : 500
+SIFT saving...86 : 500
+SIFT saving complete86 : 500
+HoC generating...86 : 500
+HoC generating complete86 : 500
+HoC saving...86 : 500
+SIFT saving complete86 : 500
+SIFT generating...87 : 500
+SIFT generating complete87 : 500
+SIFT saving...87 : 500
+SIFT saving complete87 : 500
+HoC generating...87 : 500
+HoC generating complete87 : 500
+HoC saving...87 : 500
+SIFT saving complete87 : 500
+SIFT generating...88 : 500
+SIFT generating complete88 : 500
+SIFT saving...88 : 500
+SIFT saving complete88 : 500
+HoC generating...88 : 500
+HoC generating complete88 : 500
+HoC saving...88 : 500
+SIFT saving complete88 : 500
+SIFT generating...89 : 500
+SIFT generating complete89 : 500
+SIFT saving...89 : 500
+SIFT saving complete89 : 500
+HoC generating...89 : 500
+HoC generating complete89 : 500
+HoC saving...89 : 500
+SIFT saving complete89 : 500
+SIFT generating...90 : 500
+SIFT generating complete90 : 500
+SIFT saving...90 : 500
+SIFT saving complete90 : 500
+HoC generating...90 : 500
+HoC generating complete90 : 500
+HoC saving...90 : 500
+SIFT saving complete90 : 500
+SIFT generating...91 : 500
+SIFT generating complete91 : 500
+SIFT saving...91 : 500
+SIFT saving complete91 : 500
+HoC generating...91 : 500
+HoC generating complete91 : 500
+HoC saving...91 : 500
+SIFT saving complete91 : 500
+SIFT generating...92 : 500
+SIFT generating complete92 : 500
+SIFT saving...92 : 500
+SIFT saving complete92 : 500
+HoC generating...92 : 500
+HoC generating complete92 : 500
+HoC saving...92 : 500
+SIFT saving complete92 : 500
+SIFT generating...93 : 500
+SIFT generating complete93 : 500
+SIFT saving...93 : 500
+SIFT saving complete93 : 500
+HoC generating...93 : 500
+HoC generating complete93 : 500
+HoC saving...93 : 500
+SIFT saving complete93 : 500
+SIFT generating...94 : 500
+SIFT generating complete94 : 500
+SIFT saving...94 : 500
+SIFT saving complete94 : 500
+HoC generating...94 : 500
+HoC generating complete94 : 500
+HoC saving...94 : 500
+SIFT saving complete94 : 500
+SIFT generating...95 : 500
+SIFT generating complete95 : 500
+SIFT saving...95 : 500
+SIFT saving complete95 : 500
+HoC generating...95 : 500
+HoC generating complete95 : 500
+HoC saving...95 : 500
+SIFT saving complete95 : 500
+SIFT generating...96 : 500
+SIFT generating complete96 : 500
+SIFT saving...96 : 500
+SIFT saving complete96 : 500
+HoC generating...96 : 500
+HoC generating complete96 : 500
+HoC saving...96 : 500
+SIFT saving complete96 : 500
+SIFT generating...97 : 500
+SIFT generating complete97 : 500
+SIFT saving...97 : 500
+SIFT saving complete97 : 500
+HoC generating...97 : 500
+HoC generating complete97 : 500
+HoC saving...97 : 500
+SIFT saving complete97 : 500
+SIFT generating...98 : 500
+SIFT generating complete98 : 500
+SIFT saving...98 : 500
+SIFT saving complete98 : 500
+HoC generating...98 : 500
+HoC generating complete98 : 500
+HoC saving...98 : 500
+SIFT saving complete98 : 500
+SIFT generating...99 : 500
+SIFT generating complete99 : 500
+SIFT saving...99 : 500
+SIFT saving complete99 : 500
+HoC generating...99 : 500
+HoC generating complete99 : 500
+HoC saving...99 : 500
+SIFT saving complete99 : 500
+SIFT generating...100 : 500
+SIFT generating complete100 : 500
+SIFT saving...100 : 500
+SIFT saving complete100 : 500
+HoC generating...100 : 500
+HoC generating complete100 : 500
+HoC saving...100 : 500
+SIFT saving complete100 : 500
+SIFT generating...101 : 500
+SIFT generating complete101 : 500
+SIFT saving...101 : 500
+SIFT saving complete101 : 500
+HoC generating...101 : 500
+HoC generating complete101 : 500
+HoC saving...101 : 500
+SIFT saving complete101 : 500
+SIFT generating...102 : 500
+SIFT generating complete102 : 500
+SIFT saving...102 : 500
+SIFT saving complete102 : 500
+HoC generating...102 : 500
+HoC generating complete102 : 500
+HoC saving...102 : 500
+SIFT saving complete102 : 500
+SIFT generating...103 : 500
+SIFT generating complete103 : 500
+SIFT saving...103 : 500
+SIFT saving complete103 : 500
+HoC generating...103 : 500
+HoC generating complete103 : 500
+HoC saving...103 : 500
+SIFT saving complete103 : 500
+SIFT generating...104 : 500
+SIFT generating complete104 : 500
+SIFT saving...104 : 500
+SIFT saving complete104 : 500
+HoC generating...104 : 500
+HoC generating complete104 : 500
+HoC saving...104 : 500
+SIFT saving complete104 : 500
+SIFT generating...105 : 500
+SIFT generating complete105 : 500
+SIFT saving...105 : 500
+SIFT saving complete105 : 500
+HoC generating...105 : 500
+HoC generating complete105 : 500
+HoC saving...105 : 500
+SIFT saving complete105 : 500
+SIFT generating...106 : 500
+SIFT generating complete106 : 500
+SIFT saving...106 : 500
+SIFT saving complete106 : 500
+HoC generating...106 : 500
+HoC generating complete106 : 500
+HoC saving...106 : 500
+SIFT saving complete106 : 500
+SIFT generating...107 : 500
+SIFT generating complete107 : 500
+SIFT saving...107 : 500
+SIFT saving complete107 : 500
+HoC generating...107 : 500
+HoC generating complete107 : 500
+HoC saving...107 : 500
+SIFT saving complete107 : 500
+SIFT generating...108 : 500
+SIFT generating complete108 : 500
+SIFT saving...108 : 500
+SIFT saving complete108 : 500
+HoC generating...108 : 500
+HoC generating complete108 : 500
+HoC saving...108 : 500
+SIFT saving complete108 : 500
+SIFT generating...109 : 500
+SIFT generating complete109 : 500
+SIFT saving...109 : 500
+SIFT saving complete109 : 500
+HoC generating...109 : 500
+HoC generating complete109 : 500
+HoC saving...109 : 500
+SIFT saving complete109 : 500
+SIFT generating...110 : 500
+SIFT generating complete110 : 500
+SIFT saving...110 : 500
+SIFT saving complete110 : 500
+HoC generating...110 : 500
+HoC generating complete110 : 500
+HoC saving...110 : 500
+SIFT saving complete110 : 500
+SIFT generating...111 : 500
+SIFT generating complete111 : 500
+SIFT saving...111 : 500
+SIFT saving complete111 : 500
+HoC generating...111 : 500
+HoC generating complete111 : 500
+HoC saving...111 : 500
+SIFT saving complete111 : 500
+SIFT generating...112 : 500
+SIFT generating complete112 : 500
+SIFT saving...112 : 500
+SIFT saving complete112 : 500
+HoC generating...112 : 500
+HoC generating complete112 : 500
+HoC saving...112 : 500
+SIFT saving complete112 : 500
+SIFT generating...113 : 500
+SIFT generating complete113 : 500
+SIFT saving...113 : 500
+SIFT saving complete113 : 500
+HoC generating...113 : 500
+HoC generating complete113 : 500
+HoC saving...113 : 500
+SIFT saving complete113 : 500
+SIFT generating...114 : 500
+SIFT generating complete114 : 500
+SIFT saving...114 : 500
+SIFT saving complete114 : 500
+HoC generating...114 : 500
+HoC generating complete114 : 500
+HoC saving...114 : 500
+SIFT saving complete114 : 500
+SIFT generating...115 : 500
+SIFT generating complete115 : 500
+SIFT saving...115 : 500
+SIFT saving complete115 : 500
+HoC generating...115 : 500
+HoC generating complete115 : 500
+HoC saving...115 : 500
+SIFT saving complete115 : 500
+SIFT generating...116 : 500
+SIFT generating complete116 : 500
+SIFT saving...116 : 500
+SIFT saving complete116 : 500
+HoC generating...116 : 500
+HoC generating complete116 : 500
+HoC saving...116 : 500
+SIFT saving complete116 : 500
+SIFT generating...117 : 500
+SIFT generating complete117 : 500
+SIFT saving...117 : 500
+SIFT saving complete117 : 500
+HoC generating...117 : 500
+HoC generating complete117 : 500
+HoC saving...117 : 500
+SIFT saving complete117 : 500
+SIFT generating...118 : 500
+SIFT generating complete118 : 500
+SIFT saving...118 : 500
+SIFT saving complete118 : 500
+HoC generating...118 : 500
+HoC generating complete118 : 500
+HoC saving...118 : 500
+SIFT saving complete118 : 500
+SIFT generating...119 : 500
+SIFT generating complete119 : 500
+SIFT saving...119 : 500
+SIFT saving complete119 : 500
+HoC generating...119 : 500
+HoC generating complete119 : 500
+HoC saving...119 : 500
+SIFT saving complete119 : 500
+SIFT generating...120 : 500
+SIFT generating complete120 : 500
+SIFT saving...120 : 500
+SIFT saving complete120 : 500
+HoC generating...120 : 500
+HoC generating complete120 : 500
+HoC saving...120 : 500
+SIFT saving complete120 : 500
+SIFT generating...121 : 500
+SIFT generating complete121 : 500
+SIFT saving...121 : 500
+SIFT saving complete121 : 500
+HoC generating...121 : 500
+HoC generating complete121 : 500
+HoC saving...121 : 500
+SIFT saving complete121 : 500
+SIFT generating...122 : 500
+SIFT generating complete122 : 500
+SIFT saving...122 : 500
+SIFT saving complete122 : 500
+HoC generating...122 : 500
+HoC generating complete122 : 500
+HoC saving...122 : 500
+SIFT saving complete122 : 500
+SIFT generating...123 : 500
+SIFT generating complete123 : 500
+SIFT saving...123 : 500
+SIFT saving complete123 : 500
+HoC generating...123 : 500
+HoC generating complete123 : 500
+HoC saving...123 : 500
+SIFT saving complete123 : 500
+SIFT generating...124 : 500
+SIFT generating complete124 : 500
+SIFT saving...124 : 500
+SIFT saving complete124 : 500
+HoC generating...124 : 500
+HoC generating complete124 : 500
+HoC saving...124 : 500
+SIFT saving complete124 : 500
+SIFT generating...125 : 500
+SIFT generating complete125 : 500
+SIFT saving...125 : 500
+SIFT saving complete125 : 500
+HoC generating...125 : 500
+HoC generating complete125 : 500
+HoC saving...125 : 500
+SIFT saving complete125 : 500
+SIFT generating...126 : 500
+SIFT generating complete126 : 500
+SIFT saving...126 : 500
+SIFT saving complete126 : 500
+HoC generating...126 : 500
+HoC generating complete126 : 500
+HoC saving...126 : 500
+SIFT saving complete126 : 500
+SIFT generating...127 : 500
+SIFT generating complete127 : 500
+SIFT saving...127 : 500
+SIFT saving complete127 : 500
+HoC generating...127 : 500
+HoC generating complete127 : 500
+HoC saving...127 : 500
+SIFT saving complete127 : 500
+SIFT generating...128 : 500
+SIFT generating complete128 : 500
+SIFT saving...128 : 500
+SIFT saving complete128 : 500
+HoC generating...128 : 500
+HoC generating complete128 : 500
+HoC saving...128 : 500
+SIFT saving complete128 : 500
+SIFT generating...129 : 500
+SIFT generating complete129 : 500
+SIFT saving...129 : 500
+SIFT saving complete129 : 500
+HoC generating...129 : 500
+HoC generating complete129 : 500
+HoC saving...129 : 500
+SIFT saving complete129 : 500
+SIFT generating...130 : 500
+SIFT generating complete130 : 500
+SIFT saving...130 : 500
+SIFT saving complete130 : 500
+HoC generating...130 : 500
+HoC generating complete130 : 500
+HoC saving...130 : 500
+SIFT saving complete130 : 500
+SIFT generating...131 : 500
+SIFT generating complete131 : 500
+SIFT saving...131 : 500
+SIFT saving complete131 : 500
+HoC generating...131 : 500
+HoC generating complete131 : 500
+HoC saving...131 : 500
+SIFT saving complete131 : 500
+SIFT generating...132 : 500
+SIFT generating complete132 : 500
+SIFT saving...132 : 500
+SIFT saving complete132 : 500
+HoC generating...132 : 500
+HoC generating complete132 : 500
+HoC saving...132 : 500
+SIFT saving complete132 : 500
+SIFT generating...133 : 500
+SIFT generating complete133 : 500
+SIFT saving...133 : 500
+SIFT saving complete133 : 500
+HoC generating...133 : 500
+HoC generating complete133 : 500
+HoC saving...133 : 500
+SIFT saving complete133 : 500
+SIFT generating...134 : 500
+SIFT generating complete134 : 500
+SIFT saving...134 : 500
+SIFT saving complete134 : 500
+HoC generating...134 : 500
+HoC generating complete134 : 500
+HoC saving...134 : 500
+SIFT saving complete134 : 500
+SIFT generating...135 : 500
+SIFT generating complete135 : 500
+SIFT saving...135 : 500
+SIFT saving complete135 : 500
+HoC generating...135 : 500
+HoC generating complete135 : 500
+HoC saving...135 : 500
+SIFT saving complete135 : 500
+SIFT generating...136 : 500
+SIFT generating complete136 : 500
+SIFT saving...136 : 500
+SIFT saving complete136 : 500
+HoC generating...136 : 500
+HoC generating complete136 : 500
+HoC saving...136 : 500
+SIFT saving complete136 : 500
+SIFT generating...137 : 500
+SIFT generating complete137 : 500
+SIFT saving...137 : 500
+SIFT saving complete137 : 500
+HoC generating...137 : 500
+HoC generating complete137 : 500
+HoC saving...137 : 500
+SIFT saving complete137 : 500
+SIFT generating...138 : 500
+SIFT generating complete138 : 500
+SIFT saving...138 : 500
+SIFT saving complete138 : 500
+HoC generating...138 : 500
+HoC generating complete138 : 500
+HoC saving...138 : 500
+SIFT saving complete138 : 500
+SIFT generating...139 : 500
+SIFT generating complete139 : 500
+SIFT saving...139 : 500
+SIFT saving complete139 : 500
+HoC generating...139 : 500
+HoC generating complete139 : 500
+HoC saving...139 : 500
+SIFT saving complete139 : 500
+SIFT generating...140 : 500
+SIFT generating complete140 : 500
+SIFT saving...140 : 500
+SIFT saving complete140 : 500
+HoC generating...140 : 500
+HoC generating complete140 : 500
+HoC saving...140 : 500
+SIFT saving complete140 : 500
+SIFT generating...141 : 500
+SIFT generating complete141 : 500
+SIFT saving...141 : 500
+SIFT saving complete141 : 500
+HoC generating...141 : 500
+HoC generating complete141 : 500
+HoC saving...141 : 500
+SIFT saving complete141 : 500
+SIFT generating...142 : 500
+SIFT generating complete142 : 500
+SIFT saving...142 : 500
+SIFT saving complete142 : 500
+HoC generating...142 : 500
+HoC generating complete142 : 500
+HoC saving...142 : 500
+SIFT saving complete142 : 500
+SIFT generating...143 : 500
+SIFT generating complete143 : 500
+SIFT saving...143 : 500
+SIFT saving complete143 : 500
+HoC generating...143 : 500
+HoC generating complete143 : 500
+HoC saving...143 : 500
+SIFT saving complete143 : 500
+SIFT generating...144 : 500
+SIFT generating complete144 : 500
+SIFT saving...144 : 500
+SIFT saving complete144 : 500
+HoC generating...144 : 500
+HoC generating complete144 : 500
+HoC saving...144 : 500
+SIFT saving complete144 : 500
+SIFT generating...145 : 500
+SIFT generating complete145 : 500
+SIFT saving...145 : 500
+SIFT saving complete145 : 500
+HoC generating...145 : 500
+HoC generating complete145 : 500
+HoC saving...145 : 500
+SIFT saving complete145 : 500
+SIFT generating...146 : 500
+SIFT generating complete146 : 500
+SIFT saving...146 : 500
+SIFT saving complete146 : 500
+HoC generating...146 : 500
+HoC generating complete146 : 500
+HoC saving...146 : 500
+SIFT saving complete146 : 500
+SIFT generating...147 : 500
+SIFT generating complete147 : 500
+SIFT saving...147 : 500
+SIFT saving complete147 : 500
+HoC generating...147 : 500
+HoC generating complete147 : 500
+HoC saving...147 : 500
+SIFT saving complete147 : 500
+SIFT generating...148 : 500
+SIFT generating complete148 : 500
+SIFT saving...148 : 500
+SIFT saving complete148 : 500
+HoC generating...148 : 500
+HoC generating complete148 : 500
+HoC saving...148 : 500
+SIFT saving complete148 : 500
+SIFT generating...149 : 500
+SIFT generating complete149 : 500
+SIFT saving...149 : 500
+SIFT saving complete149 : 500
+HoC generating...149 : 500
+HoC generating complete149 : 500
+HoC saving...149 : 500
+SIFT saving complete149 : 500
+SIFT generating...150 : 500
+SIFT generating complete150 : 500
+SIFT saving...150 : 500
+SIFT saving complete150 : 500
+HoC generating...150 : 500
+HoC generating complete150 : 500
+HoC saving...150 : 500
+SIFT saving complete150 : 500
+SIFT generating...151 : 500
+SIFT generating complete151 : 500
+SIFT saving...151 : 500
+SIFT saving complete151 : 500
+HoC generating...151 : 500
+HoC generating complete151 : 500
+HoC saving...151 : 500
+SIFT saving complete151 : 500
+SIFT generating...152 : 500
+SIFT generating complete152 : 500
+SIFT saving...152 : 500
+SIFT saving complete152 : 500
+HoC generating...152 : 500
+HoC generating complete152 : 500
+HoC saving...152 : 500
+SIFT saving complete152 : 500
+SIFT generating...153 : 500
+SIFT generating complete153 : 500
+SIFT saving...153 : 500
+SIFT saving complete153 : 500
+HoC generating...153 : 500
+HoC generating complete153 : 500
+HoC saving...153 : 500
+SIFT saving complete153 : 500
+SIFT generating...154 : 500
+SIFT generating complete154 : 500
+SIFT saving...154 : 500
+SIFT saving complete154 : 500
+HoC generating...154 : 500
+HoC generating complete154 : 500
+HoC saving...154 : 500
+SIFT saving complete154 : 500
+SIFT generating...155 : 500
+SIFT generating complete155 : 500
+SIFT saving...155 : 500
+SIFT saving complete155 : 500
+HoC generating...155 : 500
+HoC generating complete155 : 500
+HoC saving...155 : 500
+SIFT saving complete155 : 500
+SIFT generating...156 : 500
+SIFT generating complete156 : 500
+SIFT saving...156 : 500
+SIFT saving complete156 : 500
+HoC generating...156 : 500
+HoC generating complete156 : 500
+HoC saving...156 : 500
+SIFT saving complete156 : 500
+SIFT generating...157 : 500
+SIFT generating complete157 : 500
+SIFT saving...157 : 500
+SIFT saving complete157 : 500
+HoC generating...157 : 500
+HoC generating complete157 : 500
+HoC saving...157 : 500
+SIFT saving complete157 : 500
+SIFT generating...158 : 500
+SIFT generating complete158 : 500
+SIFT saving...158 : 500
+SIFT saving complete158 : 500
+HoC generating...158 : 500
+HoC generating complete158 : 500
+HoC saving...158 : 500
+SIFT saving complete158 : 500
+SIFT generating...159 : 500
+SIFT generating complete159 : 500
+SIFT saving...159 : 500
+SIFT saving complete159 : 500
+HoC generating...159 : 500
+HoC generating complete159 : 500
+HoC saving...159 : 500
+SIFT saving complete159 : 500
+SIFT generating...160 : 500
+SIFT generating complete160 : 500
+SIFT saving...160 : 500
+SIFT saving complete160 : 500
+HoC generating...160 : 500
+HoC generating complete160 : 500
+HoC saving...160 : 500
+SIFT saving complete160 : 500
+SIFT generating...161 : 500
+SIFT generating complete161 : 500
+SIFT saving...161 : 500
+SIFT saving complete161 : 500
+HoC generating...161 : 500
+HoC generating complete161 : 500
+HoC saving...161 : 500
+SIFT saving complete161 : 500
+SIFT generating...162 : 500
+SIFT generating complete162 : 500
+SIFT saving...162 : 500
+SIFT saving complete162 : 500
+HoC generating...162 : 500
+HoC generating complete162 : 500
+HoC saving...162 : 500
+SIFT saving complete162 : 500
+SIFT generating...163 : 500
+SIFT generating complete163 : 500
+SIFT saving...163 : 500
+SIFT saving complete163 : 500
+HoC generating...163 : 500
+HoC generating complete163 : 500
+HoC saving...163 : 500
+SIFT saving complete163 : 500
+SIFT generating...164 : 500
+SIFT generating complete164 : 500
+SIFT saving...164 : 500
+SIFT saving complete164 : 500
+HoC generating...164 : 500
+HoC generating complete164 : 500
+HoC saving...164 : 500
+SIFT saving complete164 : 500
+SIFT generating...165 : 500
+SIFT generating complete165 : 500
+SIFT saving...165 : 500
+SIFT saving complete165 : 500
+HoC generating...165 : 500
+HoC generating complete165 : 500
+HoC saving...165 : 500
+SIFT saving complete165 : 500
+SIFT generating...166 : 500
+SIFT generating complete166 : 500
+SIFT saving...166 : 500
+SIFT saving complete166 : 500
+HoC generating...166 : 500
+HoC generating complete166 : 500
+HoC saving...166 : 500
+SIFT saving complete166 : 500
+SIFT generating...167 : 500
+SIFT generating complete167 : 500
+SIFT saving...167 : 500
+SIFT saving complete167 : 500
+HoC generating...167 : 500
+HoC generating complete167 : 500
+HoC saving...167 : 500
+SIFT saving complete167 : 500
+SIFT generating...168 : 500
+SIFT generating complete168 : 500
+SIFT saving...168 : 500
+SIFT saving complete168 : 500
+HoC generating...168 : 500
+HoC generating complete168 : 500
+HoC saving...168 : 500
+SIFT saving complete168 : 500
+SIFT generating...169 : 500
+SIFT generating complete169 : 500
+SIFT saving...169 : 500
+SIFT saving complete169 : 500
+HoC generating...169 : 500
+HoC generating complete169 : 500
+HoC saving...169 : 500
+SIFT saving complete169 : 500
+SIFT generating...170 : 500
+SIFT generating complete170 : 500
+SIFT saving...170 : 500
+SIFT saving complete170 : 500
+HoC generating...170 : 500
+HoC generating complete170 : 500
+HoC saving...170 : 500
+SIFT saving complete170 : 500
+SIFT generating...171 : 500
+SIFT generating complete171 : 500
+SIFT saving...171 : 500
+SIFT saving complete171 : 500
+HoC generating...171 : 500
+HoC generating complete171 : 500
+HoC saving...171 : 500
+SIFT saving complete171 : 500
+SIFT generating...172 : 500
+SIFT generating complete172 : 500
+SIFT saving...172 : 500
+SIFT saving complete172 : 500
+HoC generating...172 : 500
+HoC generating complete172 : 500
+HoC saving...172 : 500
+SIFT saving complete172 : 500
+SIFT generating...173 : 500
+SIFT generating complete173 : 500
+SIFT saving...173 : 500
+SIFT saving complete173 : 500
+HoC generating...173 : 500
+HoC generating complete173 : 500
+HoC saving...173 : 500
+SIFT saving complete173 : 500
+SIFT generating...174 : 500
+SIFT generating complete174 : 500
+SIFT saving...174 : 500
+SIFT saving complete174 : 500
+HoC generating...174 : 500
+HoC generating complete174 : 500
+HoC saving...174 : 500
+SIFT saving complete174 : 500
+SIFT generating...175 : 500
+SIFT generating complete175 : 500
+SIFT saving...175 : 500
+SIFT saving complete175 : 500
+HoC generating...175 : 500
+HoC generating complete175 : 500
+HoC saving...175 : 500
+SIFT saving complete175 : 500
+SIFT generating...176 : 500
+SIFT generating complete176 : 500
+SIFT saving...176 : 500
+SIFT saving complete176 : 500
+HoC generating...176 : 500
+HoC generating complete176 : 500
+HoC saving...176 : 500
+SIFT saving complete176 : 500
+SIFT generating...177 : 500
+SIFT generating complete177 : 500
+SIFT saving...177 : 500
+SIFT saving complete177 : 500
+HoC generating...177 : 500
+HoC generating complete177 : 500
+HoC saving...177 : 500
+SIFT saving complete177 : 500
+SIFT generating...178 : 500
+SIFT generating complete178 : 500
+SIFT saving...178 : 500
+SIFT saving complete178 : 500
+HoC generating...178 : 500
+HoC generating complete178 : 500
+HoC saving...178 : 500
+SIFT saving complete178 : 500
+SIFT generating...179 : 500
+SIFT generating complete179 : 500
+SIFT saving...179 : 500
+SIFT saving complete179 : 500
+HoC generating...179 : 500
+HoC generating complete179 : 500
+HoC saving...179 : 500
+SIFT saving complete179 : 500
+SIFT generating...180 : 500
+SIFT generating complete180 : 500
+SIFT saving...180 : 500
+SIFT saving complete180 : 500
+HoC generating...180 : 500
+HoC generating complete180 : 500
+HoC saving...180 : 500
+SIFT saving complete180 : 500
+SIFT generating...181 : 500
+SIFT generating complete181 : 500
+SIFT saving...181 : 500
+SIFT saving complete181 : 500
+HoC generating...181 : 500
+HoC generating complete181 : 500
+HoC saving...181 : 500
+SIFT saving complete181 : 500
+SIFT generating...182 : 500
+SIFT generating complete182 : 500
+SIFT saving...182 : 500
+SIFT saving complete182 : 500
+HoC generating...182 : 500
+HoC generating complete182 : 500
+HoC saving...182 : 500
+SIFT saving complete182 : 500
+SIFT generating...183 : 500
+SIFT generating complete183 : 500
+SIFT saving...183 : 500
+SIFT saving complete183 : 500
+HoC generating...183 : 500
+HoC generating complete183 : 500
+HoC saving...183 : 500
+SIFT saving complete183 : 500
+SIFT generating...184 : 500
+SIFT generating complete184 : 500
+SIFT saving...184 : 500
+SIFT saving complete184 : 500
+HoC generating...184 : 500
+HoC generating complete184 : 500
+HoC saving...184 : 500
+SIFT saving complete184 : 500
+SIFT generating...185 : 500
+SIFT generating complete185 : 500
+SIFT saving...185 : 500
+SIFT saving complete185 : 500
+HoC generating...185 : 500
+HoC generating complete185 : 500
+HoC saving...185 : 500
+SIFT saving complete185 : 500
+SIFT generating...186 : 500
+SIFT generating complete186 : 500
+SIFT saving...186 : 500
+SIFT saving complete186 : 500
+HoC generating...186 : 500
+HoC generating complete186 : 500
+HoC saving...186 : 500
+SIFT saving complete186 : 500
+SIFT generating...187 : 500
+SIFT generating complete187 : 500
+SIFT saving...187 : 500
+SIFT saving complete187 : 500
+HoC generating...187 : 500
+HoC generating complete187 : 500
+HoC saving...187 : 500
+SIFT saving complete187 : 500
+SIFT generating...188 : 500
+SIFT generating complete188 : 500
+SIFT saving...188 : 500
+SIFT saving complete188 : 500
+HoC generating...188 : 500
+HoC generating complete188 : 500
+HoC saving...188 : 500
+SIFT saving complete188 : 500
+SIFT generating...189 : 500
+SIFT generating complete189 : 500
+SIFT saving...189 : 500
+SIFT saving complete189 : 500
+HoC generating...189 : 500
+HoC generating complete189 : 500
+HoC saving...189 : 500
+SIFT saving complete189 : 500
+SIFT generating...190 : 500
+SIFT generating complete190 : 500
+SIFT saving...190 : 500
+SIFT saving complete190 : 500
+HoC generating...190 : 500
+HoC generating complete190 : 500
+HoC saving...190 : 500
+SIFT saving complete190 : 500
+SIFT generating...191 : 500
+SIFT generating complete191 : 500
+SIFT saving...191 : 500
+SIFT saving complete191 : 500
+HoC generating...191 : 500
+HoC generating complete191 : 500
+HoC saving...191 : 500
+SIFT saving complete191 : 500
+SIFT generating...192 : 500
+SIFT generating complete192 : 500
+SIFT saving...192 : 500
+SIFT saving complete192 : 500
+HoC generating...192 : 500
+HoC generating complete192 : 500
+HoC saving...192 : 500
+SIFT saving complete192 : 500
+SIFT generating...193 : 500
+SIFT generating complete193 : 500
+SIFT saving...193 : 500
+SIFT saving complete193 : 500
+HoC generating...193 : 500
+HoC generating complete193 : 500
+HoC saving...193 : 500
+SIFT saving complete193 : 500
+SIFT generating...194 : 500
+SIFT generating complete194 : 500
+SIFT saving...194 : 500
+SIFT saving complete194 : 500
+HoC generating...194 : 500
+HoC generating complete194 : 500
+HoC saving...194 : 500
+SIFT saving complete194 : 500
+SIFT generating...195 : 500
+SIFT generating complete195 : 500
+SIFT saving...195 : 500
+SIFT saving complete195 : 500
+HoC generating...195 : 500
+HoC generating complete195 : 500
+HoC saving...195 : 500
+SIFT saving complete195 : 500
+SIFT generating...196 : 500
+SIFT generating complete196 : 500
+SIFT saving...196 : 500
+SIFT saving complete196 : 500
+HoC generating...196 : 500
+HoC generating complete196 : 500
+HoC saving...196 : 500
+SIFT saving complete196 : 500
+SIFT generating...197 : 500
+SIFT generating complete197 : 500
+SIFT saving...197 : 500
+SIFT saving complete197 : 500
+HoC generating...197 : 500
+HoC generating complete197 : 500
+HoC saving...197 : 500
+SIFT saving complete197 : 500
+SIFT generating...198 : 500
+SIFT generating complete198 : 500
+SIFT saving...198 : 500
+SIFT saving complete198 : 500
+HoC generating...198 : 500
+HoC generating complete198 : 500
+HoC saving...198 : 500
+SIFT saving complete198 : 500
+SIFT generating...199 : 500
+SIFT generating complete199 : 500
+SIFT saving...199 : 500
+SIFT saving complete199 : 500
+HoC generating...199 : 500
+HoC generating complete199 : 500
+HoC saving...199 : 500
+SIFT saving complete199 : 500
+SIFT generating...200 : 500
+SIFT generating complete200 : 500
+SIFT saving...200 : 500
+SIFT saving complete200 : 500
+HoC generating...200 : 500
+HoC generating complete200 : 500
+HoC saving...200 : 500
+SIFT saving complete200 : 500
+SIFT generating...201 : 500
+SIFT generating complete201 : 500
+SIFT saving...201 : 500
+SIFT saving complete201 : 500
+HoC generating...201 : 500
+HoC generating complete201 : 500
+HoC saving...201 : 500
+SIFT saving complete201 : 500
+SIFT generating...202 : 500
+SIFT generating complete202 : 500
+SIFT saving...202 : 500
+SIFT saving complete202 : 500
+HoC generating...202 : 500
+HoC generating complete202 : 500
+HoC saving...202 : 500
+SIFT saving complete202 : 500
+SIFT generating...203 : 500
+SIFT generating complete203 : 500
+SIFT saving...203 : 500
+SIFT saving complete203 : 500
+HoC generating...203 : 500
+HoC generating complete203 : 500
+HoC saving...203 : 500
+SIFT saving complete203 : 500
+SIFT generating...204 : 500
+SIFT generating complete204 : 500
+SIFT saving...204 : 500
+SIFT saving complete204 : 500
+HoC generating...204 : 500
+HoC generating complete204 : 500
+HoC saving...204 : 500
+SIFT saving complete204 : 500
+SIFT generating...205 : 500
+SIFT generating complete205 : 500
+SIFT saving...205 : 500
+SIFT saving complete205 : 500
+HoC generating...205 : 500
+HoC generating complete205 : 500
+HoC saving...205 : 500
+SIFT saving complete205 : 500
+SIFT generating...206 : 500
+SIFT generating complete206 : 500
+SIFT saving...206 : 500
+SIFT saving complete206 : 500
+HoC generating...206 : 500
+HoC generating complete206 : 500
+HoC saving...206 : 500
+SIFT saving complete206 : 500
+SIFT generating...207 : 500
+SIFT generating complete207 : 500
+SIFT saving...207 : 500
+SIFT saving complete207 : 500
+HoC generating...207 : 500
+HoC generating complete207 : 500
+HoC saving...207 : 500
+SIFT saving complete207 : 500
+SIFT generating...208 : 500
+SIFT generating complete208 : 500
+SIFT saving...208 : 500
+SIFT saving complete208 : 500
+HoC generating...208 : 500
+HoC generating complete208 : 500
+HoC saving...208 : 500
+SIFT saving complete208 : 500
+SIFT generating...209 : 500
+SIFT generating complete209 : 500
+SIFT saving...209 : 500
+SIFT saving complete209 : 500
+HoC generating...209 : 500
+HoC generating complete209 : 500
+HoC saving...209 : 500
+SIFT saving complete209 : 500
+SIFT generating...210 : 500
+SIFT generating complete210 : 500
+SIFT saving...210 : 500
+SIFT saving complete210 : 500
+HoC generating...210 : 500
+HoC generating complete210 : 500
+HoC saving...210 : 500
+SIFT saving complete210 : 500
+SIFT generating...211 : 500
+SIFT generating complete211 : 500
+SIFT saving...211 : 500
+SIFT saving complete211 : 500
+HoC generating...211 : 500
+HoC generating complete211 : 500
+HoC saving...211 : 500
+SIFT saving complete211 : 500
+SIFT generating...212 : 500
+SIFT generating complete212 : 500
+SIFT saving...212 : 500
+SIFT saving complete212 : 500
+HoC generating...212 : 500
+HoC generating complete212 : 500
+HoC saving...212 : 500
+SIFT saving complete212 : 500
+SIFT generating...213 : 500
+SIFT generating complete213 : 500
+SIFT saving...213 : 500
+SIFT saving complete213 : 500
+HoC generating...213 : 500
+HoC generating complete213 : 500
+HoC saving...213 : 500
+SIFT saving complete213 : 500
+SIFT generating...214 : 500
+SIFT generating complete214 : 500
+SIFT saving...214 : 500
+SIFT saving complete214 : 500
+HoC generating...214 : 500
+HoC generating complete214 : 500
+HoC saving...214 : 500
+SIFT saving complete214 : 500
+SIFT generating...215 : 500
+SIFT generating complete215 : 500
+SIFT saving...215 : 500
+SIFT saving complete215 : 500
+HoC generating...215 : 500
+HoC generating complete215 : 500
+HoC saving...215 : 500
+SIFT saving complete215 : 500
+SIFT generating...216 : 500
+SIFT generating complete216 : 500
+SIFT saving...216 : 500
+SIFT saving complete216 : 500
+HoC generating...216 : 500
+HoC generating complete216 : 500
+HoC saving...216 : 500
+SIFT saving complete216 : 500
+SIFT generating...217 : 500
+SIFT generating complete217 : 500
+SIFT saving...217 : 500
+SIFT saving complete217 : 500
+HoC generating...217 : 500
+HoC generating complete217 : 500
+HoC saving...217 : 500
+SIFT saving complete217 : 500
+SIFT generating...218 : 500
+SIFT generating complete218 : 500
+SIFT saving...218 : 500
+SIFT saving complete218 : 500
+HoC generating...218 : 500
+HoC generating complete218 : 500
+HoC saving...218 : 500
+SIFT saving complete218 : 500
+SIFT generating...219 : 500
+SIFT generating complete219 : 500
+SIFT saving...219 : 500
+SIFT saving complete219 : 500
+HoC generating...219 : 500
+HoC generating complete219 : 500
+HoC saving...219 : 500
+SIFT saving complete219 : 500
+SIFT generating...220 : 500
+SIFT generating complete220 : 500
+SIFT saving...220 : 500
+SIFT saving complete220 : 500
+HoC generating...220 : 500
+HoC generating complete220 : 500
+HoC saving...220 : 500
+SIFT saving complete220 : 500
+SIFT generating...221 : 500
+SIFT generating complete221 : 500
+SIFT saving...221 : 500
+SIFT saving complete221 : 500
+HoC generating...221 : 500
+HoC generating complete221 : 500
+HoC saving...221 : 500
+SIFT saving complete221 : 500
+SIFT generating...222 : 500
+SIFT generating complete222 : 500
+SIFT saving...222 : 500
+SIFT saving complete222 : 500
+HoC generating...222 : 500
+HoC generating complete222 : 500
+HoC saving...222 : 500
+SIFT saving complete222 : 500
+SIFT generating...223 : 500
+SIFT generating complete223 : 500
+SIFT saving...223 : 500
+SIFT saving complete223 : 500
+HoC generating...223 : 500
+HoC generating complete223 : 500
+HoC saving...223 : 500
+SIFT saving complete223 : 500
+SIFT generating...224 : 500
+SIFT generating complete224 : 500
+SIFT saving...224 : 500
+SIFT saving complete224 : 500
+HoC generating...224 : 500
+HoC generating complete224 : 500
+HoC saving...224 : 500
+SIFT saving complete224 : 500
+SIFT generating...225 : 500
+SIFT generating complete225 : 500
+SIFT saving...225 : 500
+SIFT saving complete225 : 500
+HoC generating...225 : 500
+HoC generating complete225 : 500
+HoC saving...225 : 500
+SIFT saving complete225 : 500
+SIFT generating...226 : 500
+SIFT generating complete226 : 500
+SIFT saving...226 : 500
+SIFT saving complete226 : 500
+HoC generating...226 : 500
+HoC generating complete226 : 500
+HoC saving...226 : 500
+SIFT saving complete226 : 500
+SIFT generating...227 : 500
+SIFT generating complete227 : 500
+SIFT saving...227 : 500
+SIFT saving complete227 : 500
+HoC generating...227 : 500
+HoC generating complete227 : 500
+HoC saving...227 : 500
+SIFT saving complete227 : 500
+SIFT generating...228 : 500
+SIFT generating complete228 : 500
+SIFT saving...228 : 500
+SIFT saving complete228 : 500
+HoC generating...228 : 500
+HoC generating complete228 : 500
+HoC saving...228 : 500
+SIFT saving complete228 : 500
+SIFT generating...229 : 500
+SIFT generating complete229 : 500
+SIFT saving...229 : 500
+SIFT saving complete229 : 500
+HoC generating...229 : 500
+HoC generating complete229 : 500
+HoC saving...229 : 500
+SIFT saving complete229 : 500
+SIFT generating...230 : 500
+SIFT generating complete230 : 500
+SIFT saving...230 : 500
+SIFT saving complete230 : 500
+HoC generating...230 : 500
+HoC generating complete230 : 500
+HoC saving...230 : 500
+SIFT saving complete230 : 500
+SIFT generating...231 : 500
+SIFT generating complete231 : 500
+SIFT saving...231 : 500
+SIFT saving complete231 : 500
+HoC generating...231 : 500
+HoC generating complete231 : 500
+HoC saving...231 : 500
+SIFT saving complete231 : 500
+SIFT generating...232 : 500
+SIFT generating complete232 : 500
+SIFT saving...232 : 500
+SIFT saving complete232 : 500
+HoC generating...232 : 500
+HoC generating complete232 : 500
+HoC saving...232 : 500
+SIFT saving complete232 : 500
+SIFT generating...233 : 500
+SIFT generating complete233 : 500
+SIFT saving...233 : 500
+SIFT saving complete233 : 500
+HoC generating...233 : 500
+HoC generating complete233 : 500
+HoC saving...233 : 500
+SIFT saving complete233 : 500
+SIFT generating...234 : 500
+SIFT generating complete234 : 500
+SIFT saving...234 : 500
+SIFT saving complete234 : 500
+HoC generating...234 : 500
+HoC generating complete234 : 500
+HoC saving...234 : 500
+SIFT saving complete234 : 500
+SIFT generating...235 : 500
+SIFT generating complete235 : 500
+SIFT saving...235 : 500
+SIFT saving complete235 : 500
+HoC generating...235 : 500
+HoC generating complete235 : 500
+HoC saving...235 : 500
+SIFT saving complete235 : 500
+SIFT generating...236 : 500
+SIFT generating complete236 : 500
+SIFT saving...236 : 500
+SIFT saving complete236 : 500
+HoC generating...236 : 500
+HoC generating complete236 : 500
+HoC saving...236 : 500
+SIFT saving complete236 : 500
+SIFT generating...237 : 500
+SIFT generating complete237 : 500
+SIFT saving...237 : 500
+SIFT saving complete237 : 500
+HoC generating...237 : 500
+HoC generating complete237 : 500
+HoC saving...237 : 500
+SIFT saving complete237 : 500
+SIFT generating...238 : 500
+SIFT generating complete238 : 500
+SIFT saving...238 : 500
+SIFT saving complete238 : 500
+HoC generating...238 : 500
+HoC generating complete238 : 500
+HoC saving...238 : 500
+SIFT saving complete238 : 500
+SIFT generating...239 : 500
+SIFT generating complete239 : 500
+SIFT saving...239 : 500
+SIFT saving complete239 : 500
+HoC generating...239 : 500
+HoC generating complete239 : 500
+HoC saving...239 : 500
+SIFT saving complete239 : 500
+SIFT generating...240 : 500
+SIFT generating complete240 : 500
+SIFT saving...240 : 500
+SIFT saving complete240 : 500
+HoC generating...240 : 500
+HoC generating complete240 : 500
+HoC saving...240 : 500
+SIFT saving complete240 : 500
+SIFT generating...241 : 500
+SIFT generating complete241 : 500
+SIFT saving...241 : 500
+SIFT saving complete241 : 500
+HoC generating...241 : 500
+HoC generating complete241 : 500
+HoC saving...241 : 500
+SIFT saving complete241 : 500
+SIFT generating...242 : 500
+SIFT generating complete242 : 500
+SIFT saving...242 : 500
+SIFT saving complete242 : 500
+HoC generating...242 : 500
+HoC generating complete242 : 500
+HoC saving...242 : 500
+SIFT saving complete242 : 500
+SIFT generating...243 : 500
+SIFT generating complete243 : 500
+SIFT saving...243 : 500
+SIFT saving complete243 : 500
+HoC generating...243 : 500
+HoC generating complete243 : 500
+HoC saving...243 : 500
+SIFT saving complete243 : 500
+SIFT generating...244 : 500
+SIFT generating complete244 : 500
+SIFT saving...244 : 500
+SIFT saving complete244 : 500
+HoC generating...244 : 500
+HoC generating complete244 : 500
+HoC saving...244 : 500
+SIFT saving complete244 : 500
+SIFT generating...245 : 500
+SIFT generating complete245 : 500
+SIFT saving...245 : 500
+SIFT saving complete245 : 500
+HoC generating...245 : 500
+HoC generating complete245 : 500
+HoC saving...245 : 500
+SIFT saving complete245 : 500
+SIFT generating...246 : 500
+SIFT generating complete246 : 500
+SIFT saving...246 : 500
+SIFT saving complete246 : 500
+HoC generating...246 : 500
+HoC generating complete246 : 500
+HoC saving...246 : 500
+SIFT saving complete246 : 500
+SIFT generating...247 : 500
+SIFT generating complete247 : 500
+SIFT saving...247 : 500
+SIFT saving complete247 : 500
+HoC generating...247 : 500
+HoC generating complete247 : 500
+HoC saving...247 : 500
+SIFT saving complete247 : 500
+SIFT generating...248 : 500
+SIFT generating complete248 : 500
+SIFT saving...248 : 500
+SIFT saving complete248 : 500
+HoC generating...248 : 500
+HoC generating complete248 : 500
+HoC saving...248 : 500
+SIFT saving complete248 : 500
+SIFT generating...249 : 500
+SIFT generating complete249 : 500
+SIFT saving...249 : 500
+SIFT saving complete249 : 500
+HoC generating...249 : 500
+HoC generating complete249 : 500
+HoC saving...249 : 500
+SIFT saving complete249 : 500
+SIFT generating...250 : 500
+SIFT generating complete250 : 500
+SIFT saving...250 : 500
+SIFT saving complete250 : 500
+HoC generating...250 : 500
+HoC generating complete250 : 500
+HoC saving...250 : 500
+SIFT saving complete250 : 500
+SIFT generating...251 : 500
+SIFT generating complete251 : 500
+SIFT saving...251 : 500
+SIFT saving complete251 : 500
+HoC generating...251 : 500
+HoC generating complete251 : 500
+HoC saving...251 : 500
+SIFT saving complete251 : 500
+SIFT generating...252 : 500
+SIFT generating complete252 : 500
+SIFT saving...252 : 500
+SIFT saving complete252 : 500
+HoC generating...252 : 500
+HoC generating complete252 : 500
+HoC saving...252 : 500
+SIFT saving complete252 : 500
+SIFT generating...253 : 500
+SIFT generating complete253 : 500
+SIFT saving...253 : 500
+SIFT saving complete253 : 500
+HoC generating...253 : 500
+HoC generating complete253 : 500
+HoC saving...253 : 500
+SIFT saving complete253 : 500
+SIFT generating...254 : 500
+SIFT generating complete254 : 500
+SIFT saving...254 : 500
+SIFT saving complete254 : 500
+HoC generating...254 : 500
+HoC generating complete254 : 500
+HoC saving...254 : 500
+SIFT saving complete254 : 500
+SIFT generating...255 : 500
+SIFT generating complete255 : 500
+SIFT saving...255 : 500
+SIFT saving complete255 : 500
+HoC generating...255 : 500
+HoC generating complete255 : 500
+HoC saving...255 : 500
+SIFT saving complete255 : 500
+SIFT generating...256 : 500
+SIFT generating complete256 : 500
+SIFT saving...256 : 500
+SIFT saving complete256 : 500
+HoC generating...256 : 500
+HoC generating complete256 : 500
+HoC saving...256 : 500
+SIFT saving complete256 : 500
+SIFT generating...257 : 500
+SIFT generating complete257 : 500
+SIFT saving...257 : 500
+SIFT saving complete257 : 500
+HoC generating...257 : 500
+HoC generating complete257 : 500
+HoC saving...257 : 500
+SIFT saving complete257 : 500
+SIFT generating...258 : 500
+SIFT generating complete258 : 500
+SIFT saving...258 : 500
+SIFT saving complete258 : 500
+HoC generating...258 : 500
+HoC generating complete258 : 500
+HoC saving...258 : 500
+SIFT saving complete258 : 500
+SIFT generating...259 : 500
+SIFT generating complete259 : 500
+SIFT saving...259 : 500
+SIFT saving complete259 : 500
+HoC generating...259 : 500
+HoC generating complete259 : 500
+HoC saving...259 : 500
+SIFT saving complete259 : 500
+SIFT generating...260 : 500
+SIFT generating complete260 : 500
+SIFT saving...260 : 500
+SIFT saving complete260 : 500
+HoC generating...260 : 500
+HoC generating complete260 : 500
+HoC saving...260 : 500
+SIFT saving complete260 : 500
+SIFT generating...261 : 500
+SIFT generating complete261 : 500
+SIFT saving...261 : 500
+SIFT saving complete261 : 500
+HoC generating...261 : 500
+HoC generating complete261 : 500
+HoC saving...261 : 500
+SIFT saving complete261 : 500
+SIFT generating...262 : 500
+SIFT generating complete262 : 500
+SIFT saving...262 : 500
+SIFT saving complete262 : 500
+HoC generating...262 : 500
+HoC generating complete262 : 500
+HoC saving...262 : 500
+SIFT saving complete262 : 500
+SIFT generating...263 : 500
+SIFT generating complete263 : 500
+SIFT saving...263 : 500
+SIFT saving complete263 : 500
+HoC generating...263 : 500
+HoC generating complete263 : 500
+HoC saving...263 : 500
+SIFT saving complete263 : 500
+SIFT generating...264 : 500
+SIFT generating complete264 : 500
+SIFT saving...264 : 500
+SIFT saving complete264 : 500
+HoC generating...264 : 500
+HoC generating complete264 : 500
+HoC saving...264 : 500
+SIFT saving complete264 : 500
+SIFT generating...265 : 500
+SIFT generating complete265 : 500
+SIFT saving...265 : 500
+SIFT saving complete265 : 500
+HoC generating...265 : 500
+HoC generating complete265 : 500
+HoC saving...265 : 500
+SIFT saving complete265 : 500
+SIFT generating...266 : 500
+SIFT generating complete266 : 500
+SIFT saving...266 : 500
+SIFT saving complete266 : 500
+HoC generating...266 : 500
+HoC generating complete266 : 500
+HoC saving...266 : 500
+SIFT saving complete266 : 500
+SIFT generating...267 : 500
+SIFT generating complete267 : 500
+SIFT saving...267 : 500
+SIFT saving complete267 : 500
+HoC generating...267 : 500
+HoC generating complete267 : 500
+HoC saving...267 : 500
+SIFT saving complete267 : 500
+SIFT generating...268 : 500
+SIFT generating complete268 : 500
+SIFT saving...268 : 500
+SIFT saving complete268 : 500
+HoC generating...268 : 500
+HoC generating complete268 : 500
+HoC saving...268 : 500
+SIFT saving complete268 : 500
+SIFT generating...269 : 500
+SIFT generating complete269 : 500
+SIFT saving...269 : 500
+SIFT saving complete269 : 500
+HoC generating...269 : 500
+HoC generating complete269 : 500
+HoC saving...269 : 500
+SIFT saving complete269 : 500
+SIFT generating...270 : 500
+SIFT generating complete270 : 500
+SIFT saving...270 : 500
+SIFT saving complete270 : 500
+HoC generating...270 : 500
+HoC generating complete270 : 500
+HoC saving...270 : 500
+SIFT saving complete270 : 500
+SIFT generating...271 : 500
+SIFT generating complete271 : 500
+SIFT saving...271 : 500
+SIFT saving complete271 : 500
+HoC generating...271 : 500
+HoC generating complete271 : 500
+HoC saving...271 : 500
+SIFT saving complete271 : 500
+SIFT generating...272 : 500
+SIFT generating complete272 : 500
+SIFT saving...272 : 500
+SIFT saving complete272 : 500
+HoC generating...272 : 500
+HoC generating complete272 : 500
+HoC saving...272 : 500
+SIFT saving complete272 : 500
+SIFT generating...273 : 500
+SIFT generating complete273 : 500
+SIFT saving...273 : 500
+SIFT saving complete273 : 500
+HoC generating...273 : 500
+HoC generating complete273 : 500
+HoC saving...273 : 500
+SIFT saving complete273 : 500
+SIFT generating...274 : 500
+SIFT generating complete274 : 500
+SIFT saving...274 : 500
+SIFT saving complete274 : 500
+HoC generating...274 : 500
+HoC generating complete274 : 500
+HoC saving...274 : 500
+SIFT saving complete274 : 500
+SIFT generating...275 : 500
+SIFT generating complete275 : 500
+SIFT saving...275 : 500
+SIFT saving complete275 : 500
+HoC generating...275 : 500
+HoC generating complete275 : 500
+HoC saving...275 : 500
+SIFT saving complete275 : 500
+SIFT generating...276 : 500
+SIFT generating complete276 : 500
+SIFT saving...276 : 500
+SIFT saving complete276 : 500
+HoC generating...276 : 500
+HoC generating complete276 : 500
+HoC saving...276 : 500
+SIFT saving complete276 : 500
+SIFT generating...277 : 500
+SIFT generating complete277 : 500
+SIFT saving...277 : 500
+SIFT saving complete277 : 500
+HoC generating...277 : 500
+HoC generating complete277 : 500
+HoC saving...277 : 500
+SIFT saving complete277 : 500
+SIFT generating...278 : 500
+SIFT generating complete278 : 500
+SIFT saving...278 : 500
+SIFT saving complete278 : 500
+HoC generating...278 : 500
+HoC generating complete278 : 500
+HoC saving...278 : 500
+SIFT saving complete278 : 500
+SIFT generating...279 : 500
+SIFT generating complete279 : 500
+SIFT saving...279 : 500
+SIFT saving complete279 : 500
+HoC generating...279 : 500
+HoC generating complete279 : 500
+HoC saving...279 : 500
+SIFT saving complete279 : 500
+SIFT generating...280 : 500
+SIFT generating complete280 : 500
+SIFT saving...280 : 500
+SIFT saving complete280 : 500
+HoC generating...280 : 500
+HoC generating complete280 : 500
+HoC saving...280 : 500
+SIFT saving complete280 : 500
+SIFT generating...281 : 500
+SIFT generating complete281 : 500
+SIFT saving...281 : 500
+SIFT saving complete281 : 500
+HoC generating...281 : 500
+HoC generating complete281 : 500
+HoC saving...281 : 500
+SIFT saving complete281 : 500
+SIFT generating...282 : 500
+SIFT generating complete282 : 500
+SIFT saving...282 : 500
+SIFT saving complete282 : 500
+HoC generating...282 : 500
+HoC generating complete282 : 500
+HoC saving...282 : 500
+SIFT saving complete282 : 500
+SIFT generating...283 : 500
+SIFT generating complete283 : 500
+SIFT saving...283 : 500
+SIFT saving complete283 : 500
+HoC generating...283 : 500
+HoC generating complete283 : 500
+HoC saving...283 : 500
+SIFT saving complete283 : 500
+SIFT generating...284 : 500
+SIFT generating complete284 : 500
+SIFT saving...284 : 500
+SIFT saving complete284 : 500
+HoC generating...284 : 500
+HoC generating complete284 : 500
+HoC saving...284 : 500
+SIFT saving complete284 : 500
+SIFT generating...285 : 500
+SIFT generating complete285 : 500
+SIFT saving...285 : 500
+SIFT saving complete285 : 500
+HoC generating...285 : 500
+HoC generating complete285 : 500
+HoC saving...285 : 500
+SIFT saving complete285 : 500
+SIFT generating...286 : 500
+SIFT generating complete286 : 500
+SIFT saving...286 : 500
+SIFT saving complete286 : 500
+HoC generating...286 : 500
+HoC generating complete286 : 500
+HoC saving...286 : 500
+SIFT saving complete286 : 500
+SIFT generating...287 : 500
+SIFT generating complete287 : 500
+SIFT saving...287 : 500
+SIFT saving complete287 : 500
+HoC generating...287 : 500
+HoC generating complete287 : 500
+HoC saving...287 : 500
+SIFT saving complete287 : 500
+SIFT generating...288 : 500
+SIFT generating complete288 : 500
+SIFT saving...288 : 500
+SIFT saving complete288 : 500
+HoC generating...288 : 500
+HoC generating complete288 : 500
+HoC saving...288 : 500
+SIFT saving complete288 : 500
+SIFT generating...289 : 500
+SIFT generating complete289 : 500
+SIFT saving...289 : 500
+SIFT saving complete289 : 500
+HoC generating...289 : 500
+HoC generating complete289 : 500
+HoC saving...289 : 500
+SIFT saving complete289 : 500
+SIFT generating...290 : 500
+SIFT generating complete290 : 500
+SIFT saving...290 : 500
+SIFT saving complete290 : 500
+HoC generating...290 : 500
+HoC generating complete290 : 500
+HoC saving...290 : 500
+SIFT saving complete290 : 500
+SIFT generating...291 : 500
+SIFT generating complete291 : 500
+SIFT saving...291 : 500
+SIFT saving complete291 : 500
+HoC generating...291 : 500
+HoC generating complete291 : 500
+HoC saving...291 : 500
+SIFT saving complete291 : 500
+SIFT generating...292 : 500
+SIFT generating complete292 : 500
+SIFT saving...292 : 500
+SIFT saving complete292 : 500
+HoC generating...292 : 500
+HoC generating complete292 : 500
+HoC saving...292 : 500
+SIFT saving complete292 : 500
+SIFT generating...293 : 500
+SIFT generating complete293 : 500
+SIFT saving...293 : 500
+SIFT saving complete293 : 500
+HoC generating...293 : 500
+HoC generating complete293 : 500
+HoC saving...293 : 500
+SIFT saving complete293 : 500
+SIFT generating...294 : 500
+SIFT generating complete294 : 500
+SIFT saving...294 : 500
+SIFT saving complete294 : 500
+HoC generating...294 : 500
+HoC generating complete294 : 500
+HoC saving...294 : 500
+SIFT saving complete294 : 500
+SIFT generating...295 : 500
+SIFT generating complete295 : 500
+SIFT saving...295 : 500
+SIFT saving complete295 : 500
+HoC generating...295 : 500
+HoC generating complete295 : 500
+HoC saving...295 : 500
+SIFT saving complete295 : 500
+SIFT generating...296 : 500
+SIFT generating complete296 : 500
+SIFT saving...296 : 500
+SIFT saving complete296 : 500
+HoC generating...296 : 500
+HoC generating complete296 : 500
+HoC saving...296 : 500
+SIFT saving complete296 : 500
+SIFT generating...297 : 500
+SIFT generating complete297 : 500
+SIFT saving...297 : 500
+SIFT saving complete297 : 500
+HoC generating...297 : 500
+HoC generating complete297 : 500
+HoC saving...297 : 500
+SIFT saving complete297 : 500
+SIFT generating...298 : 500
+SIFT generating complete298 : 500
+SIFT saving...298 : 500
+SIFT saving complete298 : 500
+HoC generating...298 : 500
+HoC generating complete298 : 500
+HoC saving...298 : 500
+SIFT saving complete298 : 500
+SIFT generating...299 : 500
+SIFT generating complete299 : 500
+SIFT saving...299 : 500
+SIFT saving complete299 : 500
+HoC generating...299 : 500
+HoC generating complete299 : 500
+HoC saving...299 : 500
+SIFT saving complete299 : 500
+SIFT generating...300 : 500
+SIFT generating complete300 : 500
+SIFT saving...300 : 500
+SIFT saving complete300 : 500
+HoC generating...300 : 500
+HoC generating complete300 : 500
+HoC saving...300 : 500
+SIFT saving complete300 : 500
+SIFT generating...301 : 500
+SIFT generating complete301 : 500
+SIFT saving...301 : 500
+SIFT saving complete301 : 500
+HoC generating...301 : 500
+HoC generating complete301 : 500
+HoC saving...301 : 500
+SIFT saving complete301 : 500
+SIFT generating...302 : 500
+SIFT generating complete302 : 500
+SIFT saving...302 : 500
+SIFT saving complete302 : 500
+HoC generating...302 : 500
+HoC generating complete302 : 500
+HoC saving...302 : 500
+SIFT saving complete302 : 500
+SIFT generating...303 : 500
+SIFT generating complete303 : 500
+SIFT saving...303 : 500
+SIFT saving complete303 : 500
+HoC generating...303 : 500
+HoC generating complete303 : 500
+HoC saving...303 : 500
+SIFT saving complete303 : 500
+SIFT generating...304 : 500
+SIFT generating complete304 : 500
+SIFT saving...304 : 500
+SIFT saving complete304 : 500
+HoC generating...304 : 500
+HoC generating complete304 : 500
+HoC saving...304 : 500
+SIFT saving complete304 : 500
+SIFT generating...305 : 500
+SIFT generating complete305 : 500
+SIFT saving...305 : 500
+SIFT saving complete305 : 500
+HoC generating...305 : 500
+HoC generating complete305 : 500
+HoC saving...305 : 500
+SIFT saving complete305 : 500
+SIFT generating...306 : 500
+SIFT generating complete306 : 500
+SIFT saving...306 : 500
+SIFT saving complete306 : 500
+HoC generating...306 : 500
+HoC generating complete306 : 500
+HoC saving...306 : 500
+SIFT saving complete306 : 500
+SIFT generating...307 : 500
+SIFT generating complete307 : 500
+SIFT saving...307 : 500
+SIFT saving complete307 : 500
+HoC generating...307 : 500
+HoC generating complete307 : 500
+HoC saving...307 : 500
+SIFT saving complete307 : 500
+SIFT generating...308 : 500
+SIFT generating complete308 : 500
+SIFT saving...308 : 500
+SIFT saving complete308 : 500
+HoC generating...308 : 500
+HoC generating complete308 : 500
+HoC saving...308 : 500
+SIFT saving complete308 : 500
+SIFT generating...309 : 500
+SIFT generating complete309 : 500
+SIFT saving...309 : 500
+SIFT saving complete309 : 500
+HoC generating...309 : 500
+HoC generating complete309 : 500
+HoC saving...309 : 500
+SIFT saving complete309 : 500
+SIFT generating...310 : 500
+SIFT generating complete310 : 500
+SIFT saving...310 : 500
+SIFT saving complete310 : 500
+HoC generating...310 : 500
+HoC generating complete310 : 500
+HoC saving...310 : 500
+SIFT saving complete310 : 500
+SIFT generating...311 : 500
+SIFT generating complete311 : 500
+SIFT saving...311 : 500
+SIFT saving complete311 : 500
+HoC generating...311 : 500
+HoC generating complete311 : 500
+HoC saving...311 : 500
+SIFT saving complete311 : 500
+SIFT generating...312 : 500
+SIFT generating complete312 : 500
+SIFT saving...312 : 500
+SIFT saving complete312 : 500
+HoC generating...312 : 500
+HoC generating complete312 : 500
+HoC saving...312 : 500
+SIFT saving complete312 : 500
+SIFT generating...313 : 500
+SIFT generating complete313 : 500
+SIFT saving...313 : 500
+SIFT saving complete313 : 500
+HoC generating...313 : 500
+HoC generating complete313 : 500
+HoC saving...313 : 500
+SIFT saving complete313 : 500
+SIFT generating...314 : 500
+SIFT generating complete314 : 500
+SIFT saving...314 : 500
+SIFT saving complete314 : 500
+HoC generating...314 : 500
+HoC generating complete314 : 500
+HoC saving...314 : 500
+SIFT saving complete314 : 500
+SIFT generating...315 : 500
+SIFT generating complete315 : 500
+SIFT saving...315 : 500
+SIFT saving complete315 : 500
+HoC generating...315 : 500
+HoC generating complete315 : 500
+HoC saving...315 : 500
+SIFT saving complete315 : 500
+SIFT generating...316 : 500
+SIFT generating complete316 : 500
+SIFT saving...316 : 500
+SIFT saving complete316 : 500
+HoC generating...316 : 500
+HoC generating complete316 : 500
+HoC saving...316 : 500
+SIFT saving complete316 : 500
+SIFT generating...317 : 500
+SIFT generating complete317 : 500
+SIFT saving...317 : 500
+SIFT saving complete317 : 500
+HoC generating...317 : 500
+HoC generating complete317 : 500
+HoC saving...317 : 500
+SIFT saving complete317 : 500
+SIFT generating...318 : 500
+SIFT generating complete318 : 500
+SIFT saving...318 : 500
+SIFT saving complete318 : 500
+HoC generating...318 : 500
+HoC generating complete318 : 500
+HoC saving...318 : 500
+SIFT saving complete318 : 500
+SIFT generating...319 : 500
+SIFT generating complete319 : 500
+SIFT saving...319 : 500
+SIFT saving complete319 : 500
+HoC generating...319 : 500
+HoC generating complete319 : 500
+HoC saving...319 : 500
+SIFT saving complete319 : 500
+SIFT generating...320 : 500
+SIFT generating complete320 : 500
+SIFT saving...320 : 500
+SIFT saving complete320 : 500
+HoC generating...320 : 500
+HoC generating complete320 : 500
+HoC saving...320 : 500
+SIFT saving complete320 : 500
+SIFT generating...321 : 500
+SIFT generating complete321 : 500
+SIFT saving...321 : 500
+SIFT saving complete321 : 500
+HoC generating...321 : 500
+HoC generating complete321 : 500
+HoC saving...321 : 500
+SIFT saving complete321 : 500
+SIFT generating...322 : 500
+SIFT generating complete322 : 500
+SIFT saving...322 : 500
+SIFT saving complete322 : 500
+HoC generating...322 : 500
+HoC generating complete322 : 500
+HoC saving...322 : 500
+SIFT saving complete322 : 500
+SIFT generating...323 : 500
+SIFT generating complete323 : 500
+SIFT saving...323 : 500
+SIFT saving complete323 : 500
+HoC generating...323 : 500
+HoC generating complete323 : 500
+HoC saving...323 : 500
+SIFT saving complete323 : 500
+SIFT generating...324 : 500
+SIFT generating complete324 : 500
+SIFT saving...324 : 500
+SIFT saving complete324 : 500
+HoC generating...324 : 500
+HoC generating complete324 : 500
+HoC saving...324 : 500
+SIFT saving complete324 : 500
+SIFT generating...325 : 500
+SIFT generating complete325 : 500
+SIFT saving...325 : 500
+SIFT saving complete325 : 500
+HoC generating...325 : 500
+HoC generating complete325 : 500
+HoC saving...325 : 500
+SIFT saving complete325 : 500
+SIFT generating...326 : 500
+SIFT generating complete326 : 500
+SIFT saving...326 : 500
+SIFT saving complete326 : 500
+HoC generating...326 : 500
+HoC generating complete326 : 500
+HoC saving...326 : 500
+SIFT saving complete326 : 500
+SIFT generating...327 : 500
+SIFT generating complete327 : 500
+SIFT saving...327 : 500
+SIFT saving complete327 : 500
+HoC generating...327 : 500
+HoC generating complete327 : 500
+HoC saving...327 : 500
+SIFT saving complete327 : 500
+SIFT generating...328 : 500
+SIFT generating complete328 : 500
+SIFT saving...328 : 500
+SIFT saving complete328 : 500
+HoC generating...328 : 500
+HoC generating complete328 : 500
+HoC saving...328 : 500
+SIFT saving complete328 : 500
+SIFT generating...329 : 500
+SIFT generating complete329 : 500
+SIFT saving...329 : 500
+SIFT saving complete329 : 500
+HoC generating...329 : 500
+HoC generating complete329 : 500
+HoC saving...329 : 500
+SIFT saving complete329 : 500
+SIFT generating...330 : 500
+SIFT generating complete330 : 500
+SIFT saving...330 : 500
+SIFT saving complete330 : 500
+HoC generating...330 : 500
+HoC generating complete330 : 500
+HoC saving...330 : 500
+SIFT saving complete330 : 500
+SIFT generating...331 : 500
+SIFT generating complete331 : 500
+SIFT saving...331 : 500
+SIFT saving complete331 : 500
+HoC generating...331 : 500
+HoC generating complete331 : 500
+HoC saving...331 : 500
+SIFT saving complete331 : 500
+SIFT generating...332 : 500
+SIFT generating complete332 : 500
+SIFT saving...332 : 500
+SIFT saving complete332 : 500
+HoC generating...332 : 500
+HoC generating complete332 : 500
+HoC saving...332 : 500
+SIFT saving complete332 : 500
+SIFT generating...333 : 500
+SIFT generating complete333 : 500
+SIFT saving...333 : 500
+SIFT saving complete333 : 500
+HoC generating...333 : 500
+HoC generating complete333 : 500
+HoC saving...333 : 500
+SIFT saving complete333 : 500
+SIFT generating...334 : 500
+SIFT generating complete334 : 500
+SIFT saving...334 : 500
+SIFT saving complete334 : 500
+HoC generating...334 : 500
+HoC generating complete334 : 500
+HoC saving...334 : 500
+SIFT saving complete334 : 500
+SIFT generating...335 : 500
+SIFT generating complete335 : 500
+SIFT saving...335 : 500
+SIFT saving complete335 : 500
+HoC generating...335 : 500
+HoC generating complete335 : 500
+HoC saving...335 : 500
+SIFT saving complete335 : 500
+SIFT generating...336 : 500
+SIFT generating complete336 : 500
+SIFT saving...336 : 500
+SIFT saving complete336 : 500
+HoC generating...336 : 500
+HoC generating complete336 : 500
+HoC saving...336 : 500
+SIFT saving complete336 : 500
+SIFT generating...337 : 500
+SIFT generating complete337 : 500
+SIFT saving...337 : 500
+SIFT saving complete337 : 500
+HoC generating...337 : 500
+HoC generating complete337 : 500
+HoC saving...337 : 500
+SIFT saving complete337 : 500
+SIFT generating...338 : 500
+SIFT generating complete338 : 500
+SIFT saving...338 : 500
+SIFT saving complete338 : 500
+HoC generating...338 : 500
+HoC generating complete338 : 500
+HoC saving...338 : 500
+SIFT saving complete338 : 500
+SIFT generating...339 : 500
+SIFT generating complete339 : 500
+SIFT saving...339 : 500
+SIFT saving complete339 : 500
+HoC generating...339 : 500
+HoC generating complete339 : 500
+HoC saving...339 : 500
+SIFT saving complete339 : 500
+SIFT generating...340 : 500
+SIFT generating complete340 : 500
+SIFT saving...340 : 500
+SIFT saving complete340 : 500
+HoC generating...340 : 500
+HoC generating complete340 : 500
+HoC saving...340 : 500
+SIFT saving complete340 : 500
+SIFT generating...341 : 500
+SIFT generating complete341 : 500
+SIFT saving...341 : 500
+SIFT saving complete341 : 500
+HoC generating...341 : 500
+HoC generating complete341 : 500
+HoC saving...341 : 500
+SIFT saving complete341 : 500
+SIFT generating...342 : 500
+SIFT generating complete342 : 500
+SIFT saving...342 : 500
+SIFT saving complete342 : 500
+HoC generating...342 : 500
+HoC generating complete342 : 500
+HoC saving...342 : 500
+SIFT saving complete342 : 500
+SIFT generating...343 : 500
+SIFT generating complete343 : 500
+SIFT saving...343 : 500
+SIFT saving complete343 : 500
+HoC generating...343 : 500
+HoC generating complete343 : 500
+HoC saving...343 : 500
+SIFT saving complete343 : 500
+SIFT generating...344 : 500
+SIFT generating complete344 : 500
+SIFT saving...344 : 500
+SIFT saving complete344 : 500
+HoC generating...344 : 500
+HoC generating complete344 : 500
+HoC saving...344 : 500
+SIFT saving complete344 : 500
+SIFT generating...345 : 500
+SIFT generating complete345 : 500
+SIFT saving...345 : 500
+SIFT saving complete345 : 500
+HoC generating...345 : 500
+HoC generating complete345 : 500
+HoC saving...345 : 500
+SIFT saving complete345 : 500
+SIFT generating...346 : 500
+SIFT generating complete346 : 500
+SIFT saving...346 : 500
+SIFT saving complete346 : 500
+HoC generating...346 : 500
+HoC generating complete346 : 500
+HoC saving...346 : 500
+SIFT saving complete346 : 500
+SIFT generating...347 : 500
+SIFT generating complete347 : 500
+SIFT saving...347 : 500
+SIFT saving complete347 : 500
+HoC generating...347 : 500
+HoC generating complete347 : 500
+HoC saving...347 : 500
+SIFT saving complete347 : 500
+SIFT generating...348 : 500
+SIFT generating complete348 : 500
+SIFT saving...348 : 500
+SIFT saving complete348 : 500
+HoC generating...348 : 500
+HoC generating complete348 : 500
+HoC saving...348 : 500
+SIFT saving complete348 : 500
+SIFT generating...349 : 500
+SIFT generating complete349 : 500
+SIFT saving...349 : 500
+SIFT saving complete349 : 500
+HoC generating...349 : 500
+HoC generating complete349 : 500
+HoC saving...349 : 500
+SIFT saving complete349 : 500
+SIFT generating...350 : 500
+SIFT generating complete350 : 500
+SIFT saving...350 : 500
+SIFT saving complete350 : 500
+HoC generating...350 : 500
+HoC generating complete350 : 500
+HoC saving...350 : 500
+SIFT saving complete350 : 500
+SIFT generating...351 : 500
+SIFT generating complete351 : 500
+SIFT saving...351 : 500
+SIFT saving complete351 : 500
+HoC generating...351 : 500
+HoC generating complete351 : 500
+HoC saving...351 : 500
+SIFT saving complete351 : 500
+SIFT generating...352 : 500
+SIFT generating complete352 : 500
+SIFT saving...352 : 500
+SIFT saving complete352 : 500
+HoC generating...352 : 500
+HoC generating complete352 : 500
+HoC saving...352 : 500
+SIFT saving complete352 : 500
+SIFT generating...353 : 500
+SIFT generating complete353 : 500
+SIFT saving...353 : 500
+SIFT saving complete353 : 500
+HoC generating...353 : 500
+HoC generating complete353 : 500
+HoC saving...353 : 500
+SIFT saving complete353 : 500
+SIFT generating...354 : 500
+SIFT generating complete354 : 500
+SIFT saving...354 : 500
+SIFT saving complete354 : 500
+HoC generating...354 : 500
+HoC generating complete354 : 500
+HoC saving...354 : 500
+SIFT saving complete354 : 500
+SIFT generating...355 : 500
+SIFT generating complete355 : 500
+SIFT saving...355 : 500
+SIFT saving complete355 : 500
+HoC generating...355 : 500
+HoC generating complete355 : 500
+HoC saving...355 : 500
+SIFT saving complete355 : 500
+SIFT generating...356 : 500
+SIFT generating complete356 : 500
+SIFT saving...356 : 500
+SIFT saving complete356 : 500
+HoC generating...356 : 500
+HoC generating complete356 : 500
+HoC saving...356 : 500
+SIFT saving complete356 : 500
+SIFT generating...357 : 500
+SIFT generating complete357 : 500
+SIFT saving...357 : 500
+SIFT saving complete357 : 500
+HoC generating...357 : 500
+HoC generating complete357 : 500
+HoC saving...357 : 500
+SIFT saving complete357 : 500
+SIFT generating...358 : 500
+SIFT generating complete358 : 500
+SIFT saving...358 : 500
+SIFT saving complete358 : 500
+HoC generating...358 : 500
+HoC generating complete358 : 500
+HoC saving...358 : 500
+SIFT saving complete358 : 500
+SIFT generating...359 : 500
+SIFT generating complete359 : 500
+SIFT saving...359 : 500
+SIFT saving complete359 : 500
+HoC generating...359 : 500
+HoC generating complete359 : 500
+HoC saving...359 : 500
+SIFT saving complete359 : 500
+SIFT generating...360 : 500
+SIFT generating complete360 : 500
+SIFT saving...360 : 500
+SIFT saving complete360 : 500
+HoC generating...360 : 500
+HoC generating complete360 : 500
+HoC saving...360 : 500
+SIFT saving complete360 : 500
+SIFT generating...361 : 500
+SIFT generating complete361 : 500
+SIFT saving...361 : 500
+SIFT saving complete361 : 500
+HoC generating...361 : 500
+HoC generating complete361 : 500
+HoC saving...361 : 500
+SIFT saving complete361 : 500
+SIFT generating...362 : 500
+SIFT generating complete362 : 500
+SIFT saving...362 : 500
+SIFT saving complete362 : 500
+HoC generating...362 : 500
+HoC generating complete362 : 500
+HoC saving...362 : 500
+SIFT saving complete362 : 500
+SIFT generating...363 : 500
+SIFT generating complete363 : 500
+SIFT saving...363 : 500
+SIFT saving complete363 : 500
+HoC generating...363 : 500
+HoC generating complete363 : 500
+HoC saving...363 : 500
+SIFT saving complete363 : 500
+SIFT generating...364 : 500
+SIFT generating complete364 : 500
+SIFT saving...364 : 500
+SIFT saving complete364 : 500
+HoC generating...364 : 500
+HoC generating complete364 : 500
+HoC saving...364 : 500
+SIFT saving complete364 : 500
+SIFT generating...365 : 500
+SIFT generating complete365 : 500
+SIFT saving...365 : 500
+SIFT saving complete365 : 500
+HoC generating...365 : 500
+HoC generating complete365 : 500
+HoC saving...365 : 500
+SIFT saving complete365 : 500
+SIFT generating...366 : 500
+SIFT generating complete366 : 500
+SIFT saving...366 : 500
+SIFT saving complete366 : 500
+HoC generating...366 : 500
+HoC generating complete366 : 500
+HoC saving...366 : 500
+SIFT saving complete366 : 500
+SIFT generating...367 : 500
+SIFT generating complete367 : 500
+SIFT saving...367 : 500
+SIFT saving complete367 : 500
+HoC generating...367 : 500
+HoC generating complete367 : 500
+HoC saving...367 : 500
+SIFT saving complete367 : 500
+SIFT generating...368 : 500
+SIFT generating complete368 : 500
+SIFT saving...368 : 500
+SIFT saving complete368 : 500
+HoC generating...368 : 500
+HoC generating complete368 : 500
+HoC saving...368 : 500
+SIFT saving complete368 : 500
+SIFT generating...369 : 500
+SIFT generating complete369 : 500
+SIFT saving...369 : 500
+SIFT saving complete369 : 500
+HoC generating...369 : 500
+HoC generating complete369 : 500
+HoC saving...369 : 500
+SIFT saving complete369 : 500
+SIFT generating...370 : 500
+SIFT generating complete370 : 500
+SIFT saving...370 : 500
+SIFT saving complete370 : 500
+HoC generating...370 : 500
+HoC generating complete370 : 500
+HoC saving...370 : 500
+SIFT saving complete370 : 500
+SIFT generating...371 : 500
+SIFT generating complete371 : 500
+SIFT saving...371 : 500
+SIFT saving complete371 : 500
+HoC generating...371 : 500
+HoC generating complete371 : 500
+HoC saving...371 : 500
+SIFT saving complete371 : 500
+SIFT generating...372 : 500
+SIFT generating complete372 : 500
+SIFT saving...372 : 500
+SIFT saving complete372 : 500
+HoC generating...372 : 500
+HoC generating complete372 : 500
+HoC saving...372 : 500
+SIFT saving complete372 : 500
+SIFT generating...373 : 500
+SIFT generating complete373 : 500
+SIFT saving...373 : 500
+SIFT saving complete373 : 500
+HoC generating...373 : 500
+HoC generating complete373 : 500
+HoC saving...373 : 500
+SIFT saving complete373 : 500
+SIFT generating...374 : 500
+SIFT generating complete374 : 500
+SIFT saving...374 : 500
+SIFT saving complete374 : 500
+HoC generating...374 : 500
+HoC generating complete374 : 500
+HoC saving...374 : 500
+SIFT saving complete374 : 500
+SIFT generating...375 : 500
+SIFT generating complete375 : 500
+SIFT saving...375 : 500
+SIFT saving complete375 : 500
+HoC generating...375 : 500
+HoC generating complete375 : 500
+HoC saving...375 : 500
+SIFT saving complete375 : 500
+SIFT generating...376 : 500
+SIFT generating complete376 : 500
+SIFT saving...376 : 500
+SIFT saving complete376 : 500
+HoC generating...376 : 500
+HoC generating complete376 : 500
+HoC saving...376 : 500
+SIFT saving complete376 : 500
+SIFT generating...377 : 500
+SIFT generating complete377 : 500
+SIFT saving...377 : 500
+SIFT saving complete377 : 500
+HoC generating...377 : 500
+HoC generating complete377 : 500
+HoC saving...377 : 500
+SIFT saving complete377 : 500
+SIFT generating...378 : 500
+SIFT generating complete378 : 500
+SIFT saving...378 : 500
+SIFT saving complete378 : 500
+HoC generating...378 : 500
+HoC generating complete378 : 500
+HoC saving...378 : 500
+SIFT saving complete378 : 500
+SIFT generating...379 : 500
+SIFT generating complete379 : 500
+SIFT saving...379 : 500
+SIFT saving complete379 : 500
+HoC generating...379 : 500
+HoC generating complete379 : 500
+HoC saving...379 : 500
+SIFT saving complete379 : 500
+SIFT generating...380 : 500
+SIFT generating complete380 : 500
+SIFT saving...380 : 500
+SIFT saving complete380 : 500
+HoC generating...380 : 500
+HoC generating complete380 : 500
+HoC saving...380 : 500
+SIFT saving complete380 : 500
+SIFT generating...381 : 500
+SIFT generating complete381 : 500
+SIFT saving...381 : 500
+SIFT saving complete381 : 500
+HoC generating...381 : 500
+HoC generating complete381 : 500
+HoC saving...381 : 500
+SIFT saving complete381 : 500
+SIFT generating...382 : 500
+SIFT generating complete382 : 500
+SIFT saving...382 : 500
+SIFT saving complete382 : 500
+HoC generating...382 : 500
+HoC generating complete382 : 500
+HoC saving...382 : 500
+SIFT saving complete382 : 500
+SIFT generating...383 : 500
+SIFT generating complete383 : 500
+SIFT saving...383 : 500
+SIFT saving complete383 : 500
+HoC generating...383 : 500
+HoC generating complete383 : 500
+HoC saving...383 : 500
+SIFT saving complete383 : 500
+SIFT generating...384 : 500
+SIFT generating complete384 : 500
+SIFT saving...384 : 500
+SIFT saving complete384 : 500
+HoC generating...384 : 500
+HoC generating complete384 : 500
+HoC saving...384 : 500
+SIFT saving complete384 : 500
+SIFT generating...385 : 500
+SIFT generating complete385 : 500
+SIFT saving...385 : 500
+SIFT saving complete385 : 500
+HoC generating...385 : 500
+HoC generating complete385 : 500
+HoC saving...385 : 500
+SIFT saving complete385 : 500
+SIFT generating...386 : 500
+SIFT generating complete386 : 500
+SIFT saving...386 : 500
+SIFT saving complete386 : 500
+HoC generating...386 : 500
+HoC generating complete386 : 500
+HoC saving...386 : 500
+SIFT saving complete386 : 500
+SIFT generating...387 : 500
+SIFT generating complete387 : 500
+SIFT saving...387 : 500
+SIFT saving complete387 : 500
+HoC generating...387 : 500
+HoC generating complete387 : 500
+HoC saving...387 : 500
+SIFT saving complete387 : 500
+SIFT generating...388 : 500
+SIFT generating complete388 : 500
+SIFT saving...388 : 500
+SIFT saving complete388 : 500
+HoC generating...388 : 500
+HoC generating complete388 : 500
+HoC saving...388 : 500
+SIFT saving complete388 : 500
+SIFT generating...389 : 500
+SIFT generating complete389 : 500
+SIFT saving...389 : 500
+SIFT saving complete389 : 500
+HoC generating...389 : 500
+HoC generating complete389 : 500
+HoC saving...389 : 500
+SIFT saving complete389 : 500
+SIFT generating...390 : 500
+SIFT generating complete390 : 500
+SIFT saving...390 : 500
+SIFT saving complete390 : 500
+HoC generating...390 : 500
+HoC generating complete390 : 500
+HoC saving...390 : 500
+SIFT saving complete390 : 500
+SIFT generating...391 : 500
+SIFT generating complete391 : 500
+SIFT saving...391 : 500
+SIFT saving complete391 : 500
+HoC generating...391 : 500
+HoC generating complete391 : 500
+HoC saving...391 : 500
+SIFT saving complete391 : 500
+SIFT generating...392 : 500
+SIFT generating complete392 : 500
+SIFT saving...392 : 500
+SIFT saving complete392 : 500
+HoC generating...392 : 500
+HoC generating complete392 : 500
+HoC saving...392 : 500
+SIFT saving complete392 : 500
+SIFT generating...393 : 500
+SIFT generating complete393 : 500
+SIFT saving...393 : 500
+SIFT saving complete393 : 500
+HoC generating...393 : 500
+HoC generating complete393 : 500
+HoC saving...393 : 500
+SIFT saving complete393 : 500
+SIFT generating...394 : 500
+SIFT generating complete394 : 500
+SIFT saving...394 : 500
+SIFT saving complete394 : 500
+HoC generating...394 : 500
+HoC generating complete394 : 500
+HoC saving...394 : 500
+SIFT saving complete394 : 500
+SIFT generating...395 : 500
+SIFT generating complete395 : 500
+SIFT saving...395 : 500
+SIFT saving complete395 : 500
+HoC generating...395 : 500
+HoC generating complete395 : 500
+HoC saving...395 : 500
+SIFT saving complete395 : 500
+SIFT generating...396 : 500
+SIFT generating complete396 : 500
+SIFT saving...396 : 500
+SIFT saving complete396 : 500
+HoC generating...396 : 500
+HoC generating complete396 : 500
+HoC saving...396 : 500
+SIFT saving complete396 : 500
+SIFT generating...397 : 500
+SIFT generating complete397 : 500
+SIFT saving...397 : 500
+SIFT saving complete397 : 500
+HoC generating...397 : 500
+HoC generating complete397 : 500
+HoC saving...397 : 500
+SIFT saving complete397 : 500
+SIFT generating...398 : 500
+SIFT generating complete398 : 500
+SIFT saving...398 : 500
+SIFT saving complete398 : 500
+HoC generating...398 : 500
+HoC generating complete398 : 500
+HoC saving...398 : 500
+SIFT saving complete398 : 500
+SIFT generating...399 : 500
+SIFT generating complete399 : 500
+SIFT saving...399 : 500
+SIFT saving complete399 : 500
+HoC generating...399 : 500
+HoC generating complete399 : 500
+HoC saving...399 : 500
+SIFT saving complete399 : 500
+SIFT generating...400 : 500
+SIFT generating complete400 : 500
+SIFT saving...400 : 500
+SIFT saving complete400 : 500
+HoC generating...400 : 500
+HoC generating complete400 : 500
+HoC saving...400 : 500
+SIFT saving complete400 : 500
+SIFT generating...401 : 500
+SIFT generating complete401 : 500
+SIFT saving...401 : 500
+SIFT saving complete401 : 500
+HoC generating...401 : 500
+HoC generating complete401 : 500
+HoC saving...401 : 500
+SIFT saving complete401 : 500
+SIFT generating...402 : 500
+SIFT generating complete402 : 500
+SIFT saving...402 : 500
+SIFT saving complete402 : 500
+HoC generating...402 : 500
+HoC generating complete402 : 500
+HoC saving...402 : 500
+SIFT saving complete402 : 500
+SIFT generating...403 : 500
+SIFT generating complete403 : 500
+SIFT saving...403 : 500
+SIFT saving complete403 : 500
+HoC generating...403 : 500
+HoC generating complete403 : 500
+HoC saving...403 : 500
+SIFT saving complete403 : 500
+SIFT generating...404 : 500
+SIFT generating complete404 : 500
+SIFT saving...404 : 500
+SIFT saving complete404 : 500
+HoC generating...404 : 500
+HoC generating complete404 : 500
+HoC saving...404 : 500
+SIFT saving complete404 : 500
+SIFT generating...405 : 500
+SIFT generating complete405 : 500
+SIFT saving...405 : 500
+SIFT saving complete405 : 500
+HoC generating...405 : 500
+HoC generating complete405 : 500
+HoC saving...405 : 500
+SIFT saving complete405 : 500
+SIFT generating...406 : 500
+SIFT generating complete406 : 500
+SIFT saving...406 : 500
+SIFT saving complete406 : 500
+HoC generating...406 : 500
+HoC generating complete406 : 500
+HoC saving...406 : 500
+SIFT saving complete406 : 500
+SIFT generating...407 : 500
+SIFT generating complete407 : 500
+SIFT saving...407 : 500
+SIFT saving complete407 : 500
+HoC generating...407 : 500
+HoC generating complete407 : 500
+HoC saving...407 : 500
+SIFT saving complete407 : 500
+SIFT generating...408 : 500
+SIFT generating complete408 : 500
+SIFT saving...408 : 500
+SIFT saving complete408 : 500
+HoC generating...408 : 500
+HoC generating complete408 : 500
+HoC saving...408 : 500
+SIFT saving complete408 : 500
+SIFT generating...409 : 500
+SIFT generating complete409 : 500
+SIFT saving...409 : 500
+SIFT saving complete409 : 500
+HoC generating...409 : 500
+HoC generating complete409 : 500
+HoC saving...409 : 500
+SIFT saving complete409 : 500
+SIFT generating...410 : 500
+SIFT generating complete410 : 500
+SIFT saving...410 : 500
+SIFT saving complete410 : 500
+HoC generating...410 : 500
+HoC generating complete410 : 500
+HoC saving...410 : 500
+SIFT saving complete410 : 500
+SIFT generating...411 : 500
+SIFT generating complete411 : 500
+SIFT saving...411 : 500
+SIFT saving complete411 : 500
+HoC generating...411 : 500
+HoC generating complete411 : 500
+HoC saving...411 : 500
+SIFT saving complete411 : 500
+SIFT generating...412 : 500
+SIFT generating complete412 : 500
+SIFT saving...412 : 500
+SIFT saving complete412 : 500
+HoC generating...412 : 500
+HoC generating complete412 : 500
+HoC saving...412 : 500
+SIFT saving complete412 : 500
+SIFT generating...413 : 500
+SIFT generating complete413 : 500
+SIFT saving...413 : 500
+SIFT saving complete413 : 500
+HoC generating...413 : 500
+HoC generating complete413 : 500
+HoC saving...413 : 500
+SIFT saving complete413 : 500
+SIFT generating...414 : 500
+SIFT generating complete414 : 500
+SIFT saving...414 : 500
+SIFT saving complete414 : 500
+HoC generating...414 : 500
+HoC generating complete414 : 500
+HoC saving...414 : 500
+SIFT saving complete414 : 500
+SIFT generating...415 : 500
+SIFT generating complete415 : 500
+SIFT saving...415 : 500
+SIFT saving complete415 : 500
+HoC generating...415 : 500
+HoC generating complete415 : 500
+HoC saving...415 : 500
+SIFT saving complete415 : 500
+SIFT generating...416 : 500
+SIFT generating complete416 : 500
+SIFT saving...416 : 500
+SIFT saving complete416 : 500
+HoC generating...416 : 500
+HoC generating complete416 : 500
+HoC saving...416 : 500
+SIFT saving complete416 : 500
+SIFT generating...417 : 500
+SIFT generating complete417 : 500
+SIFT saving...417 : 500
+SIFT saving complete417 : 500
+HoC generating...417 : 500
+HoC generating complete417 : 500
+HoC saving...417 : 500
+SIFT saving complete417 : 500
+SIFT generating...418 : 500
+SIFT generating complete418 : 500
+SIFT saving...418 : 500
+SIFT saving complete418 : 500
+HoC generating...418 : 500
+HoC generating complete418 : 500
+HoC saving...418 : 500
+SIFT saving complete418 : 500
+SIFT generating...419 : 500
+SIFT generating complete419 : 500
+SIFT saving...419 : 500
+SIFT saving complete419 : 500
+HoC generating...419 : 500
+HoC generating complete419 : 500
+HoC saving...419 : 500
+SIFT saving complete419 : 500
+SIFT generating...420 : 500
+SIFT generating complete420 : 500
+SIFT saving...420 : 500
+SIFT saving complete420 : 500
+HoC generating...420 : 500
+HoC generating complete420 : 500
+HoC saving...420 : 500
+SIFT saving complete420 : 500
+SIFT generating...421 : 500
+SIFT generating complete421 : 500
+SIFT saving...421 : 500
+SIFT saving complete421 : 500
+HoC generating...421 : 500
+HoC generating complete421 : 500
+HoC saving...421 : 500
+SIFT saving complete421 : 500
+SIFT generating...422 : 500
+SIFT generating complete422 : 500
+SIFT saving...422 : 500
+SIFT saving complete422 : 500
+HoC generating...422 : 500
+HoC generating complete422 : 500
+HoC saving...422 : 500
+SIFT saving complete422 : 500
+SIFT generating...423 : 500
+SIFT generating complete423 : 500
+SIFT saving...423 : 500
+SIFT saving complete423 : 500
+HoC generating...423 : 500
+HoC generating complete423 : 500
+HoC saving...423 : 500
+SIFT saving complete423 : 500
+SIFT generating...424 : 500
+SIFT generating complete424 : 500
+SIFT saving...424 : 500
+SIFT saving complete424 : 500
+HoC generating...424 : 500
+HoC generating complete424 : 500
+HoC saving...424 : 500
+SIFT saving complete424 : 500
+SIFT generating...425 : 500
+SIFT generating complete425 : 500
+SIFT saving...425 : 500
+SIFT saving complete425 : 500
+HoC generating...425 : 500
+HoC generating complete425 : 500
+HoC saving...425 : 500
+SIFT saving complete425 : 500
+SIFT generating...426 : 500
+SIFT generating complete426 : 500
+SIFT saving...426 : 500
+SIFT saving complete426 : 500
+HoC generating...426 : 500
+HoC generating complete426 : 500
+HoC saving...426 : 500
+SIFT saving complete426 : 500
+SIFT generating...427 : 500
+SIFT generating complete427 : 500
+SIFT saving...427 : 500
+SIFT saving complete427 : 500
+HoC generating...427 : 500
+HoC generating complete427 : 500
+HoC saving...427 : 500
+SIFT saving complete427 : 500
+SIFT generating...428 : 500
+SIFT generating complete428 : 500
+SIFT saving...428 : 500
+SIFT saving complete428 : 500
+HoC generating...428 : 500
+HoC generating complete428 : 500
+HoC saving...428 : 500
+SIFT saving complete428 : 500
+SIFT generating...429 : 500
+SIFT generating complete429 : 500
+SIFT saving...429 : 500
+SIFT saving complete429 : 500
+HoC generating...429 : 500
+HoC generating complete429 : 500
+HoC saving...429 : 500
+SIFT saving complete429 : 500
+SIFT generating...430 : 500
+SIFT generating complete430 : 500
+SIFT saving...430 : 500
+SIFT saving complete430 : 500
+HoC generating...430 : 500
+HoC generating complete430 : 500
+HoC saving...430 : 500
+SIFT saving complete430 : 500
+SIFT generating...431 : 500
+SIFT generating complete431 : 500
+SIFT saving...431 : 500
+SIFT saving complete431 : 500
+HoC generating...431 : 500
+HoC generating complete431 : 500
+HoC saving...431 : 500
+SIFT saving complete431 : 500
+SIFT generating...432 : 500
+SIFT generating complete432 : 500
+SIFT saving...432 : 500
+SIFT saving complete432 : 500
+HoC generating...432 : 500
+HoC generating complete432 : 500
+HoC saving...432 : 500
+SIFT saving complete432 : 500
+SIFT generating...433 : 500
+SIFT generating complete433 : 500
+SIFT saving...433 : 500
+SIFT saving complete433 : 500
+HoC generating...433 : 500
+HoC generating complete433 : 500
+HoC saving...433 : 500
+SIFT saving complete433 : 500
+SIFT generating...434 : 500
+SIFT generating complete434 : 500
+SIFT saving...434 : 500
+SIFT saving complete434 : 500
+HoC generating...434 : 500
+HoC generating complete434 : 500
+HoC saving...434 : 500
+SIFT saving complete434 : 500
+SIFT generating...435 : 500
+SIFT generating complete435 : 500
+SIFT saving...435 : 500
+SIFT saving complete435 : 500
+HoC generating...435 : 500
+HoC generating complete435 : 500
+HoC saving...435 : 500
+SIFT saving complete435 : 500
+SIFT generating...436 : 500
+SIFT generating complete436 : 500
+SIFT saving...436 : 500
+SIFT saving complete436 : 500
+HoC generating...436 : 500
+HoC generating complete436 : 500
+HoC saving...436 : 500
+SIFT saving complete436 : 500
+SIFT generating...437 : 500
+SIFT generating complete437 : 500
+SIFT saving...437 : 500
+SIFT saving complete437 : 500
+HoC generating...437 : 500
+HoC generating complete437 : 500
+HoC saving...437 : 500
+SIFT saving complete437 : 500
+SIFT generating...438 : 500
+SIFT generating complete438 : 500
+SIFT saving...438 : 500
+SIFT saving complete438 : 500
+HoC generating...438 : 500
+HoC generating complete438 : 500
+HoC saving...438 : 500
+SIFT saving complete438 : 500
+SIFT generating...439 : 500
+SIFT generating complete439 : 500
+SIFT saving...439 : 500
+SIFT saving complete439 : 500
+HoC generating...439 : 500
+HoC generating complete439 : 500
+HoC saving...439 : 500
+SIFT saving complete439 : 500
+SIFT generating...440 : 500
+SIFT generating complete440 : 500
+SIFT saving...440 : 500
+SIFT saving complete440 : 500
+HoC generating...440 : 500
+HoC generating complete440 : 500
+HoC saving...440 : 500
+SIFT saving complete440 : 500
+SIFT generating...441 : 500
+SIFT generating complete441 : 500
+SIFT saving...441 : 500
+SIFT saving complete441 : 500
+HoC generating...441 : 500
+HoC generating complete441 : 500
+HoC saving...441 : 500
+SIFT saving complete441 : 500
+SIFT generating...442 : 500
+SIFT generating complete442 : 500
+SIFT saving...442 : 500
+SIFT saving complete442 : 500
+HoC generating...442 : 500
+HoC generating complete442 : 500
+HoC saving...442 : 500
+SIFT saving complete442 : 500
+SIFT generating...443 : 500
+SIFT generating complete443 : 500
+SIFT saving...443 : 500
+SIFT saving complete443 : 500
+HoC generating...443 : 500
+HoC generating complete443 : 500
+HoC saving...443 : 500
+SIFT saving complete443 : 500
+SIFT generating...444 : 500
+SIFT generating complete444 : 500
+SIFT saving...444 : 500
+SIFT saving complete444 : 500
+HoC generating...444 : 500
+HoC generating complete444 : 500
+HoC saving...444 : 500
+SIFT saving complete444 : 500
+SIFT generating...445 : 500
+SIFT generating complete445 : 500
+SIFT saving...445 : 500
+SIFT saving complete445 : 500
+HoC generating...445 : 500
+HoC generating complete445 : 500
+HoC saving...445 : 500
+SIFT saving complete445 : 500
+SIFT generating...446 : 500
+SIFT generating complete446 : 500
+SIFT saving...446 : 500
+SIFT saving complete446 : 500
+HoC generating...446 : 500
+HoC generating complete446 : 500
+HoC saving...446 : 500
+SIFT saving complete446 : 500
+SIFT generating...447 : 500
+SIFT generating complete447 : 500
+SIFT saving...447 : 500
+SIFT saving complete447 : 500
+HoC generating...447 : 500
+HoC generating complete447 : 500
+HoC saving...447 : 500
+SIFT saving complete447 : 500
+SIFT generating...448 : 500
+SIFT generating complete448 : 500
+SIFT saving...448 : 500
+SIFT saving complete448 : 500
+HoC generating...448 : 500
+HoC generating complete448 : 500
+HoC saving...448 : 500
+SIFT saving complete448 : 500
+SIFT generating...449 : 500
+SIFT generating complete449 : 500
+SIFT saving...449 : 500
+SIFT saving complete449 : 500
+HoC generating...449 : 500
+HoC generating complete449 : 500
+HoC saving...449 : 500
+SIFT saving complete449 : 500
+SIFT generating...450 : 500
+SIFT generating complete450 : 500
+SIFT saving...450 : 500
+SIFT saving complete450 : 500
+HoC generating...450 : 500
+HoC generating complete450 : 500
+HoC saving...450 : 500
+SIFT saving complete450 : 500
+SIFT generating...451 : 500
+SIFT generating complete451 : 500
+SIFT saving...451 : 500
+SIFT saving complete451 : 500
+HoC generating...451 : 500
+HoC generating complete451 : 500
+HoC saving...451 : 500
+SIFT saving complete451 : 500
+SIFT generating...452 : 500
+SIFT generating complete452 : 500
+SIFT saving...452 : 500
+SIFT saving complete452 : 500
+HoC generating...452 : 500
+HoC generating complete452 : 500
+HoC saving...452 : 500
+SIFT saving complete452 : 500
+SIFT generating...453 : 500
+SIFT generating complete453 : 500
+SIFT saving...453 : 500
+SIFT saving complete453 : 500
+HoC generating...453 : 500
+HoC generating complete453 : 500
+HoC saving...453 : 500
+SIFT saving complete453 : 500
+SIFT generating...454 : 500
+SIFT generating complete454 : 500
+SIFT saving...454 : 500
+SIFT saving complete454 : 500
+HoC generating...454 : 500
+HoC generating complete454 : 500
+HoC saving...454 : 500
+SIFT saving complete454 : 500
+SIFT generating...455 : 500
+SIFT generating complete455 : 500
+SIFT saving...455 : 500
+SIFT saving complete455 : 500
+HoC generating...455 : 500
+HoC generating complete455 : 500
+HoC saving...455 : 500
+SIFT saving complete455 : 500
+SIFT generating...456 : 500
+SIFT generating complete456 : 500
+SIFT saving...456 : 500
+SIFT saving complete456 : 500
+HoC generating...456 : 500
+HoC generating complete456 : 500
+HoC saving...456 : 500
+SIFT saving complete456 : 500
+SIFT generating...457 : 500
+SIFT generating complete457 : 500
+SIFT saving...457 : 500
+SIFT saving complete457 : 500
+HoC generating...457 : 500
+HoC generating complete457 : 500
+HoC saving...457 : 500
+SIFT saving complete457 : 500
+SIFT generating...458 : 500
+SIFT generating complete458 : 500
+SIFT saving...458 : 500
+SIFT saving complete458 : 500
+HoC generating...458 : 500
+HoC generating complete458 : 500
+HoC saving...458 : 500
+SIFT saving complete458 : 500
+SIFT generating...459 : 500
+SIFT generating complete459 : 500
+SIFT saving...459 : 500
+SIFT saving complete459 : 500
+HoC generating...459 : 500
+HoC generating complete459 : 500
+HoC saving...459 : 500
+SIFT saving complete459 : 500
+SIFT generating...460 : 500
+SIFT generating complete460 : 500
+SIFT saving...460 : 500
+SIFT saving complete460 : 500
+HoC generating...460 : 500
+HoC generating complete460 : 500
+HoC saving...460 : 500
+SIFT saving complete460 : 500
+SIFT generating...461 : 500
+SIFT generating complete461 : 500
+SIFT saving...461 : 500
+SIFT saving complete461 : 500
+HoC generating...461 : 500
+HoC generating complete461 : 500
+HoC saving...461 : 500
+SIFT saving complete461 : 500
+SIFT generating...462 : 500
+SIFT generating complete462 : 500
+SIFT saving...462 : 500
+SIFT saving complete462 : 500
+HoC generating...462 : 500
+HoC generating complete462 : 500
+HoC saving...462 : 500
+SIFT saving complete462 : 500
+SIFT generating...463 : 500
+SIFT generating complete463 : 500
+SIFT saving...463 : 500
+SIFT saving complete463 : 500
+HoC generating...463 : 500
+HoC generating complete463 : 500
+HoC saving...463 : 500
+SIFT saving complete463 : 500
+SIFT generating...464 : 500
+SIFT generating complete464 : 500
+SIFT saving...464 : 500
+SIFT saving complete464 : 500
+HoC generating...464 : 500
+HoC generating complete464 : 500
+HoC saving...464 : 500
+SIFT saving complete464 : 500
+SIFT generating...465 : 500
+SIFT generating complete465 : 500
+SIFT saving...465 : 500
+SIFT saving complete465 : 500
+HoC generating...465 : 500
+HoC generating complete465 : 500
+HoC saving...465 : 500
+SIFT saving complete465 : 500
+SIFT generating...466 : 500
+SIFT generating complete466 : 500
+SIFT saving...466 : 500
+SIFT saving complete466 : 500
+HoC generating...466 : 500
+HoC generating complete466 : 500
+HoC saving...466 : 500
+SIFT saving complete466 : 500
+SIFT generating...467 : 500
+SIFT generating complete467 : 500
+SIFT saving...467 : 500
+SIFT saving complete467 : 500
+HoC generating...467 : 500
+HoC generating complete467 : 500
+HoC saving...467 : 500
+SIFT saving complete467 : 500
+SIFT generating...468 : 500
+SIFT generating complete468 : 500
+SIFT saving...468 : 500
+SIFT saving complete468 : 500
+HoC generating...468 : 500
+HoC generating complete468 : 500
+HoC saving...468 : 500
+SIFT saving complete468 : 500
+SIFT generating...469 : 500
+SIFT generating complete469 : 500
+SIFT saving...469 : 500
+SIFT saving complete469 : 500
+HoC generating...469 : 500
+HoC generating complete469 : 500
+HoC saving...469 : 500
+SIFT saving complete469 : 500
+SIFT generating...470 : 500
+SIFT generating complete470 : 500
+SIFT saving...470 : 500
+SIFT saving complete470 : 500
+HoC generating...470 : 500
+HoC generating complete470 : 500
+HoC saving...470 : 500
+SIFT saving complete470 : 500
+SIFT generating...471 : 500
+SIFT generating complete471 : 500
+SIFT saving...471 : 500
+SIFT saving complete471 : 500
+HoC generating...471 : 500
+HoC generating complete471 : 500
+HoC saving...471 : 500
+SIFT saving complete471 : 500
+SIFT generating...472 : 500
+SIFT generating complete472 : 500
+SIFT saving...472 : 500
+SIFT saving complete472 : 500
+HoC generating...472 : 500
+HoC generating complete472 : 500
+HoC saving...472 : 500
+SIFT saving complete472 : 500
+SIFT generating...473 : 500
+SIFT generating complete473 : 500
+SIFT saving...473 : 500
+SIFT saving complete473 : 500
+HoC generating...473 : 500
+HoC generating complete473 : 500
+HoC saving...473 : 500
+SIFT saving complete473 : 500
+SIFT generating...474 : 500
+SIFT generating complete474 : 500
+SIFT saving...474 : 500
+SIFT saving complete474 : 500
+HoC generating...474 : 500
+HoC generating complete474 : 500
+HoC saving...474 : 500
+SIFT saving complete474 : 500
+SIFT generating...475 : 500
+SIFT generating complete475 : 500
+SIFT saving...475 : 500
+SIFT saving complete475 : 500
+HoC generating...475 : 500
+HoC generating complete475 : 500
+HoC saving...475 : 500
+SIFT saving complete475 : 500
+SIFT generating...476 : 500
+SIFT generating complete476 : 500
+SIFT saving...476 : 500
+SIFT saving complete476 : 500
+HoC generating...476 : 500
+HoC generating complete476 : 500
+HoC saving...476 : 500
+SIFT saving complete476 : 500
+SIFT generating...477 : 500
+SIFT generating complete477 : 500
+SIFT saving...477 : 500
+SIFT saving complete477 : 500
+HoC generating...477 : 500
+HoC generating complete477 : 500
+HoC saving...477 : 500
+SIFT saving complete477 : 500
+SIFT generating...478 : 500
+SIFT generating complete478 : 500
+SIFT saving...478 : 500
+SIFT saving complete478 : 500
+HoC generating...478 : 500
+HoC generating complete478 : 500
+HoC saving...478 : 500
+SIFT saving complete478 : 500
+SIFT generating...479 : 500
+SIFT generating complete479 : 500
+SIFT saving...479 : 500
+SIFT saving complete479 : 500
+HoC generating...479 : 500
+HoC generating complete479 : 500
+HoC saving...479 : 500
+SIFT saving complete479 : 500
+SIFT generating...480 : 500
+SIFT generating complete480 : 500
+SIFT saving...480 : 500
+SIFT saving complete480 : 500
+HoC generating...480 : 500
+HoC generating complete480 : 500
+HoC saving...480 : 500
+SIFT saving complete480 : 500
+SIFT generating...481 : 500
+SIFT generating complete481 : 500
+SIFT saving...481 : 500
+SIFT saving complete481 : 500
+HoC generating...481 : 500
+HoC generating complete481 : 500
+HoC saving...481 : 500
+SIFT saving complete481 : 500
+SIFT generating...482 : 500
+SIFT generating complete482 : 500
+SIFT saving...482 : 500
+SIFT saving complete482 : 500
+HoC generating...482 : 500
+HoC generating complete482 : 500
+HoC saving...482 : 500
+SIFT saving complete482 : 500
+SIFT generating...483 : 500
+SIFT generating complete483 : 500
+SIFT saving...483 : 500
+SIFT saving complete483 : 500
+HoC generating...483 : 500
+HoC generating complete483 : 500
+HoC saving...483 : 500
+SIFT saving complete483 : 500
+SIFT generating...484 : 500
+SIFT generating complete484 : 500
+SIFT saving...484 : 500
+SIFT saving complete484 : 500
+HoC generating...484 : 500
+HoC generating complete484 : 500
+HoC saving...484 : 500
+SIFT saving complete484 : 500
+SIFT generating...485 : 500
+SIFT generating complete485 : 500
+SIFT saving...485 : 500
+SIFT saving complete485 : 500
+HoC generating...485 : 500
+HoC generating complete485 : 500
+HoC saving...485 : 500
+SIFT saving complete485 : 500
+SIFT generating...486 : 500
+SIFT generating complete486 : 500
+SIFT saving...486 : 500
+SIFT saving complete486 : 500
+HoC generating...486 : 500
+HoC generating complete486 : 500
+HoC saving...486 : 500
+SIFT saving complete486 : 500
+SIFT generating...487 : 500
+SIFT generating complete487 : 500
+SIFT saving...487 : 500
+SIFT saving complete487 : 500
+HoC generating...487 : 500
+HoC generating complete487 : 500
+HoC saving...487 : 500
+SIFT saving complete487 : 500
+SIFT generating...488 : 500
+SIFT generating complete488 : 500
+SIFT saving...488 : 500
+SIFT saving complete488 : 500
+HoC generating...488 : 500
+HoC generating complete488 : 500
+HoC saving...488 : 500
+SIFT saving complete488 : 500
+SIFT generating...489 : 500
+SIFT generating complete489 : 500
+SIFT saving...489 : 500
+SIFT saving complete489 : 500
+HoC generating...489 : 500
+HoC generating complete489 : 500
+HoC saving...489 : 500
+SIFT saving complete489 : 500
+SIFT generating...490 : 500
+SIFT generating complete490 : 500
+SIFT saving...490 : 500
+SIFT saving complete490 : 500
+HoC generating...490 : 500
+HoC generating complete490 : 500
+HoC saving...490 : 500
+SIFT saving complete490 : 500
+SIFT generating...491 : 500
+SIFT generating complete491 : 500
+SIFT saving...491 : 500
+SIFT saving complete491 : 500
+HoC generating...491 : 500
+HoC generating complete491 : 500
+HoC saving...491 : 500
+SIFT saving complete491 : 500
+SIFT generating...492 : 500
+SIFT generating complete492 : 500
+SIFT saving...492 : 500
+SIFT saving complete492 : 500
+HoC generating...492 : 500
+HoC generating complete492 : 500
+HoC saving...492 : 500
+SIFT saving complete492 : 500
+SIFT generating...493 : 500
+SIFT generating complete493 : 500
+SIFT saving...493 : 500
+SIFT saving complete493 : 500
+HoC generating...493 : 500
+HoC generating complete493 : 500
+HoC saving...493 : 500
+SIFT saving complete493 : 500
+SIFT generating...494 : 500
+SIFT generating complete494 : 500
+SIFT saving...494 : 500
+SIFT saving complete494 : 500
+HoC generating...494 : 500
+HoC generating complete494 : 500
+HoC saving...494 : 500
+SIFT saving complete494 : 500
+SIFT generating...495 : 500
+SIFT generating complete495 : 500
+SIFT saving...495 : 500
+SIFT saving complete495 : 500
+HoC generating...495 : 500
+HoC generating complete495 : 500
+HoC saving...495 : 500
+SIFT saving complete495 : 500
+SIFT generating...496 : 500
+SIFT generating complete496 : 500
+SIFT saving...496 : 500
+SIFT saving complete496 : 500
+HoC generating...496 : 500
+HoC generating complete496 : 500
+HoC saving...496 : 500
+SIFT saving complete496 : 500
+SIFT generating...497 : 500
+SIFT generating complete497 : 500
+SIFT saving...497 : 500
+SIFT saving complete497 : 500
+HoC generating...497 : 500
+HoC generating complete497 : 500
+HoC saving...497 : 500
+SIFT saving complete497 : 500
+SIFT generating...498 : 500
+SIFT generating complete498 : 500
+SIFT saving...498 : 500
+SIFT saving complete498 : 500
+HoC generating...498 : 500
+HoC generating complete498 : 500
+HoC saving...498 : 500
+SIFT saving complete498 : 500
+SIFT generating...499 : 500
+SIFT generating complete499 : 500
+SIFT saving...499 : 500
+SIFT saving complete499 : 500
+HoC generating...499 : 500
+HoC generating complete499 : 500
+HoC saving...499 : 500
+SIFT saving complete499 : 500
+SIFT && HoC descriptor getting complete
+HoC CodeBook getting...
