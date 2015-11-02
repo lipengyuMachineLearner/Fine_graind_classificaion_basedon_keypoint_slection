@@ -1,0 +1,615 @@
+HoC CodeBook getting...
+HoC CodeBook getting complete
+HoC CodeBook saving...
+HoC CodeBook saving complete
+SIFT loading...0 : 500
+SIFT loading complete0 : 500
+SIFT loading...1 : 500
+SIFT loading complete1 : 500
+SIFT loading...2 : 500
+SIFT loading complete2 : 500
+SIFT loading...3 : 500
+SIFT loading complete3 : 500
+SIFT loading...4 : 500
+SIFT loading complete4 : 500
+SIFT loading...5 : 500
+SIFT loading complete5 : 500
+SIFT loading...6 : 500
+SIFT loading complete6 : 500
+SIFT loading...7 : 500
+SIFT loading complete7 : 500
+SIFT loading...8 : 500
+SIFT loading complete8 : 500
+SIFT loading...9 : 500
+SIFT loading complete9 : 500
+SIFT loading...10 : 500
+SIFT loading complete10 : 500
+SIFT loading...11 : 500
+SIFT loading complete11 : 500
+SIFT loading...12 : 500
+SIFT loading complete12 : 500
+SIFT loading...13 : 500
+SIFT loading complete13 : 500
+SIFT loading...14 : 500
+SIFT loading complete14 : 500
+SIFT loading...15 : 500
+SIFT loading complete15 : 500
+SIFT loading...16 : 500
+SIFT loading complete16 : 500
+SIFT loading...17 : 500
+SIFT loading complete17 : 500
+SIFT loading...18 : 500
+SIFT loading complete18 : 500
+SIFT loading...19 : 500
+SIFT loading complete19 : 500
+SIFT loading...20 : 500
+SIFT loading complete20 : 500
+SIFT loading...21 : 500
+SIFT loading complete21 : 500
+SIFT loading...22 : 500
+SIFT loading complete22 : 500
+SIFT loading...23 : 500
+SIFT loading complete23 : 500
+SIFT loading...24 : 500
+SIFT loading complete24 : 500
+SIFT loading...25 : 500
+SIFT loading complete25 : 500
+SIFT loading...26 : 500
+SIFT loading complete26 : 500
+SIFT loading...27 : 500
+SIFT loading complete27 : 500
+SIFT loading...28 : 500
+SIFT loading complete28 : 500
+SIFT loading...29 : 500
+SIFT loading complete29 : 500
+SIFT loading...30 : 500
+SIFT loading complete30 : 500
+SIFT loading...31 : 500
+SIFT loading complete31 : 500
+SIFT loading...32 : 500
+SIFT loading complete32 : 500
+SIFT loading...33 : 500
+SIFT loading complete33 : 500
+SIFT loading...34 : 500
+SIFT loading complete34 : 500
+SIFT loading...35 : 500
+SIFT loading complete35 : 500
+SIFT loading...36 : 500
+SIFT loading complete36 : 500
+SIFT loading...37 : 500
+SIFT loading complete37 : 500
+SIFT loading...38 : 500
+SIFT loading complete38 : 500
+SIFT loading...39 : 500
+SIFT loading complete39 : 500
+SIFT loading...40 : 500
+SIFT loading complete40 : 500
+SIFT loading...41 : 500
+SIFT loading complete41 : 500
+SIFT loading...42 : 500
+SIFT loading complete42 : 500
+SIFT loading...43 : 500
+SIFT loading complete43 : 500
+SIFT loading...44 : 500
+SIFT loading complete44 : 500
+SIFT loading...45 : 500
+SIFT loading complete45 : 500
+SIFT loading...46 : 500
+SIFT loading complete46 : 500
+SIFT loading...47 : 500
+SIFT loading complete47 : 500
+SIFT loading...48 : 500
+SIFT loading complete48 : 500
+SIFT loading...49 : 500
+SIFT loading complete49 : 500
+SIFT loading...50 : 500
+SIFT loading complete50 : 500
+SIFT loading...51 : 500
+SIFT loading complete51 : 500
+SIFT loading...52 : 500
+SIFT loading complete52 : 500
+SIFT loading...53 : 500
+SIFT loading complete53 : 500
+SIFT loading...54 : 500
+SIFT loading complete54 : 500
+SIFT loading...55 : 500
+SIFT loading complete55 : 500
+SIFT loading...56 : 500
+SIFT loading complete56 : 500
+SIFT loading...57 : 500
+SIFT loading complete57 : 500
+SIFT loading...58 : 500
+SIFT loading complete58 : 500
+SIFT loading...59 : 500
+SIFT loading complete59 : 500
+SIFT loading...60 : 500
+SIFT loading complete60 : 500
+SIFT loading...61 : 500
+SIFT loading complete61 : 500
+SIFT loading...62 : 500
+SIFT loading complete62 : 500
+SIFT loading...63 : 500
+SIFT loading complete63 : 500
+SIFT loading...64 : 500
+SIFT loading complete64 : 500
+SIFT loading...65 : 500
+SIFT loading complete65 : 500
+SIFT loading...66 : 500
+SIFT loading complete66 : 500
+SIFT loading...67 : 500
+SIFT loading complete67 : 500
+SIFT loading...68 : 500
+SIFT loading complete68 : 500
+SIFT loading...69 : 500
+SIFT loading complete69 : 500
+SIFT loading...70 : 500
+SIFT loading complete70 : 500
+SIFT loading...71 : 500
+SIFT loading complete71 : 500
+SIFT loading...72 : 500
+SIFT loading complete72 : 500
+SIFT loading...73 : 500
+SIFT loading complete73 : 500
+SIFT loading...74 : 500
+SIFT loading complete74 : 500
+SIFT loading...75 : 500
+SIFT loading complete75 : 500
+SIFT loading...76 : 500
+SIFT loading complete76 : 500
+SIFT loading...77 : 500
+SIFT loading complete77 : 500
+SIFT loading...78 : 500
+SIFT loading complete78 : 500
+SIFT loading...79 : 500
+SIFT loading complete79 : 500
+SIFT loading...80 : 500
+SIFT loading complete80 : 500
+SIFT loading...81 : 500
+SIFT loading complete81 : 500
+SIFT loading...82 : 500
+SIFT loading complete82 : 500
+SIFT loading...83 : 500
+SIFT loading complete83 : 500
+SIFT loading...84 : 500
+SIFT loading complete84 : 500
+SIFT loading...85 : 500
+SIFT loading complete85 : 500
+SIFT loading...86 : 500
+SIFT loading complete86 : 500
+SIFT loading...87 : 500
+SIFT loading complete87 : 500
+SIFT loading...88 : 500
+SIFT loading complete88 : 500
+SIFT loading...89 : 500
+SIFT loading complete89 : 500
+SIFT loading...90 : 500
+SIFT loading complete90 : 500
+SIFT loading...91 : 500
+SIFT loading complete91 : 500
+SIFT loading...92 : 500
+SIFT loading complete92 : 500
+SIFT loading...93 : 500
+SIFT loading complete93 : 500
+SIFT loading...94 : 500
+SIFT loading complete94 : 500
+SIFT loading...95 : 500
+SIFT loading complete95 : 500
+SIFT loading...96 : 500
+SIFT loading complete96 : 500
+SIFT loading...97 : 500
+SIFT loading complete97 : 500
+SIFT loading...98 : 500
+SIFT loading complete98 : 500
+SIFT loading...99 : 500
+SIFT loading complete99 : 500
+SIFT loading...100 : 500
+SIFT loading complete100 : 500
+SIFT loading...101 : 500
+SIFT loading complete101 : 500
+SIFT loading...102 : 500
+SIFT loading complete102 : 500
+SIFT loading...103 : 500
+SIFT loading complete103 : 500
+SIFT loading...104 : 500
+SIFT loading complete104 : 500
+SIFT loading...105 : 500
+SIFT loading complete105 : 500
+SIFT loading...106 : 500
+SIFT loading complete106 : 500
+SIFT loading...107 : 500
+SIFT loading complete107 : 500
+SIFT loading...108 : 500
+SIFT loading complete108 : 500
+SIFT loading...109 : 500
+SIFT loading complete109 : 500
+SIFT loading...110 : 500
+SIFT loading complete110 : 500
+SIFT loading...111 : 500
+SIFT loading complete111 : 500
+SIFT loading...112 : 500
+SIFT loading complete112 : 500
+SIFT loading...113 : 500
+SIFT loading complete113 : 500
+SIFT loading...114 : 500
+SIFT loading complete114 : 500
+SIFT loading...115 : 500
+SIFT loading complete115 : 500
+SIFT loading...116 : 500
+SIFT loading complete116 : 500
+SIFT loading...117 : 500
+SIFT loading complete117 : 500
+SIFT loading...118 : 500
+SIFT loading complete118 : 500
+SIFT loading...119 : 500
+SIFT loading complete119 : 500
+SIFT loading...120 : 500
+SIFT loading complete120 : 500
+SIFT loading...121 : 500
+SIFT loading complete121 : 500
+SIFT loading...122 : 500
+SIFT loading complete122 : 500
+SIFT loading...123 : 500
+SIFT loading complete123 : 500
+SIFT loading...124 : 500
+SIFT loading complete124 : 500
+SIFT loading...125 : 500
+SIFT loading complete125 : 500
+SIFT loading...126 : 500
+SIFT loading complete126 : 500
+SIFT loading...127 : 500
+SIFT loading complete127 : 500
+SIFT loading...128 : 500
+SIFT loading complete128 : 500
+SIFT loading...129 : 500
+SIFT loading complete129 : 500
+SIFT loading...130 : 500
+SIFT loading complete130 : 500
+SIFT loading...131 : 500
+SIFT loading complete131 : 500
+SIFT loading...132 : 500
+SIFT loading complete132 : 500
+SIFT loading...133 : 500
+SIFT loading complete133 : 500
+SIFT loading...134 : 500
+SIFT loading complete134 : 500
+SIFT loading...135 : 500
+SIFT loading complete135 : 500
+SIFT loading...136 : 500
+SIFT loading complete136 : 500
+SIFT loading...137 : 500
+SIFT loading complete137 : 500
+SIFT loading...138 : 500
+SIFT loading complete138 : 500
+SIFT loading...139 : 500
+SIFT loading complete139 : 500
+SIFT loading...140 : 500
+SIFT loading complete140 : 500
+SIFT loading...141 : 500
+SIFT loading complete141 : 500
+SIFT loading...142 : 500
+SIFT loading complete142 : 500
+SIFT loading...143 : 500
+SIFT loading complete143 : 500
+SIFT loading...144 : 500
+SIFT loading complete144 : 500
+SIFT loading...145 : 500
+SIFT loading complete145 : 500
+SIFT loading...146 : 500
+SIFT loading complete146 : 500
+SIFT loading...147 : 500
+SIFT loading complete147 : 500
+SIFT loading...148 : 500
+SIFT loading complete148 : 500
+SIFT loading...149 : 500
+SIFT loading complete149 : 500
+SIFT loading...150 : 500
+SIFT loading complete150 : 500
+SIFT loading...151 : 500
+SIFT loading complete151 : 500
+SIFT loading...152 : 500
+SIFT loading complete152 : 500
+SIFT loading...153 : 500
+SIFT loading complete153 : 500
+SIFT loading...154 : 500
+SIFT loading complete154 : 500
+SIFT loading...155 : 500
+SIFT loading complete155 : 500
+SIFT loading...156 : 500
+SIFT loading complete156 : 500
+SIFT loading...157 : 500
+SIFT loading complete157 : 500
+SIFT loading...158 : 500
+SIFT loading complete158 : 500
+SIFT loading...159 : 500
+SIFT loading complete159 : 500
+SIFT loading...160 : 500
+SIFT loading complete160 : 500
+SIFT loading...161 : 500
+SIFT loading complete161 : 500
+SIFT loading...162 : 500
+SIFT loading complete162 : 500
+SIFT loading...163 : 500
+SIFT loading complete163 : 500
+SIFT loading...164 : 500
+SIFT loading complete164 : 500
+SIFT loading...165 : 500
+SIFT loading complete165 : 500
+SIFT loading...166 : 500
+SIFT loading complete166 : 500
+SIFT loading...167 : 500
+SIFT loading complete167 : 500
+SIFT loading...168 : 500
+SIFT loading complete168 : 500
+SIFT loading...169 : 500
+SIFT loading complete169 : 500
+SIFT loading...170 : 500
+SIFT loading complete170 : 500
+SIFT loading...171 : 500
+SIFT loading complete171 : 500
+SIFT loading...172 : 500
+SIFT loading complete172 : 500
+SIFT loading...173 : 500
+SIFT loading complete173 : 500
+SIFT loading...174 : 500
+SIFT loading complete174 : 500
+SIFT loading...175 : 500
+SIFT loading complete175 : 500
+SIFT loading...176 : 500
+SIFT loading complete176 : 500
+SIFT loading...177 : 500
+SIFT loading complete177 : 500
+SIFT loading...178 : 500
+SIFT loading complete178 : 500
+SIFT loading...179 : 500
+SIFT loading complete179 : 500
+SIFT loading...180 : 500
+SIFT loading complete180 : 500
+SIFT loading...181 : 500
+SIFT loading complete181 : 500
+SIFT loading...182 : 500
+SIFT loading complete182 : 500
+SIFT loading...183 : 500
+SIFT loading complete183 : 500
+SIFT loading...184 : 500
+SIFT loading complete184 : 500
+SIFT loading...185 : 500
+SIFT loading complete185 : 500
+SIFT loading...186 : 500
+SIFT loading complete186 : 500
+SIFT loading...187 : 500
+SIFT loading complete187 : 500
+SIFT loading...188 : 500
+SIFT loading complete188 : 500
+SIFT loading...189 : 500
+SIFT loading complete189 : 500
+SIFT loading...190 : 500
+SIFT loading complete190 : 500
+SIFT loading...191 : 500
+SIFT loading complete191 : 500
+SIFT loading...192 : 500
+SIFT loading complete192 : 500
+SIFT loading...193 : 500
+SIFT loading complete193 : 500
+SIFT loading...194 : 500
+SIFT loading complete194 : 500
+SIFT loading...195 : 500
+SIFT loading complete195 : 500
+SIFT loading...196 : 500
+SIFT loading complete196 : 500
+SIFT loading...197 : 500
+SIFT loading complete197 : 500
+SIFT loading...198 : 500
+SIFT loading complete198 : 500
+SIFT loading...199 : 500
+SIFT loading complete199 : 500
+SIFT loading...200 : 500
+SIFT loading complete200 : 500
+SIFT loading...201 : 500
+SIFT loading complete201 : 500
+SIFT loading...202 : 500
+SIFT loading complete202 : 500
+SIFT loading...203 : 500
+SIFT loading complete203 : 500
+SIFT loading...204 : 500
+SIFT loading complete204 : 500
+SIFT loading...205 : 500
+SIFT loading complete205 : 500
+SIFT loading...206 : 500
+SIFT loading complete206 : 500
+SIFT loading...207 : 500
+SIFT loading complete207 : 500
+SIFT loading...208 : 500
+SIFT loading complete208 : 500
+SIFT loading...209 : 500
+SIFT loading complete209 : 500
+SIFT loading...210 : 500
+SIFT loading complete210 : 500
+SIFT loading...211 : 500
+SIFT loading complete211 : 500
+SIFT loading...212 : 500
+SIFT loading complete212 : 500
+SIFT loading...213 : 500
+SIFT loading complete213 : 500
+SIFT loading...214 : 500
+SIFT loading complete214 : 500
+SIFT loading...215 : 500
+SIFT loading complete215 : 500
+SIFT loading...216 : 500
+SIFT loading complete216 : 500
+SIFT loading...217 : 500
+SIFT loading complete217 : 500
+SIFT loading...218 : 500
+SIFT loading complete218 : 500
+SIFT loading...219 : 500
+SIFT loading complete219 : 500
+SIFT loading...220 : 500
+SIFT loading complete220 : 500
+SIFT loading...221 : 500
+SIFT loading complete221 : 500
+SIFT loading...222 : 500
+SIFT loading complete222 : 500
+SIFT loading...223 : 500
+SIFT loading complete223 : 500
+SIFT loading...224 : 500
+SIFT loading complete224 : 500
+SIFT loading...225 : 500
+SIFT loading complete225 : 500
+SIFT loading...226 : 500
+SIFT loading complete226 : 500
+SIFT loading...227 : 500
+SIFT loading complete227 : 500
+SIFT loading...228 : 500
+SIFT loading complete228 : 500
+SIFT loading...229 : 500
+SIFT loading complete229 : 500
+SIFT loading...230 : 500
+SIFT loading complete230 : 500
+SIFT loading...231 : 500
+SIFT loading complete231 : 500
+SIFT loading...232 : 500
+SIFT loading complete232 : 500
+SIFT loading...233 : 500
+SIFT loading complete233 : 500
+SIFT loading...234 : 500
+SIFT loading complete234 : 500
+SIFT loading...235 : 500
+SIFT loading complete235 : 500
+SIFT loading...236 : 500
+SIFT loading complete236 : 500
+SIFT loading...237 : 500
+SIFT loading complete237 : 500
+SIFT loading...238 : 500
+SIFT loading complete238 : 500
+SIFT loading...239 : 500
+SIFT loading complete239 : 500
+SIFT loading...240 : 500
+SIFT loading complete240 : 500
+SIFT loading...241 : 500
+SIFT loading complete241 : 500
+SIFT loading...242 : 500
+SIFT loading complete242 : 500
+SIFT loading...243 : 500
+SIFT loading complete243 : 500
+SIFT loading...244 : 500
+SIFT loading complete244 : 500
+SIFT loading...245 : 500
+SIFT loading complete245 : 500
+SIFT loading...246 : 500
+SIFT loading complete246 : 500
+SIFT loading...247 : 500
+SIFT loading complete247 : 500
+SIFT loading...248 : 500
+SIFT loading complete248 : 500
+SIFT loading...249 : 500
+SIFT loading complete249 : 500
+SIFT loading...250 : 500
+SIFT loading complete250 : 500
+SIFT loading...251 : 500
+SIFT loading complete251 : 500
+SIFT loading...252 : 500
+SIFT loading complete252 : 500
+SIFT loading...253 : 500
+SIFT loading complete253 : 500
+SIFT loading...254 : 500
+SIFT loading complete254 : 500
+SIFT loading...255 : 500
+SIFT loading complete255 : 500
+SIFT loading...256 : 500
+SIFT loading complete256 : 500
+SIFT loading...257 : 500
+SIFT loading complete257 : 500
+SIFT loading...258 : 500
+SIFT loading complete258 : 500
+SIFT loading...259 : 500
+SIFT loading complete259 : 500
+SIFT loading...260 : 500
+SIFT loading complete260 : 500
+SIFT loading...261 : 500
+SIFT loading complete261 : 500
+SIFT loading...262 : 500
+SIFT loading complete262 : 500
+SIFT loading...263 : 500
+SIFT loading complete263 : 500
+SIFT loading...264 : 500
+SIFT loading complete264 : 500
+SIFT loading...265 : 500
+SIFT loading complete265 : 500
+SIFT loading...266 : 500
+SIFT loading complete266 : 500
+SIFT loading...267 : 500
+SIFT loading complete267 : 500
+SIFT loading...268 : 500
+SIFT loading complete268 : 500
+SIFT loading...269 : 500
+SIFT loading complete269 : 500
+SIFT loading...270 : 500
+SIFT loading complete270 : 500
+SIFT loading...271 : 500
+SIFT loading complete271 : 500
+SIFT loading...272 : 500
+SIFT loading complete272 : 500
+SIFT loading...273 : 500
+SIFT loading complete273 : 500
+SIFT loading...274 : 500
+SIFT loading complete274 : 500
+SIFT loading...275 : 500
+SIFT loading complete275 : 500
+SIFT loading...276 : 500
+SIFT loading complete276 : 500
+SIFT loading...277 : 500
+SIFT loading complete277 : 500
+SIFT loading...278 : 500
+SIFT loading complete278 : 500
+SIFT loading...279 : 500
+SIFT loading complete279 : 500
+SIFT loading...280 : 500
+SIFT loading complete280 : 500
+SIFT loading...281 : 500
+SIFT loading complete281 : 500
+SIFT loading...282 : 500
+SIFT loading complete282 : 500
+SIFT loading...283 : 500
+SIFT loading complete283 : 500
+SIFT loading...284 : 500
+SIFT loading complete284 : 500
+SIFT loading...285 : 500
+SIFT loading complete285 : 500
+SIFT loading...286 : 500
+SIFT loading complete286 : 500
+SIFT loading...287 : 500
+SIFT loading complete287 : 500
+SIFT loading...288 : 500
+SIFT loading complete288 : 500
+SIFT loading...289 : 500
+SIFT loading complete289 : 500
+SIFT loading...290 : 500
+SIFT loading complete290 : 500
+SIFT loading...291 : 500
+SIFT loading complete291 : 500
+SIFT loading...292 : 500
+SIFT loading complete292 : 500
+SIFT loading...293 : 500
+SIFT loading complete293 : 500
+SIFT loading...294 : 500
+SIFT loading complete294 : 500
+SIFT loading...295 : 500
+SIFT loading complete295 : 500
+SIFT loading...296 : 500
+SIFT loading complete296 : 500
+SIFT loading...297 : 500
+SIFT loading complete297 : 500
+SIFT loading...298 : 500
+SIFT loading complete298 : 500
+SIFT loading...299 : 500
+SIFT loading complete299 : 500
+SIFT loading...300 : 500
+SIFT loading complete300 : 500
+SIFT loading...301 : 500
+SIFT loading complete301 : 500
+SIFT loading...302 : 500
+SIFT loading complete302 : 500
+SIFT loading...303 : 500
+SIFT loading complete303 : 500
+SIFT loading...304 : 500
+SIFT loading complete304 : 500
+SIFT loading...305 : 500

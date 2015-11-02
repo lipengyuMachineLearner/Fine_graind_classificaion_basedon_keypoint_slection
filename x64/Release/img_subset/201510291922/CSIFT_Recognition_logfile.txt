@@ -1,0 +1,1504 @@
+HoC CodeBook getting...
+HoC CodeBook getting complete
+HoC CodeBook saving...
+HoC CodeBook saving complete
+DATA loading...0 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete0 : 500
+DATA loading...1 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete1 : 500
+DATA loading...2 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete2 : 500
+DATA loading...3 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete3 : 500
+DATA loading...4 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete4 : 500
+DATA loading...5 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete5 : 500
+DATA loading...6 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete6 : 500
+DATA loading...7 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete7 : 500
+DATA loading...8 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete8 : 500
+DATA loading...9 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete9 : 500
+DATA loading...10 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete10 : 500
+DATA loading...11 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete11 : 500
+DATA loading...12 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete12 : 500
+DATA loading...13 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete13 : 500
+DATA loading...14 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete14 : 500
+DATA loading...15 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete15 : 500
+DATA loading...16 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete16 : 500
+DATA loading...17 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete17 : 500
+DATA loading...18 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete18 : 500
+DATA loading...19 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete19 : 500
+DATA loading...20 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete20 : 500
+DATA loading...21 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete21 : 500
+DATA loading...22 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete22 : 500
+DATA loading...23 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete23 : 500
+DATA loading...24 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete24 : 500
+DATA loading...25 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete25 : 500
+DATA loading...26 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete26 : 500
+DATA loading...27 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete27 : 500
+DATA loading...28 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete28 : 500
+DATA loading...29 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete29 : 500
+DATA loading...30 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete30 : 500
+DATA loading...31 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete31 : 500
+DATA loading...32 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete32 : 500
+DATA loading...33 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete33 : 500
+DATA loading...34 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete34 : 500
+DATA loading...35 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete35 : 500
+DATA loading...36 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete36 : 500
+DATA loading...37 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete37 : 500
+DATA loading...38 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete38 : 500
+DATA loading...39 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete39 : 500
+DATA loading...40 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete40 : 500
+DATA loading...41 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete41 : 500
+DATA loading...42 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete42 : 500
+DATA loading...43 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete43 : 500
+DATA loading...44 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete44 : 500
+DATA loading...45 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete45 : 500
+DATA loading...46 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete46 : 500
+DATA loading...47 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete47 : 500
+DATA loading...48 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete48 : 500
+DATA loading...49 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete49 : 500
+DATA loading...50 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete50 : 500
+DATA loading...51 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete51 : 500
+DATA loading...52 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete52 : 500
+DATA loading...53 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete53 : 500
+DATA loading...54 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete54 : 500
+DATA loading...55 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete55 : 500
+DATA loading...56 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete56 : 500
+DATA loading...57 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete57 : 500
+DATA loading...58 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete58 : 500
+DATA loading...59 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete59 : 500
+DATA loading...60 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete60 : 500
+DATA loading...61 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete61 : 500
+DATA loading...62 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete62 : 500
+DATA loading...63 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete63 : 500
+DATA loading...64 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete64 : 500
+DATA loading...65 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete65 : 500
+DATA loading...66 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete66 : 500
+DATA loading...67 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete67 : 500
+DATA loading...68 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete68 : 500
+DATA loading...69 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete69 : 500
+DATA loading...70 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete70 : 500
+DATA loading...71 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete71 : 500
+DATA loading...72 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete72 : 500
+DATA loading...73 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete73 : 500
+DATA loading...74 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete74 : 500
+DATA loading...75 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete75 : 500
+DATA loading...76 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete76 : 500
+DATA loading...77 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete77 : 500
+DATA loading...78 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete78 : 500
+DATA loading...79 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete79 : 500
+DATA loading...80 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete80 : 500
+DATA loading...81 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete81 : 500
+DATA loading...82 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete82 : 500
+DATA loading...83 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete83 : 500
+DATA loading...84 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete84 : 500
+DATA loading...85 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete85 : 500
+DATA loading...86 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete86 : 500
+DATA loading...87 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete87 : 500
+DATA loading...88 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete88 : 500
+DATA loading...89 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete89 : 500
+DATA loading...90 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete90 : 500
+DATA loading...91 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete91 : 500
+DATA loading...92 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete92 : 500
+DATA loading...93 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete93 : 500
+DATA loading...94 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete94 : 500
+DATA loading...95 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete95 : 500
+DATA loading...96 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete96 : 500
+DATA loading...97 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete97 : 500
+DATA loading...98 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete98 : 500
+DATA loading...99 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete99 : 500
+DATA loading...100 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete100 : 500
+DATA loading...101 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete101 : 500
+DATA loading...102 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete102 : 500
+DATA loading...103 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete103 : 500
+DATA loading...104 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete104 : 500
+DATA loading...105 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete105 : 500
+DATA loading...106 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete106 : 500
+DATA loading...107 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete107 : 500
+DATA loading...108 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete108 : 500
+DATA loading...109 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete109 : 500
+DATA loading...110 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete110 : 500
+DATA loading...111 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete111 : 500
+DATA loading...112 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete112 : 500
+DATA loading...113 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete113 : 500
+DATA loading...114 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete114 : 500
+DATA loading...115 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete115 : 500
+DATA loading...116 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete116 : 500
+DATA loading...117 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete117 : 500
+DATA loading...118 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete118 : 500
+DATA loading...119 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete119 : 500
+DATA loading...120 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete120 : 500
+DATA loading...121 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete121 : 500
+DATA loading...122 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete122 : 500
+DATA loading...123 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete123 : 500
+DATA loading...124 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete124 : 500
+DATA loading...125 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete125 : 500
+DATA loading...126 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete126 : 500
+DATA loading...127 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete127 : 500
+DATA loading...128 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete128 : 500
+DATA loading...129 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete129 : 500
+DATA loading...130 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete130 : 500
+DATA loading...131 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete131 : 500
+DATA loading...132 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete132 : 500
+DATA loading...133 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete133 : 500
+DATA loading...134 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete134 : 500
+DATA loading...135 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete135 : 500
+DATA loading...136 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete136 : 500
+DATA loading...137 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete137 : 500
+DATA loading...138 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete138 : 500
+DATA loading...139 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete139 : 500
+DATA loading...140 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete140 : 500
+DATA loading...141 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete141 : 500
+DATA loading...142 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete142 : 500
+DATA loading...143 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete143 : 500
+DATA loading...144 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete144 : 500
+DATA loading...145 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete145 : 500
+DATA loading...146 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete146 : 500
+DATA loading...147 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete147 : 500
+DATA loading...148 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete148 : 500
+DATA loading...149 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete149 : 500
+DATA loading...150 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete150 : 500
+DATA loading...151 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete151 : 500
+DATA loading...152 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete152 : 500
+DATA loading...153 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete153 : 500
+DATA loading...154 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete154 : 500
+DATA loading...155 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete155 : 500
+DATA loading...156 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete156 : 500
+DATA loading...157 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete157 : 500
+DATA loading...158 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete158 : 500
+DATA loading...159 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete159 : 500
+DATA loading...160 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete160 : 500
+DATA loading...161 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete161 : 500
+DATA loading...162 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete162 : 500
+DATA loading...163 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete163 : 500
+DATA loading...164 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete164 : 500
+DATA loading...165 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete165 : 500
+DATA loading...166 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete166 : 500
+DATA loading...167 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete167 : 500
+DATA loading...168 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete168 : 500
+DATA loading...169 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete169 : 500
+DATA loading...170 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete170 : 500
+DATA loading...171 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete171 : 500
+DATA loading...172 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete172 : 500
+DATA loading...173 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete173 : 500
+DATA loading...174 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete174 : 500
+DATA loading...175 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete175 : 500
+DATA loading...176 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete176 : 500
+DATA loading...177 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete177 : 500
+DATA loading...178 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete178 : 500
+DATA loading...179 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete179 : 500
+DATA loading...180 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete180 : 500
+DATA loading...181 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete181 : 500
+DATA loading...182 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete182 : 500
+DATA loading...183 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete183 : 500
+DATA loading...184 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete184 : 500
+DATA loading...185 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete185 : 500
+DATA loading...186 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete186 : 500
+DATA loading...187 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete187 : 500
+DATA loading...188 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete188 : 500
+DATA loading...189 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete189 : 500
+DATA loading...190 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete190 : 500
+DATA loading...191 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete191 : 500
+DATA loading...192 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete192 : 500
+DATA loading...193 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete193 : 500
+DATA loading...194 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete194 : 500
+DATA loading...195 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete195 : 500
+DATA loading...196 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete196 : 500
+DATA loading...197 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete197 : 500
+DATA loading...198 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete198 : 500
+DATA loading...199 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete199 : 500
+DATA loading...200 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete200 : 500
+DATA loading...201 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete201 : 500
+DATA loading...202 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete202 : 500
+DATA loading...203 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete203 : 500
+DATA loading...204 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete204 : 500
+DATA loading...205 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete205 : 500
+DATA loading...206 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete206 : 500
+DATA loading...207 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete207 : 500
+DATA loading...208 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete208 : 500
+DATA loading...209 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete209 : 500
+DATA loading...210 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete210 : 500
+DATA loading...211 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete211 : 500
+DATA loading...212 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete212 : 500
+DATA loading...213 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete213 : 500
+DATA loading...214 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete214 : 500
+DATA loading...215 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete215 : 500
+DATA loading...216 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete216 : 500
+DATA loading...217 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete217 : 500
+DATA loading...218 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete218 : 500
+DATA loading...219 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete219 : 500
+DATA loading...220 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete220 : 500
+DATA loading...221 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete221 : 500
+DATA loading...222 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete222 : 500
+DATA loading...223 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete223 : 500
+DATA loading...224 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete224 : 500
+DATA loading...225 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete225 : 500
+DATA loading...226 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete226 : 500
+DATA loading...227 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete227 : 500
+DATA loading...228 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete228 : 500
+DATA loading...229 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete229 : 500
+DATA loading...230 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete230 : 500
+DATA loading...231 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete231 : 500
+DATA loading...232 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete232 : 500
+DATA loading...233 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete233 : 500
+DATA loading...234 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete234 : 500
+DATA loading...235 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete235 : 500
+DATA loading...236 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete236 : 500
+DATA loading...237 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete237 : 500
+DATA loading...238 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete238 : 500
+DATA loading...239 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete239 : 500
+DATA loading...240 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete240 : 500
+DATA loading...241 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete241 : 500
+DATA loading...242 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete242 : 500
+DATA loading...243 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete243 : 500
+DATA loading...244 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete244 : 500
+DATA loading...245 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete245 : 500
+DATA loading...246 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete246 : 500
+DATA loading...247 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete247 : 500
+DATA loading...248 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete248 : 500
+DATA loading...249 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete249 : 500
+DATA loading...250 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete250 : 500
+DATA loading...251 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete251 : 500
+DATA loading...252 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete252 : 500
+DATA loading...253 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete253 : 500
+DATA loading...254 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete254 : 500
+DATA loading...255 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete255 : 500
+DATA loading...256 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete256 : 500
+DATA loading...257 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete257 : 500
+DATA loading...258 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete258 : 500
+DATA loading...259 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete259 : 500
+DATA loading...260 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete260 : 500
+DATA loading...261 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete261 : 500
+DATA loading...262 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete262 : 500
+DATA loading...263 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete263 : 500
+DATA loading...264 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete264 : 500
+DATA loading...265 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete265 : 500
+DATA loading...266 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete266 : 500
+DATA loading...267 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete267 : 500
+DATA loading...268 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete268 : 500
+DATA loading...269 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete269 : 500
+DATA loading...270 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete270 : 500
+DATA loading...271 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete271 : 500
+DATA loading...272 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete272 : 500
+DATA loading...273 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete273 : 500
+DATA loading...274 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete274 : 500
+DATA loading...275 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete275 : 500
+DATA loading...276 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete276 : 500
+DATA loading...277 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete277 : 500
+DATA loading...278 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete278 : 500
+DATA loading...279 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete279 : 500
+DATA loading...280 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete280 : 500
+DATA loading...281 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete281 : 500
+DATA loading...282 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete282 : 500
+DATA loading...283 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete283 : 500
+DATA loading...284 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete284 : 500
+DATA loading...285 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete285 : 500
+DATA loading...286 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete286 : 500
+DATA loading...287 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete287 : 500
+DATA loading...288 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete288 : 500
+DATA loading...289 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete289 : 500
+DATA loading...290 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete290 : 500
+DATA loading...291 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete291 : 500
+DATA loading...292 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete292 : 500
+DATA loading...293 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete293 : 500
+DATA loading...294 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete294 : 500
+DATA loading...295 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete295 : 500
+DATA loading...296 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete296 : 500
+DATA loading...297 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete297 : 500
+DATA loading...298 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete298 : 500
+DATA loading...299 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete299 : 500
+DATA loading...300 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete300 : 500
+DATA loading...301 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete301 : 500
+DATA loading...302 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete302 : 500
+DATA loading...303 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete303 : 500
+DATA loading...304 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete304 : 500
+DATA loading...305 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete305 : 500
+DATA loading...306 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete306 : 500
+DATA loading...307 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete307 : 500
+DATA loading...308 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete308 : 500
+DATA loading...309 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete309 : 500
+DATA loading...310 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete310 : 500
+DATA loading...311 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete311 : 500
+DATA loading...312 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete312 : 500
+DATA loading...313 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete313 : 500
+DATA loading...314 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete314 : 500
+DATA loading...315 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete315 : 500
+DATA loading...316 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete316 : 500
+DATA loading...317 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete317 : 500
+DATA loading...318 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete318 : 500
+DATA loading...319 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete319 : 500
+DATA loading...320 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete320 : 500
+DATA loading...321 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete321 : 500
+DATA loading...322 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete322 : 500
+DATA loading...323 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete323 : 500
+DATA loading...324 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete324 : 500
+DATA loading...325 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete325 : 500
+DATA loading...326 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete326 : 500
+DATA loading...327 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete327 : 500
+DATA loading...328 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete328 : 500
+DATA loading...329 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete329 : 500
+DATA loading...330 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete330 : 500
+DATA loading...331 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete331 : 500
+DATA loading...332 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete332 : 500
+DATA loading...333 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete333 : 500
+DATA loading...334 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete334 : 500
+DATA loading...335 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete335 : 500
+DATA loading...336 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete336 : 500
+DATA loading...337 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete337 : 500
+DATA loading...338 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete338 : 500
+DATA loading...339 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete339 : 500
+DATA loading...340 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete340 : 500
+DATA loading...341 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete341 : 500
+DATA loading...342 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete342 : 500
+DATA loading...343 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete343 : 500
+DATA loading...344 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete344 : 500
+DATA loading...345 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete345 : 500
+DATA loading...346 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete346 : 500
+DATA loading...347 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete347 : 500
+DATA loading...348 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete348 : 500
+DATA loading...349 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete349 : 500
+DATA loading...350 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete350 : 500
+DATA loading...351 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete351 : 500
+DATA loading...352 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete352 : 500
+DATA loading...353 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete353 : 500
+DATA loading...354 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete354 : 500
+DATA loading...355 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete355 : 500
+DATA loading...356 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete356 : 500
+DATA loading...357 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete357 : 500
+DATA loading...358 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete358 : 500
+DATA loading...359 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete359 : 500
+DATA loading...360 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete360 : 500
+DATA loading...361 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete361 : 500
+DATA loading...362 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete362 : 500
+DATA loading...363 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete363 : 500
+DATA loading...364 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete364 : 500
+DATA loading...365 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete365 : 500
+DATA loading...366 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete366 : 500
+DATA loading...367 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete367 : 500
+DATA loading...368 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete368 : 500
+DATA loading...369 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete369 : 500
+DATA loading...370 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete370 : 500
+DATA loading...371 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete371 : 500
+DATA loading...372 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete372 : 500
+DATA loading...373 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete373 : 500
+DATA loading...374 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete374 : 500
+DATA loading...375 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete375 : 500
+DATA loading...376 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete376 : 500
+DATA loading...377 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete377 : 500
+DATA loading...378 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete378 : 500
+DATA loading...379 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete379 : 500
+DATA loading...380 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete380 : 500
+DATA loading...381 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete381 : 500
+DATA loading...382 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete382 : 500
+DATA loading...383 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete383 : 500
+DATA loading...384 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete384 : 500
+DATA loading...385 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete385 : 500
+DATA loading...386 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete386 : 500
+DATA loading...387 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete387 : 500
+DATA loading...388 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete388 : 500
+DATA loading...389 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete389 : 500
+DATA loading...390 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete390 : 500
+DATA loading...391 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete391 : 500
+DATA loading...392 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete392 : 500
+DATA loading...393 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete393 : 500
+DATA loading...394 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete394 : 500
+DATA loading...395 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete395 : 500
+DATA loading...396 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete396 : 500
+DATA loading...397 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete397 : 500
+DATA loading...398 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete398 : 500
+DATA loading...399 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete399 : 500
+DATA loading...400 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete400 : 500
+DATA loading...401 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete401 : 500
+DATA loading...402 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete402 : 500
+DATA loading...403 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete403 : 500
+DATA loading...404 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete404 : 500
+DATA loading...405 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete405 : 500
+DATA loading...406 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete406 : 500
+DATA loading...407 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete407 : 500
+DATA loading...408 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete408 : 500
+DATA loading...409 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete409 : 500
+DATA loading...410 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete410 : 500
+DATA loading...411 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete411 : 500
+DATA loading...412 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete412 : 500
+DATA loading...413 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete413 : 500
+DATA loading...414 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete414 : 500
+DATA loading...415 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete415 : 500
+DATA loading...416 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete416 : 500
+DATA loading...417 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete417 : 500
+DATA loading...418 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete418 : 500
+DATA loading...419 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete419 : 500
+DATA loading...420 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete420 : 500
+DATA loading...421 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete421 : 500
+DATA loading...422 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete422 : 500
+DATA loading...423 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete423 : 500
+DATA loading...424 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete424 : 500
+DATA loading...425 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete425 : 500
+DATA loading...426 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete426 : 500
+DATA loading...427 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete427 : 500
+DATA loading...428 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete428 : 500
+DATA loading...429 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete429 : 500
+DATA loading...430 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete430 : 500
+DATA loading...431 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete431 : 500
+DATA loading...432 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete432 : 500
+DATA loading...433 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete433 : 500
+DATA loading...434 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete434 : 500
+DATA loading...435 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete435 : 500
+DATA loading...436 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete436 : 500
+DATA loading...437 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete437 : 500
+DATA loading...438 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete438 : 500
+DATA loading...439 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete439 : 500
+DATA loading...440 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete440 : 500
+DATA loading...441 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete441 : 500
+DATA loading...442 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete442 : 500
+DATA loading...443 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete443 : 500
+DATA loading...444 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete444 : 500
+DATA loading...445 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete445 : 500
+DATA loading...446 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete446 : 500
+DATA loading...447 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete447 : 500
+DATA loading...448 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete448 : 500
+DATA loading...449 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete449 : 500
+DATA loading...450 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete450 : 500
+DATA loading...451 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete451 : 500
+DATA loading...452 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete452 : 500
+DATA loading...453 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete453 : 500
+DATA loading...454 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete454 : 500
+DATA loading...455 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete455 : 500
+DATA loading...456 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete456 : 500
+DATA loading...457 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete457 : 500
+DATA loading...458 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete458 : 500
+DATA loading...459 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete459 : 500
+DATA loading...460 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete460 : 500
+DATA loading...461 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete461 : 500
+DATA loading...462 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete462 : 500
+DATA loading...463 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete463 : 500
+DATA loading...464 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete464 : 500
+DATA loading...465 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete465 : 500
+DATA loading...466 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete466 : 500
+DATA loading...467 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete467 : 500
+DATA loading...468 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete468 : 500
+DATA loading...469 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete469 : 500
+DATA loading...470 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete470 : 500
+DATA loading...471 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete471 : 500
+DATA loading...472 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete472 : 500
+DATA loading...473 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete473 : 500
+DATA loading...474 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete474 : 500
+DATA loading...475 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete475 : 500
+DATA loading...476 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete476 : 500
+DATA loading...477 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete477 : 500
+DATA loading...478 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete478 : 500
+DATA loading...479 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete479 : 500
+DATA loading...480 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete480 : 500
+DATA loading...481 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete481 : 500
+DATA loading...482 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete482 : 500
+DATA loading...483 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete483 : 500
+DATA loading...484 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete484 : 500
+DATA loading...485 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete485 : 500
+DATA loading...486 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete486 : 500
+DATA loading...487 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete487 : 500
+DATA loading...488 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete488 : 500
+DATA loading...489 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete489 : 500
+DATA loading...490 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete490 : 500
+DATA loading...491 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete491 : 500
+DATA loading...492 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete492 : 500
+DATA loading...493 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete493 : 500
+DATA loading...494 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete494 : 500
+DATA loading...495 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete495 : 500
+DATA loading...496 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete496 : 500
+DATA loading...497 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete497 : 500
+DATA loading...498 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete498 : 500
+DATA loading...499 : 500
+D:\kaggle\Right_Whale_Recognition\data\hoc_description
+DATA loading complete499 : 500

@@ -18,7 +18,7 @@ public:
 	CSIFT_Recognition();
 	void train(vector<string> &vec_inputFile) ; 
 	void keyPoint2Image(vector<string> &vec_inputFile, string path, string savePath);
-	void test(vector<string> &vec_inputFile);
+	void test(vector<string> &vec_inputFile, string codebokkFIle, string descriptoPath);
 	
 private:
 	CCodebook codebookSIFT_, CCodebookHoC_;

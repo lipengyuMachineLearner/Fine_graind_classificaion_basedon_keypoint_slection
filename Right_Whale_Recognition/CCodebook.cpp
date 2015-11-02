@@ -5,7 +5,7 @@
 
 
 CCodebook::CCodebook(int num_words, int kmeans_stop_iteration, float kmeans_stop_threshold,
-	int split_stop_iteration, float split_threshold, float min_intial, float max_intial)
+	int split_stop_iteration, float split_threshold, float min_intial, float max_intial, int max_point)
 {
 	num_words_ = num_words;
 	kmeans_stop_iteration_ = kmeans_stop_iteration;
@@ -14,6 +14,7 @@ CCodebook::CCodebook(int num_words, int kmeans_stop_iteration, float kmeans_stop
 	split_threshold_ = split_threshold;
 	min_intial_ = min_intial;
 	max_intial_ = max_intial;
+	max_point_ = max_point;
 
 	sign_intial_ = true;
 	dimision_ = 0;
@@ -40,6 +41,7 @@ void CCodebook::getCodebook(vector<string> &vec_inputFile, string path, int iter
 
 		sign_num_sum = false;
 		sign_split = false;
+		int num_point = 0;
 		for (int file_i = 0; file_i < num_file; file_i++)
 		{
 			string::size_type pos1 = vec_inputFile[file_i].rfind("\\");
@@ -48,9 +50,15 @@ void CCodebook::getCodebook(vector<string> &vec_inputFile, string path, int iter
 			
 			CDescription *description = new CDescription();
 			if (path.find("sift") != string::npos)
+			{
+				delete description;
 				description = new CSIFTDescription();
+			}
 			else if (path.find("hoc") != string::npos)
+			{
+				delete description;
 				description = new CHoCDescription();
+			}
 			else
 			{
 				cout << "error in the type of codebook, it should be hoc or sift" << endl;
@@ -72,8 +80,18 @@ void CCodebook::getCodebook(vector<string> &vec_inputFile, string path, int iter
 				logfile << "(void CSIFT_Recognition::getCoodbook(vector<string> &vec_inputFile)) error in the dimision" << std::endl;
 				exit(0);
 			}
+			num_point += description->KeyPoint_loc_.size();
+
 			inputData(*description, path);
 			description->saveDescription(path + "\\" + fileName);
+			delete description;
+
+			if (num_point > max_point_)
+			{
+				std::cout << "num_point > max_point_ : " << num_point << ">" << max_point_ << std::endl;
+				logfile << "num_point > max_point_ : " << num_point << ">" << max_point_ << std::endl;
+				break;
+			}
 		}
 
 		cov_pre = cov;
@@ -114,14 +132,14 @@ void CCodebook::getCodebook(vector<string> &vec_inputFile, string path, int iter
 			cout << "sum_point = " << sum_point << endl;
 			logfile << "sum_point = " << sum_point << endl;
 
-			break;
+			return;
 		}
 
 		if (num_words_ <= 1 && sign_split == false)
 		{ 
 			std::cout << "num_words_ <= 1 " << num_words_ << std::endl;
 			logfile << "num_words_ <= 1 " << num_words_ << std::endl;
-			bool signSplit = splitCenter(vec_inputFile);
+			bool signSplit = splitCenter();
 			if (signSplit == true)
 			{
 				/*sum_ = Mat::zeros(num_words_, dimision_, CV_32FC1);
@@ -155,10 +173,10 @@ void CCodebook::getCodebook(vector<string> &vec_inputFile, string path, int iter
 			}
 		}
 
-		if (abs(cov - cov_pre) < kmeans_stop_threshold_ / 1000 && sign_num_sum == false && sign_split == false)
+		if (abs(cov - cov_pre) < kmeans_stop_threshold_ / (kmeans_stop_iteration_*100) && sign_num_sum == false && sign_split == false)
 		{
-			std::cout << "abs(cov - cov_pre) < KMEANS_STOP_THRESHOLD / 1000 && sign_num_sum == false" << abs(cov - cov_pre) << " < " << kmeans_stop_threshold_ / 1000 << ", sign_num_sum = " << sign_num_sum << ", num_words_ : " << num_words_ << " , break " << std::endl;
-			logfile << "abs(cov - cov_pre) < KMEANS_STOP_THRESHOLD / 1000 && sign_num_sum == false" << abs(cov - cov_pre) << " < " << kmeans_stop_threshold_ / 1000 << ", sign_num_sum = " << sign_num_sum << ", num_words_ : " << num_words_ << " , break " << std::endl;
+			std::cout << "abs(cov - cov_pre) < kmeans_stop_threshold_ / (kmeans_stop_iteration_*100) && sign_num_sum == false && sign_split == false" << abs(cov - cov_pre) << " < " << kmeans_stop_threshold_ / (kmeans_stop_iteration_ * 100) << ", sign_num_sum = " << sign_num_sum << ", num_words_ : " << num_words_ << " , break " << std::endl;
+			logfile << "abs(cov - cov_pre) < kmeans_stop_threshold_ / (kmeans_stop_iteration_*100) && sign_num_sum == false && sign_split == false" << abs(cov - cov_pre) << " < " << kmeans_stop_threshold_ / (kmeans_stop_iteration_ * 100) << ", sign_num_sum = " << sign_num_sum << ", num_words_ : " << num_words_ << " , break " << std::endl;
 			break;
 		}
 	}
@@ -179,14 +197,14 @@ void CCodebook::getCodebook(vector<string> &vec_inputFile, string path, int iter
 	logfile << "cov = " << cov << std::endl;
 	logfile << "num_words_ = " << num_words_ << endl;
 
-	bool signSplit = splitCenter(vec_inputFile);
+	bool signSplit = splitCenter();
 	if (signSplit)
 	{
 		sum_ = Mat::zeros(num_words_, dimision_, CV_32FC1);
 		num_sum_ = Mat::zeros(num_words_, 1, CV_32FC1);
 		cov_ = Mat::zeros(num_words_, 1, CV_32FC1);
-		cout << "splitCenter=" << signSplit << iter_split << endl;
-		logfile << "splitCenter=" << signSplit << iter_split << endl;
+		cout << "splitCenter=" << signSplit << " num_words_=" << num_words_ << endl;
+		logfile << "splitCenter=" << signSplit << " num_words_=" << num_words_ << endl;
 
 		if (iter_split < split_stop_iteration_)
 			getCodebook(vec_inputFile, path, iter_split + 1);
@@ -312,22 +330,39 @@ float CCodebook::updata(vector<string> &vec_inputFile, string path)
 	float sum = 0;
 	int num = 0;
 	cov_ = Mat::zeros(num_words_, 1, CV_32FC1);
-
+	int num_point = 0;
 	for (int file_i = 0; file_i < num_file; file_i++)
 	{
 		string::size_type pos1 = vec_inputFile[file_i].rfind("\\");
 		string::size_type pos2 = vec_inputFile[file_i].rfind(".");
 		string fileName = vec_inputFile[file_i].substr(pos1 + 1, pos2 - pos1 - 1) + ".bin";
 
-		CSIFTDescription description;
-		description.loadDescription(path + "\\" + fileName);
+		CDescription *description = new CDescription();
+		if (path.find("sift") != string::npos)
+		{
+			delete description;
+			description = new CSIFTDescription();
+		}
+		else if (path.find("hoc") != string::npos)
+		{
+			delete description;
+			description = new CHoCDescription();
+		}
+		else
+		{
+			cout << "error in the type of codebook, it should be hoc or sift" << endl;
+			logfile << "error in the type of codebook, it should be hoc or sift" << endl;
+			exit(0);
+		}
+		//CSIFTDescription description;
+		description->loadDescription(path + "\\" + fileName);
 
-		int rows = description.mat_description_.rows;
+		int rows = description->mat_description_.rows;
 		for (int r = 0; r < rows; r++)
 		{
-			Mat mat_row = description.mat_description_.row(r);
+			Mat mat_row = description->mat_description_.row(r);
 
-			int index = description.indexCodebook_[r];
+			int index = description->indexCodebook_[r];
 
 		
 			float distance = (mat_row - codebook_[index]).dot((mat_row - codebook_[index]));
@@ -336,13 +371,23 @@ float CCodebook::updata(vector<string> &vec_inputFile, string path)
 			sum += distance;
 			num += 1;
 		}
+
+		num_point += description->KeyPoint_loc_.size();
+
+		delete description;
+		if (num_point > max_point_)
+		{
+			std::cout << "num_point > max_point_ : " << num_point << ">" << max_point_ << std::endl;
+			logfile << "num_point > max_point_ : " << num_point << ">" << max_point_ << std::endl;
+			break;
+		}
 	}
 
 	cov_ = cov_ / num_sum_;
 	
 	return sum / num;
 }
-bool CCodebook::splitCenter(vector<string> &vec_inputFile)
+bool CCodebook::splitCenter()
 {
 	bool result = false;
 	vector<int> index_del;
@@ -484,7 +529,7 @@ void CCodebook::loadCodebook(string fileName)
 	outfileTxt.close();*/
 }
 
-void CCodebook::matchCodebook(vector<string> &vec_inputFile)
+void CCodebook::matchCodebook(vector<string> &vec_inputFile, string path)
 {
 	int num_file = vec_inputFile.size();
 	for (int file_i = 0; file_i < num_file; file_i++)
@@ -493,15 +538,31 @@ void CCodebook::matchCodebook(vector<string> &vec_inputFile)
 		string::size_type pos2 = vec_inputFile[file_i].rfind(".");
 		string fileName = vec_inputFile[file_i].substr(pos1 + 1, pos2 - pos1 - 1) + ".bin";
 
-		CSIFTDescription description;
-		description.loadDescription(SIFT_DESCRIPTION_PATH + "\\" + fileName);
+		CDescription *description = new CDescription();
+		if (path.find("sift") != string::npos)
+		{
+			delete description;
+			description = new CSIFTDescription();
+		}
+		else if (path.find("hoc") != string::npos)
+		{
+			delete description;
+			description = new CHoCDescription();
+		}
+		else
+		{
+			cout << "error in the type of codebook, it should be hoc or sift" << endl;
+			logfile << "error in the type of codebook, it should be hoc or sift" << endl;
+			exit(0);
+		}
+		description->loadDescription(path + "\\" + fileName);
 
 		if (dimision_ == 0)
 		{
-			dimision_ = description.mat_description_.cols;
+			dimision_ = description->mat_description_.cols;
 		}
 
-		if (dimision_ != description.mat_description_.cols)
+		if (dimision_ != description->mat_description_.cols)
 		{
 			std::cout << "(void CSIFT_Recognition::getCoodbook(vector<string> &vec_inputFile)) error in the dimision" << std::endl;
 			logfile << "(void CSIFT_Recognition::getCoodbook(vector<string> &vec_inputFile)) error in the dimision" << std::endl;
@@ -511,7 +572,7 @@ void CCodebook::matchCodebook(vector<string> &vec_inputFile)
 		if (file_i % 100 == 0)
 			cout << "matchCodebook..." << file_i << " : " << num_file << endl;
 		logfile << "matchCodebook..." << file_i << " : " << num_file << endl;
-		Mat mat_description = description.mat_description_;
+		Mat mat_description = description->mat_description_;
 
 		int num_data = mat_description.rows;
 
@@ -530,11 +591,11 @@ void CCodebook::matchCodebook(vector<string> &vec_inputFile)
 				}
 
 			}
-			description.indexCodebook_[r] = min_index;
+			description->indexCodebook_[r] = min_index;
 		}
 
-		description.saveDescription(SIFT_DESCRIPTION_PATH + "\\" + fileName);
-
+		description->saveDescription(path + "\\" + fileName);
+		delete description;
 		if (file_i % 100 == 0)
 			cout << "matchCodebook complete" << file_i << " : " << num_file << endl;
 		logfile << "matchCodebook complete" << file_i << " : " << num_file << endl;

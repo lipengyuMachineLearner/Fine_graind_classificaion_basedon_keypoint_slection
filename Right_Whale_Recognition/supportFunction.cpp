@@ -104,3 +104,10 @@ void cheackPath(string path)
 	}
 	FindClose(hFind);
 }
+
+string int2str(int val)
+{
+	char buf[64] = "";
+	_snprintf(buf, sizeof(buf) - 1, "%d", val);
+	return buf;
+}

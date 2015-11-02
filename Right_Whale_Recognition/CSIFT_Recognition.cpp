@@ -2,12 +2,12 @@
 
 void saveMat(Mat mat_data, string str_outputfile);
 void loadMat(Mat &mat_data, string str_inputfile);
-
+string int2str(int val);
 CSIFT_Recognition::CSIFT_Recognition() 
 	:codebookSIFT_(NUM_WORDS_SIFT, KMEANS_STOP_ITERATION_SIFT, KMEANS_STOP_THRESHOLD_SIFT, SPLIT_STOP_ITERATION_SIFT,
-	SPLIT_THRESHOLD_SIFT, MIN_INTIAL_SIFT, MAX_INTIAL_SIFT),
+	SPLIT_THRESHOLD_SIFT, MIN_INTIAL_SIFT, MAX_INTIAL_SIFT, MAX_NUM_POINT_SIFT),
 	CCodebookHoC_(NUM_WORDS_HOC, KMEANS_STOP_ITERATION_HOC, KMEANS_STOP_THRESHOLD_HOC, SPLIT_STOP_ITERATION_HOC,
-	SPLIT_THRESHOLD_HOC, MIN_INTIAL_HOC, MAX_INTIAL_HOC)
+	SPLIT_THRESHOLD_HOC, MIN_INTIAL_HOC, MAX_INTIAL_HOC, MAX_NUM_POINT_HOC)
 {
 	logfile.open("CSIFT_Recognition_logfile.txt");
 }
@@ -21,13 +21,13 @@ void CSIFT_Recognition::train(vector<string> &vec_inputFile)
 
 	cout << "HoC CodeBook getting..." << endl;
 	logfile << "HoC CodeBook getting..." << endl;
-	codebookSIFT_.getCodebook(vec_inputFile, HoC_DESCRIPTION_PATH, 0);
+	CCodebookHoC_.getCodebook(vec_inputFile, HoC_DESCRIPTION_PATH, 0);
 	cout << "HoC CodeBook getting complete" << endl;
 	logfile << "HoC CodeBook getting complete" << endl;
 
 	cout << "HoC CodeBook saving..." << endl;
 	logfile << "HoC CodeBook saving..." << endl;
-	codebookSIFT_.saveCodebook(CODEBOOK_FILE_SIFT);
+	CCodebookHoC_.saveCodebook(CODEBOOK_FILE_HOC);
 	cout << "HoC CodeBook saving complete" << endl;
 	logfile << "HoC CodeBook saving complete" << endl;
 
@@ -44,7 +44,7 @@ void CSIFT_Recognition::train(vector<string> &vec_inputFile)
 	logfile << "SIFT CodeBook saving complete" << endl;*/
 }
 
-void CSIFT_Recognition::test(vector<string> &vec_inputFile)
+void CSIFT_Recognition::test(vector<string> &vec_inputFile, string codebokkFIle, string descriptoPath)
 {
 	/*cout << "SIFT descriptor getting & saving..." << endl;
 	logfile << "SIFT descriptor getting & saving..." << endl;
@@ -54,33 +54,51 @@ void CSIFT_Recognition::test(vector<string> &vec_inputFile)
 
 	cout << "CodeBook loading..." << endl;
 	logfile << "CodeBook loading..." << endl;
+	CCodebookHoC_.loadCodebook(codebokkFIle);
+	cout << "CodeBook loading complete" << endl;
+	logfile << "CodeBook loading complete" << endl;
+
+	cout << "CodeBook matching..." << endl;
+	logfile << "CodeBook matching..." << endl;
+	CCodebookHoC_.matchCodebook(vec_inputFile, descriptoPath);
+	cout << "CodeBook matching complete" << endl;
+	logfile << "CodeBook matching complete" << endl;
+
+	/*cout << "CodeBook loading..." << endl;
+	logfile << "CodeBook loading..." << endl;
 	codebookSIFT_.loadCodebook(CODEBOOK_FILE_SIFT);
 	cout << "CodeBook loading complete" << endl;
 	logfile << "CodeBook loading complete" << endl;
 
 	cout << "CodeBook matching..." << endl;
 	logfile << "CodeBook matching..." << endl;
-	codebookSIFT_.matchCodebook(vec_inputFile);
+	codebookSIFT_.matchCodebook(vec_inputFile, SIFT_DESCRIPTION_PATH);
 	cout << "CodeBook matching complete" << endl;
-	logfile << "CodeBook matching complete" << endl;
+	logfile << "CodeBook matching complete" << endl;*/
 }
 
 void CSIFT_Recognition::keyPoint2Image(vector<string> &vec_inputFile, string path, string savePath)
 {
+
 	map<int, int> R, G, B;
 	int num_file = vec_inputFile.size();
+
+	CvFont font;
+	cvInitFont(&font, CV_FONT_HERSHEY_SIMPLEX | CV_FONT_ITALIC, 0.25, 0.25, 0, 1);
 	for (int file_i = 0; file_i < num_file; file_i++)
 	{
 		IplImage *img_ori = cvLoadImage(vec_inputFile[file_i].c_str(), 1);
-		IplImage *img_resize = cvCreateImage(cvSize(img_ori->width / 4, img_ori->height / 4), img_ori->depth, img_ori->nChannels);
+		IplImage *img_resize = cvCreateImage(cvSize(img_ori->width, img_ori->height), img_ori->depth, img_ori->nChannels);
 		cvResize(img_ori, img_resize);
 		IplImage *img_gray = cvCreateImage(cvSize(img_resize->width, img_resize->height), img_ori->depth, 1);
 		cvCvtColor(img_resize, img_gray, CV_RGB2GRAY);
+		IplImage *img_show = cvCreateImage(cvSize(img_resize->width, img_resize->height), img_ori->depth, 3);
+		cvCvtColor(img_gray, img_show, CV_GRAY2RGB);
 
 		int width = img_resize->width;
 		int height = img_resize->height;
 		int step = img_resize->widthStep;
-		IplImage* redImage = cvCreateImage(cvGetSize(img_resize), img_resize->depth, 1);
+		/*IplImage* redImage = cvCreateImage(cvGetSize(img_resize), img_resize->depth, 1);
 		IplImage* greenImage = cvCreateImage(cvGetSize(img_resize), img_resize->depth, 1);
 		IplImage* blueImage = cvCreateImage(cvGetSize(img_resize), img_resize->depth, 1);
 
@@ -89,11 +107,12 @@ void CSIFT_Recognition::keyPoint2Image(vector<string> &vec_inputFile, string pat
 		cvEqualizeHist(greenImage, greenImage);
 		cvEqualizeHist(blueImage, blueImage);
 		IplImage *img_hist = cvCreateImage(cvSize(img_resize->width, img_resize->height), img_ori->depth, img_ori->nChannels);
-		cvMerge(blueImage, greenImage, redImage, NULL, img_hist);
+		cvMerge(blueImage, greenImage, redImage, NULL, img_hist);*/
 
 		if (file_i % 100 == 0)
-			cout << "SIFT loading..." << file_i << " : " << num_file << endl;
-		logfile << "SIFT loading..." << file_i << " : " << num_file << endl;
+			cout << "DATA loading..." << file_i << " : " << num_file << endl << path << endl;
+		logfile << "DATA loading..." << file_i << " : " << num_file << endl << path << endl;
+
 		CDescription *description = NULL;
 		if (path.find("sift") != string::npos)
 		{
@@ -115,8 +134,8 @@ void CSIFT_Recognition::keyPoint2Image(vector<string> &vec_inputFile, string pat
 		string fileName = path + vec_inputFile[file_i].substr(pos1, pos2 - pos1) + ".bin";
 		description->loadDescription(fileName);
 		if (file_i % 100 == 0)
-			cout << "SIFT loading complete" << file_i << " : " << num_file << endl;
-		logfile << "SIFT loading complete" << file_i << " : " << num_file << endl;
+			cout << "DATA loading complete" << file_i << " : " << num_file << endl;
+		logfile << "DATA loading complete" << file_i << " : " << num_file << endl;
 
 		int num = description->KeyPoint_loc_.size();
 		for (int n = 0; n < num; n++)
@@ -128,16 +147,10 @@ void CSIFT_Recognition::keyPoint2Image(vector<string> &vec_inputFile, string pat
 				G[label] = ((float)rand()) / RAND_MAX * 255;
 				B[label] = ((float)rand()) / RAND_MAX * 255;
 			}
-			if (path.find("sift") != string::npos)
-				cvCircle(img_gray, cvPoint(description->KeyPoint_loc_[n].pt.x, description->KeyPoint_loc_[n].pt.y), 3, CV_RGB(R[label], G[label], B[label]), 1, 8, 3);
-			else if (path.find("hoc") != string::npos)
-				cvCircle(img_hist, cvPoint(description->KeyPoint_loc_[n].pt.x, description->KeyPoint_loc_[n].pt.y), 3, CV_RGB(R[label], G[label], B[label]), 1, 8, 3);
-			else
-			{
-				cout << "error in the type of codebook, it should be hoc or sift" << endl;
-				logfile << "error in the type of codebook, it should be hoc or sift" << endl;
-				exit(0);
-			}
+			
+			cvPutText(img_show, int2str(label).c_str(), cvPoint(description->KeyPoint_loc_[n].pt.x, description->KeyPoint_loc_[n].pt.y), &font, CV_RGB(R[label], G[label], B[label]));
+			//cvCircle(img_gray, cvPoint(description->KeyPoint_loc_[n].pt.x, description->KeyPoint_loc_[n].pt.y), 3, CV_RGB(R[label], G[label], B[label]), 1, 8, 3);
+			
 			
 		}
 		/*Mat outImage;
@@ -145,27 +158,18 @@ void CSIFT_Recognition::keyPoint2Image(vector<string> &vec_inputFile, string pat
 		imshow("outimage",outImage);*/
 
 		
-		//cvShowImage("df", img_show);
-		//cvWaitKey(0);
-		if (path.find("sift") != string::npos)
-			cvSaveImage((savePath + "\\" + vec_inputFile[file_i].substr(pos1, pos2 - pos1) + ".jpg").c_str(), img_gray);
-		else if (path.find("hoc") != string::npos)
-			cvSaveImage((savePath + "\\" + vec_inputFile[file_i].substr(pos1, pos2 - pos1) + ".jpg").c_str(), img_hist);
-		else
-		{
-			cout << "error in the type of codebook, it should be hoc or sift" << endl;
-			logfile << "error in the type of codebook, it should be hoc or sift" << endl;
-			exit(0);
-		}
+
+		cvSaveImage((savePath + "\\" + vec_inputFile[file_i].substr(pos1, pos2 - pos1) + ".jpg").c_str(), img_show);
+
 		
-		cvReleaseImage(&blueImage);
+		/*cvReleaseImage(&blueImage);
 		cvReleaseImage(&greenImage);
 		cvReleaseImage(&redImage);
-		cvReleaseImage(&img_hist);
+		cvReleaseImage(&img_hist);*/
 
 		cvReleaseImage(&img_resize);
 		cvReleaseImage(&img_ori);
-
+		cvReleaseImage(&img_show);
 		delete description;
 	}
 }
@@ -176,7 +180,7 @@ void CSIFT_Recognition::getDescriptor(vector<string> &vec_inputFile)
 	for (int file_i = 0; file_i < num_file; file_i++)
 	{
 		IplImage *img_ori = cvLoadImage(vec_inputFile[file_i].c_str(), 1);
-		IplImage *img_resize = cvCreateImage(cvSize(img_ori->width / 4, img_ori->height / 4), img_ori->depth, img_ori->nChannels);
+		IplImage *img_resize = cvCreateImage(cvSize(img_ori->width, img_ori->height), img_ori->depth, img_ori->nChannels);
 		cvResize(img_ori, img_resize);
 
 		int width = img_resize->width;

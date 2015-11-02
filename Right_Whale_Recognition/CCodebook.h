@@ -19,6 +19,7 @@ private:
 	float split_threshold_;
 	float min_intial_;
 	float max_intial_;
+	int max_point_;
 
 	bool sign_intial_;
 
@@ -30,18 +31,18 @@ private:
 	Mat num_sum_;
 public:
 	CCodebook(int num_words, int kmeans_stop_iteration, float kmeans_stop_threshold,
-		int split_stop_iteration, float split_threshold, float min_intial, float max_intial);
+		int split_stop_iteration, float split_threshold, float min_intial, float max_intial, int max_point);
 	void getCodebook(vector<string> &vec_inputFile, string path, int iter_split);
 	void saveCodebook(string fileName);
 	void loadCodebook(string fileName);
-	void matchCodebook(vector<string> &vec_inputFile);
+	void matchCodebook(vector<string> &vec_inputFile, string path);
 	
 
 private:
 	void codebookIntial(int num_words, int dimision, float min, float max, CDescription &data);
 	void inputData(CDescription &data, string path);
 	float updata(vector<string> &vec_inputFile, string path);
-	bool splitCenter(vector<string> &vec_inputFile);
+	bool splitCenter();
 	bool deleteCenter();
 
 private:
