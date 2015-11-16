@@ -17,7 +17,7 @@ class CSIFT_Recognition
 public:
 	CSIFT_Recognition();
 	void train(vector<string> &vec_inputFile) ; 
-	void keyPoint2Image(vector<string> &vec_inputFile, string path, string savePath);
+	void keyPoint2Image(vector<string> &vec_inputFile, string path, string savePath, bool *uselessHoCPoint, int numHoCPoint);
 	void test(vector<string> &vec_inputFile, string codebokkFIle, string descriptoPath);
 	
 private:

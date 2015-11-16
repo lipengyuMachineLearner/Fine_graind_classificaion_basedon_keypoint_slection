@@ -1,11 +1,11 @@
 #pragma once
 //const int STRID_KEYPOINT = 400;
-const int NUM_WORDS_SIFT = 256;
+const int NUM_WORDS_SIFT = 2048;
 const int KMEANS_STOP_ITERATION_SIFT = 500;
 const float KMEANS_STOP_THRESHOLD_SIFT = 0.01;
-const int MAX_NUM_POINT_SIFT = 800000;
-const int SPLIT_STOP_ITERATION_SIFT = 20;
-const float SPLIT_THRESHOLD_SIFT = 0.02;
+const int MAX_NUM_POINT_SIFT = 1000000;
+const int SPLIT_STOP_ITERATION_SIFT = 25;
+const float SPLIT_THRESHOLD_SIFT = 0.04;
 const float MIN_INTIAL_SIFT = 1 / 128 * 0;
 const float MAX_INTIAL_SIFT = 1 / 128 * 1;
 const string CODEBOOK_FILE_SIFT = "codebook_sift.bin";

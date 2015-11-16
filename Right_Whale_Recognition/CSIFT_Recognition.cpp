@@ -5,15 +5,15 @@ void loadMat(Mat &mat_data, string str_inputfile);
 string int2str(int val);
 CSIFT_Recognition::CSIFT_Recognition() 
 	:codebookSIFT_(NUM_WORDS_SIFT, KMEANS_STOP_ITERATION_SIFT, KMEANS_STOP_THRESHOLD_SIFT, SPLIT_STOP_ITERATION_SIFT,
-	SPLIT_THRESHOLD_SIFT, MIN_INTIAL_SIFT, MAX_INTIAL_SIFT, MAX_NUM_POINT_SIFT),
+	SPLIT_THRESHOLD_SIFT, MIN_INTIAL_SIFT, MAX_INTIAL_SIFT, MAX_NUM_POINT_SIFT, CODEBOOK_FILE_SIFT),
 	CCodebookHoC_(NUM_WORDS_HOC, KMEANS_STOP_ITERATION_HOC, KMEANS_STOP_THRESHOLD_HOC, SPLIT_STOP_ITERATION_HOC,
-	SPLIT_THRESHOLD_HOC, MIN_INTIAL_HOC, MAX_INTIAL_HOC, MAX_NUM_POINT_HOC)
+	SPLIT_THRESHOLD_HOC, MIN_INTIAL_HOC, MAX_INTIAL_HOC, MAX_NUM_POINT_HOC, CODEBOOK_FILE_HOC)
 {
 	logfile.open("CSIFT_Recognition_logfile.txt");
 }
 void CSIFT_Recognition::train(vector<string> &vec_inputFile)
 {
-	cout << "SIFT && HoC descriptor getting & saving..." << endl;
+	/*cout << "SIFT && HoC descriptor getting & saving..." << endl;
 	logfile << "SIFT && HoC descriptor getting & saving..." << endl;
 	getDescriptor(vec_inputFile);
 	cout << "SIFT && HoC descriptor getting complete" << endl;
@@ -29,9 +29,15 @@ void CSIFT_Recognition::train(vector<string> &vec_inputFile)
 	logfile << "HoC CodeBook saving..." << endl;
 	CCodebookHoC_.saveCodebook(CODEBOOK_FILE_HOC);
 	cout << "HoC CodeBook saving complete" << endl;
-	logfile << "HoC CodeBook saving complete" << endl;
+	logfile << "HoC CodeBook saving complete" << endl;*/
 
-	/*cout << "SIFT CodeBook getting..." << endl;
+	cout << "SIFT CodeBook loading..." << endl;
+	logfile << "SIFT CodeBook loading..." << endl;
+	int num_keyWords = codebookSIFT_.loadCodebook(CODEBOOK_FILE_SIFT);
+	cout << "SIFT CodeBook loading complete, num_keyWords=" << num_keyWords << endl;
+	logfile << "SIFT CodeBook loading complete, num_keyWords=" << num_keyWords << endl;
+
+	cout << "SIFT CodeBook getting..." << endl;
 	logfile << "SIFT CodeBook getting..." << endl;
 	codebookSIFT_.getCodebook(vec_inputFile, SIFT_DESCRIPTION_PATH, 0);
 	cout << "SIFT CodeBook getting complete" << endl;
@@ -41,7 +47,7 @@ void CSIFT_Recognition::train(vector<string> &vec_inputFile)
 	logfile << "SIFT CodeBook saving..." << endl;
 	codebookSIFT_.saveCodebook(CODEBOOK_FILE_SIFT);
 	cout << "SIFT CodeBook saving complete" << endl;
-	logfile << "SIFT CodeBook saving complete" << endl;*/
+	logfile << "SIFT CodeBook saving complete" << endl;
 }
 
 void CSIFT_Recognition::test(vector<string> &vec_inputFile, string codebokkFIle, string descriptoPath)
@@ -52,7 +58,7 @@ void CSIFT_Recognition::test(vector<string> &vec_inputFile, string codebokkFIle,
 	cout << "SIFT descriptor getting complete" << endl;
 	logfile << "SIFT descriptor getting complete" << endl;*/
 
-	cout << "CodeBook loading..." << endl;
+	/*cout << "CodeBook loading..." << endl;
 	logfile << "CodeBook loading..." << endl;
 	CCodebookHoC_.loadCodebook(codebokkFIle);
 	cout << "CodeBook loading complete" << endl;
@@ -62,29 +68,29 @@ void CSIFT_Recognition::test(vector<string> &vec_inputFile, string codebokkFIle,
 	logfile << "CodeBook matching..." << endl;
 	CCodebookHoC_.matchCodebook(vec_inputFile, descriptoPath);
 	cout << "CodeBook matching complete" << endl;
-	logfile << "CodeBook matching complete" << endl;
+	logfile << "CodeBook matching complete" << endl;*/
 
-	/*cout << "CodeBook loading..." << endl;
+	cout << "CodeBook loading..." << endl;
 	logfile << "CodeBook loading..." << endl;
-	codebookSIFT_.loadCodebook(CODEBOOK_FILE_SIFT);
+	codebookSIFT_.loadCodebook(codebokkFIle);
 	cout << "CodeBook loading complete" << endl;
 	logfile << "CodeBook loading complete" << endl;
 
 	cout << "CodeBook matching..." << endl;
 	logfile << "CodeBook matching..." << endl;
-	codebookSIFT_.matchCodebook(vec_inputFile, SIFT_DESCRIPTION_PATH);
+	codebookSIFT_.matchCodebook(vec_inputFile, descriptoPath);
 	cout << "CodeBook matching complete" << endl;
-	logfile << "CodeBook matching complete" << endl;*/
+	logfile << "CodeBook matching complete" << endl;
 }
 
-void CSIFT_Recognition::keyPoint2Image(vector<string> &vec_inputFile, string path, string savePath)
+void CSIFT_Recognition::keyPoint2Image(vector<string> &vec_inputFile, string path, string savePath, bool *uselessHoCPoint, int numHoCPoint)
 {
 
 	map<int, int> R, G, B;
 	int num_file = vec_inputFile.size();
 
 	CvFont font;
-	cvInitFont(&font, CV_FONT_HERSHEY_SIMPLEX | CV_FONT_ITALIC, 0.25, 0.25, 0, 1);
+	cvInitFont(&font, CV_FONT_HERSHEY_SIMPLEX | CV_FONT_ITALIC, 0.4, 0.4, 0, 1);
 	for (int file_i = 0; file_i < num_file; file_i++)
 	{
 		IplImage *img_ori = cvLoadImage(vec_inputFile[file_i].c_str(), 1);
@@ -141,6 +147,9 @@ void CSIFT_Recognition::keyPoint2Image(vector<string> &vec_inputFile, string pat
 		for (int n = 0; n < num; n++)
 		{
 			int label = description->indexCodebook_[n];
+			if (uselessHoCPoint[label])
+				continue;
+
 			if (R.find(label) == R.end())
 			{
 				R[label] = ((float)rand()) / RAND_MAX * 255;

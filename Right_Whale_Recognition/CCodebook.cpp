@@ -5,7 +5,7 @@
 
 
 CCodebook::CCodebook(int num_words, int kmeans_stop_iteration, float kmeans_stop_threshold,
-	int split_stop_iteration, float split_threshold, float min_intial, float max_intial, int max_point)
+	int split_stop_iteration, float split_threshold, float min_intial, float max_intial, int max_point, string fileName)
 {
 	num_words_ = num_words;
 	kmeans_stop_iteration_ = kmeans_stop_iteration;
@@ -19,7 +19,7 @@ CCodebook::CCodebook(int num_words, int kmeans_stop_iteration, float kmeans_stop
 	sign_intial_ = true;
 	dimision_ = 0;
 
-	logfile.open("CCodebook_logfile.txt");
+	logfile.open("CCodebook_logfile_" + fileName+".txt");
 }
 void CCodebook::getCodebook(vector<string> &vec_inputFile, string path, int iter_split)
 {
@@ -486,7 +486,7 @@ void CCodebook::saveCodebook(string fileName)
 	outfileTxt.close();*/
 }
 
-void CCodebook::loadCodebook(string fileName)
+int CCodebook::loadCodebook(string fileName)
 {
 	ifstream infileBin;
 	infileBin.open(fileName, ios::binary);
@@ -510,6 +510,7 @@ void CCodebook::loadCodebook(string fileName)
 
 	infileBin.close();
 
+	return num_words_;
 	/*ofstream outfileTxt;
 	outfileTxt.open("codebook2.txt");
 

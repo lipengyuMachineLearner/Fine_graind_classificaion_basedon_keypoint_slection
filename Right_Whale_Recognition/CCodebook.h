@@ -31,10 +31,10 @@ private:
 	Mat num_sum_;
 public:
 	CCodebook(int num_words, int kmeans_stop_iteration, float kmeans_stop_threshold,
-		int split_stop_iteration, float split_threshold, float min_intial, float max_intial, int max_point);
+		int split_stop_iteration, float split_threshold, float min_intial, float max_intial, int max_point, string fileName);
 	void getCodebook(vector<string> &vec_inputFile, string path, int iter_split);
 	void saveCodebook(string fileName);
-	void loadCodebook(string fileName);
+	int loadCodebook(string fileName);
 	void matchCodebook(vector<string> &vec_inputFile, string path);
 	
 
